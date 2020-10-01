@@ -26,6 +26,7 @@ const PROVINCE = 31 // DKI Jakarta
 writer.pipe(fs.createWriteStream('data.csv'));
 
 async function crawl(page = 1) {
+  console.log(`[Fetching] page = ${page}`);
   const data = await axios.get(KEMENPERIN_EXPORTER_URL, {
     ...DEFAULT_AXIOS_PARAMS,
     ...{
@@ -45,10 +46,11 @@ function removeNewLine(text) {
 }
 
 function extractData(htmlString, currentPage) {
+  console.log(`[Extracting] page = ${currentPage}`);
   const $ = cheerio.load(htmlString);
   const rowResults = $('table#newspaper-a tbody tr');
 
-  if (rowResults.find('td').length === 1 || currentPage === 2) {
+  if (rowResults.find('td').length === 1) {
     return writer.end();
   }
 
