@@ -127476,6 +127476,126 @@
         "mag": 3
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.250274,
+          -3.790028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Air Muring, PT",
+        "address": "Jl. Desa Air Muringrt 011/  Rw 05,bengkulu Utara, Bengkulu Utara, Bengkulu",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.250274,
+          -3.790028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Atlas Citra Selaras, PT",
+        "address": "Jl. Soeprapto Dalam No.30, Rt.17 Kel.betungan Kec.selebar, Bengkulu, Bengkulu",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.250274,
+          -3.790028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Batang Hari Bengkulu Pratama, PT",
+        "address": "Jl. Raya Bengkulu Curup Km.15 Kec.karang Tinggi, Bengkulu, Bengkulu",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.37,
+          -3.78
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bukit Angkasa Makmur, PT",
+        "address": "Jl. Raya Bengkulu Curup Km.14 Kembang Seri, Bengkulu Tengah, Bengkulu",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.263875,
+          -3.794502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Eternity",
+        "address": "Jl. Suprapto Dalam Rt 09 Rw 06, Bengkulu, Bengkulu",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.32062,
+          -3.83898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kusuma Raya Utama, PT",
+        "address": "Jl. Re. Martadinata No. 86 Pagar Dewa, Bengkulu, Bengkulu",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.250274,
+          -3.790028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Selamat Group Perkasa",
+        "address": "Jl.  Kalimantan No. 01/02 Bengkulu, Bengkulu, Bengkulu",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.455828,
+          -4.837572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Selo Moro Banyu Arto, PT",
+        "address": "Desa Suka Menanti, Parda Suka, Kaur, Bengkulu",
+        "mag": 3
+      },
+      "type": "Feature"
     }
   ]
 }
