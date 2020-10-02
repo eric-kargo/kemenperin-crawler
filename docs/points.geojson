@@ -119601,6 +119601,2301 @@
         "mag": 1
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3889,
+          -7.7783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ab Brother, CV",
+        "address": "Jl. Flamboyan Gg.renggali No.2 Rt.07 Rw.02 Catur Tunggal Kec.depok, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.383837,
+          -7.688552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Abi Elang Indo, PT",
+        "address": "Jl. Kaliurang Km. 9,3 No.77, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.44028,
+          -7.84028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Adi Satria Abadi, PT",
+        "address": "Jl. Laksda Adisucipto Km 8,5 Kaw Industri Banyakan Sitimulyo Piyungan, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3575,
+          -7.87972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Alam Indah, CV",
+        "address": "Perum Roto Kenongo Asri Blok E-3 Kalipucang, Pendowo Harjo, Sewon, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.38667,
+          -7.81611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aliet Green, CV",
+        "address": "Perum Gambiran Blok C-11 Rt/rw : 031/008, Pandeyan, Umbulharjo, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.383837,
+          -7.688552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aliya Nature Exportindo",
+        "address": "Kwarasan Rt.008 Rw.006, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.381852,
+          -7.693661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Almi Furniture Perdana, PT",
+        "address": "Jl. Kaliurang Km. 8,5, Gandok Ngaglik, Sleman, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33411,
+          -7.88461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Amarta Furniture",
+        "address": "Jl Wates Km 3,5 Kalibayem, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.30778,
+          -7.87
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Amartha Roma, CV",
+        "address": "Watugedug, Guwosari, Pajangan, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.28194,
+          -7.885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ameya Livingstyle Indonesia, PT",
+        "address": "Jl. Gupawarak, Sendangsari, Pajangan, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.34583,
+          -7.89306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anna Craft, CV",
+        "address": "Jl. Telasih Rt.07 Rw.25, Ds. Nogosari, Trirenggo, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.373502,
+          -7.831688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Apikri",
+        "address": "Jl. Imogiri Barat Km.4,5 No.163 A, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.337988,
+          -7.892948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ardana",
+        "address": "Jl.imogiri Barat, Bakung Rt 001,bantul, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33583,
+          -7.82167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Arthaindo",
+        "address": "Tegal Kenongo Rt.01 Rw Viii Tirtonirmolo, Kasihan, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.30778,
+          -7.87
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Asia Trade Perkasa, PT",
+        "address": "Jl. Pemuda Desa Dukuh Rt 04 Guwosari Pajangan, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3575,
+          -7.87972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Asiatik Atmosfer, CV",
+        "address": "Jl. Parangtritis Km 5,5 Perum Graha Yasa Kav F7/8 Sewon, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.365,
+          -7.86889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aunika Java Art, PT",
+        "address": "Dusun Bibis, Bulak Nyamplung, Timbulharjo, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.41,
+          -7.68
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bambu Nusa Verde, PT",
+        "address": "Jl. Mangunan Tebonan, Harjo Binangun , Pakem, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.38861,
+          -7.80778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bina Yasa Adhi Persadha, PT",
+        "address": "Jl. Glagahsari Uh.iv/606 Rt24/06 Warungboto Umbul Harjo, Yogyakarta, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.44028,
+          -7.84028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bintang Alam Semesta, PT",
+        "address": "Banyakan I Sitimulyo Piyungan, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.374666,
+          -7.800656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bmb Eksport, PT",
+        "address": "Jl. Magelang Km.14 Caturharjo, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.383837,
+          -7.688552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bothwell Indonesia, PT",
+        "address": "Jl. Kaliurang Km.10.9, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.39639,
+          -7.81139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Budi Makmur Jaya Murni, PT",
+        "address": "Jl. Paleman No.9 Rejowinangun, Yogyakarta, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.39639,
+          -7.81139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Budi Manunggal, PT",
+        "address": "Jl. Peleman 17 Rejowinangun, Kota Gede, Yogyakarta, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.337988,
+          -7.892948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cakra Ganesha, CV",
+        "address": "Jl. Bantul Km. 6.5 Babadan Pondowoharjo, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.38972,
+          -7.73556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cipta Mitra Selaras, CV",
+        "address": "Jl. Dayu No. 81 B Sinduharjo, Ngaglik, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.355,
+          -7.73639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cita Rona, CV",
+        "address": "Mulungan Wetan Rt.05/rw.17, Sendangadi, Mlati, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.30972,
+          -7.80222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Citra Raharja Utama, PT",
+        "address": "Jl. Jogya-wates Km.9.5 Perengdawe, Ds.balecatur, Kec. Gamping, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.383837,
+          -7.688552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cocoon Asia, PT",
+        "address": "Gang Serayu D-34 Condongsari Ngropoh Rt.006 Rw.062, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.381852,
+          -7.693661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Craftex International, PT",
+        "address": "Nandan Griya Idaman Kav.23 Sariharjo Ngaglik, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.31944,
+          -7.84306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dekor Asia Jayakarya, PT",
+        "address": "Sribitan Rt.01/21 Dk Ix Desa Bangunjiwo, Kec. Kasihan, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33977,
+          -7.660211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Delta Nusantara, PT",
+        "address": "Jl. Raya Magelang, Desa Ngemplak, Caturharjo 55501, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3668,
+          -7.795689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Delta Widjaja Indah, PT",
+        "address": "Kepatihan Industri No.88, Dsn Ngablakrejo Rt.002 Rw.003, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.38306,
+          -7.80639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dewata Classic Teak, CV",
+        "address": "Jl. Raya Krapyak Ringin No.99x,  Ds.krapyak, Kec. Tahunan, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.37917,
+          -7.82361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dewi Mahasadu, PT",
+        "address": "Jl. Sidokabul No.8,sorosutan, Umbulharjo, Yogyakarta, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3689,
+          -7.8103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dewi Puspa Kirana",
+        "address": "Keparakan Lor Mg I/540, Keparakan, Mergangsan, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3289,
+          -7.8881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dian Cipta Sejahtera",
+        "address": "Jl. Bantul Km 6,5 No.158 Nyemengan Rt.005, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.27,
+          -7.79639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Digitone Corporation, PT",
+        "address": "Jl. Raya Wates Km.10 Surobayan Rt/rw 02/29,argomulyo-sedayu, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.30778,
+          -7.87
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dimas Prasetyo Aji",
+        "address": "Perum Guwosari Blok Ix No.37 Kel. Guwosari Kec. Pajangan, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.38389,
+          -7.87
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dipo Andy Muttaqien, Ssn",
+        "address": "Pandes Ii Rt001 Wonokromo, Pleret, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.44028,
+          -7.84028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dong Young Tress Indonesia, PT",
+        "address": "Kawasan Industri Zona Ii  Nganyang Kel. Sitimulyo, Kec. Piyungan, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.449725,
+          -7.776752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Eagle Glove Indonesia, PT",
+        "address": "Dsn Bayen Purwomartini Kalasan, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.383837,
+          -7.688552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Eka Cipta Wahana",
+        "address": "Krasakan Rt/rw 001/013, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33411,
+          -7.88461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Elang Jaya",
+        "address": "Ngasem Rt10 Rw039, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.383837,
+          -7.688552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Eldanes Java Kirana",
+        "address": "Jl. Kaliurang Km 8,5, Perum Dayu Permai B.18 Rt/rw 008/040, Sleman, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.324345,
+          -7.820244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Estika Indonesia, CV",
+        "address": "Nitiprayan 141 A Ds.viii,ngesti Harjo,kasihan, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.36052,
+          -7.827649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Eurindo Citra Mulia",
+        "address": "Jl. Ringroad Selatan, Krapyak Kulon No. 90a, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.36444,
+          -7.80139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Exotic Tropical Rainforest, CV",
+        "address": "Jl. Laksda Adi Sucipto Km 7,5 Santan 7, Yogyakarta, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.41417,
+          -7.82111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Fanti Sulistyaningsih",
+        "address": "Mantup Rt013 Baturetno, Banguntapan, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.374938,
+          -7.781501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gamatechno Indonesia, PT",
+        "address": "Jl. Cik Di Tiro 34, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3769,
+          -7.803784500000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gemilang Intertrade, CV",
+        "address": "Jl. Sultan Agung Ruko 1 Bakulan, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.373502,
+          -7.831688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Habib Leather & Craft, PT",
+        "address": "Imogiri Barat Km 6.7 Ngoto Bangunharjo Sewon, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.35194,
+          -7.845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Halim Pratama, CV",
+        "address": "Jl. Bantul Km. 5 No.438 Dongkelan Panggungharjo Sewon Bantul, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.383837,
+          -7.688552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Handyfill, CV",
+        "address": "Gombang Rt.01/rw.22, Ds.tirtoadi.kec.mlati, Sleman, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.39639,
+          -7.81139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harmoni Jaya Kreasi, PT",
+        "address": "Jl. Gedongkuning No 66 Rejowinangun Kotagede, Yogyakarta, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.36,
+          -7.82
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hasta Mandiri Karya, PT",
+        "address": "Jl. Mangkuyudan 48 Rt.050 Rw.013 Mantrijeron, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.37306,
+          -7.845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hayu Abadi, CV",
+        "address": "Jl. Pramuka No. 79 Bangunharjo, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33411,
+          -7.88461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Herya Wf, PT",
+        "address": "Banyakan Ds.sitimulyo,kec.piyungan, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.39791,
+          -7.81889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hs Silver 800-925, CV",
+        "address": "Jl. Mondorakan I, Kotagede, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.31361,
+          -8.00556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ide Studio Indonesia, PT",
+        "address": "Jl. Parangtritis Km.8 Cabeyan,ds.panggungharjo, Kec.sewon, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.374938,
+          -7.781501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indaroma, CV",
+        "address": "Jl. Cik Di Tiro 28 Terban Gondokusuman, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.37944,
+          -7.91583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indo Extraim, PT",
+        "address": "Jl. Imogiri Timur Km.7.5 Tamanan, Banguntapan, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33889,
+          -7.77306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indo Risakti, PT",
+        "address": "Jl. Godean Km. 5 No.314 B Rt. 10 Rw. 003 Guyangan, Nogotirto, Gamping, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3575,
+          -7.87972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Infiniti Multi Kreasi, PT",
+        "address": "Perum Alam Citra C-20 Cabeyan,panggung Harjo Sewon, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.34083,
+          -7.93889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jason Cipta Sukses, PT",
+        "address": "Jl. Parangtritis Km.16 Dusun Gerselo Patalan Jetis, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.395414,
+          -7.783232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Java Gloves Perdana, PT",
+        "address": "Jl. Solo Km 11 Ds. Kadirojo Ii Purwodadi Kalasan, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33411,
+          -7.88461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jawa Cipta Artikulestari",
+        "address": "Jl. R. Otto Iskandardinata No 72. Dk Nyangkringan, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.373502,
+          -7.831688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jedok, CV",
+        "address": "Jl. Imogiri Barat Km. 4 Bangunharjo-sewon, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3769,
+          -7.803784500000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jogja Kelapamas",
+        "address": "Jl. Sultan Agung R-1 Bakulan Wetan, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.36444,
+          -7.80139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Hidup Sentosa, CV",
+        "address": "Jl. Magelang No. 144 Ploughs, Yogyakarta, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.373502,
+          -7.831688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Wahana Sentosa",
+        "address": "Jl. Imogiri Barat  Km. 17  Bungas Bantul, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33411,
+          -7.88461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kayu Manis, CV",
+        "address": "Desa Mororejo Kaliwungu, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3575,
+          -7.87972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kharisma Eksport, PT",
+        "address": "Jl. Parangtritis Km 4,5, Druwo Bangun Harjo, Sewon, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.449725,
+          -7.776752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kiho Bali Korin, PT",
+        "address": "Ds Babadan Kel. Purwokartani,kec.kalasan Purwomartani Kalasan, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.368827,
+          -7.740983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kirana Mas Homes, CV",
+        "address": "Jl Solo-yogyakarta Km 13 004/02 Glondong, Sleman, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.383837,
+          -7.688552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Koendang Buwono",
+        "address": "Tambakan Rt 003/ Rw 010, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.41944,
+          -7.83556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Komitrando - Emporio, PT",
+        "address": "Jl. Wonosari Km. 8 Potorono Banguntapan, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.373502,
+          -7.831688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kooc Kreasi, PT",
+        "address": "Jl. Imogiri Barat Km.5 N0.4 Tlajuk Wojo Bangunharjo, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3676,
+          -7.7028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kusuma Sandang Mekarjaya",
+        "address": "Jl. Raya Wates Km 7,4 Ngentak, Sleman, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.373502,
+          -7.831688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lawas, Ud.",
+        "address": "Jl. Imogiri Barat Km.4 No.167, Dk Randubelang, Bangunharjo Sewon, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.44667,
+          -7.81278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lezak Nesia Jaya, PT",
+        "address": "Noyokerten Rt. 04 Rw. 38 Sendangtirto Berbah, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.365,
+          -7.86889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Limase Laras, CV",
+        "address": "Sudimoro Ds. Timbulharjo Ke. Sewon, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.4342,
+          -7.8186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "M Joint Exclusive Leather Craf, PT",
+        "address": "Psr Klondangan Rt. 02 Rw. 26 Sendang Tirto Berbah, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.41167,
+          -7.82639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Maju Karya Sentosa, CV",
+        "address": "Jl. Jeruk Legi No. 548a Rt. 13 Rw. 35 Banguntapan, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33411,
+          -7.88461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Maleha, PT",
+        "address": "Jl. Parang Tritis Km. 4,5, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.383837,
+          -7.688552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Marel Sukses Pratama, PT",
+        "address": "Jl. Baru Mulungan Gondang Penen Rt. 5 Rw. 28 Sendangadi Melati, Sleman, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.38333,
+          -7.68278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mataram Tunggal Garment, PT",
+        "address": "Dusun Balong Desa Donoharjo,kec.ngagli, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.40389,
+          -7.84833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Matsuno Glove Indonesia Jaya, PT",
+        "address": "Wirokerten Rt 07, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.374666,
+          -7.800656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Max, CV",
+        "address": "Jl.sugeng Jeroni No.2, Yogyakarta, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.45833,
+          -7.76806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mega  Andalan Kalasan, PT",
+        "address": "Jl. Tanjungtirto Kalasan Km.13/34 Gendingan Tirtomartani, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.575,
+          -7.98222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Meylasari",
+        "address": "Blimbing, Rt 11, Rw 05, Karangrejek, Wonosari, Gunung Kidul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.371879,
+          -7.80021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mirota Persada",
+        "address": "Jl. Faridan M. Noto 7, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.383837,
+          -7.688552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mokken Citarona",
+        "address": "Krandon, Warak Lor Iii, Sleman, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.36444,
+          -7.80139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Muara Kayu Sengon, PT",
+        "address": "Jl. Raya Lesmana - Ajibarang Km 3 No 6 Rt 04 Rw 03 Ds. Lesmana Kec Aji, Yogyakarta, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.39791,
+          -7.81889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nartis Silver",
+        "address": "Jl. Tegalgendu No. 22 Kotagede, Yogyakarta, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33411,
+          -7.88461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Natural House",
+        "address": "Jl. Beton, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.39028,
+          -7.78861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Natural Javaindo, CV",
+        "address": "Demangan Kidul Gk I No.17, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.326925,
+          -7.804396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Natural Nusantara, PT",
+        "address": "Jl. Ring Road Barat No. 72 Rt.008 Rw.026, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.27,
+          -7.79639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Navil Natural, PT",
+        "address": "Jl.pedes Km 2 Panggang, Argomulyo, Sedayu, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3575,
+          -7.87972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nexton, PT",
+        "address": "Perum Puri Sewon Asri Blok L Pangung Harjo Sewon, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33889,
+          -7.77306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Niaga Merapi, PT",
+        "address": "Jl. Ringroad Barat Cambahan Nogotirto Gamping, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33411,
+          -7.88461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Omah Djawa Design",
+        "address": "Tegalsari Dk, Geneng Rt. 01, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33411,
+          -7.88461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Out Of Asia, PT",
+        "address": "Jl. Parang Tritis Km. 8,5, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.361743,
+          -7.764998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Padma Citra Amahi, PT",
+        "address": "Donokerto Turisleman, Donokerto, Turi, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.371879,
+          -7.80021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pagilaran, PT",
+        "address": "Jl. Faridan M Noto No. 11, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.36444,
+          -7.80139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Palem Craft Jogja, CV",
+        "address": "Jl. Kh. A. Dahlan No. 8, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.383837,
+          -7.688552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pandanus Internusa, CV",
+        "address": "Jl. Kenanga No. 251, Sambilegi, Sleman, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.31361,
+          -8.00556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Paradise Island Furniture, PT",
+        "address": "Jl. Parangtritis Km. 7 Cabeyan Rt. 04 Rw. 06, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.41333,
+          -7.66028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Paragon International, CV",
+        "address": "Sempol Rt. 003/014 Caturharjo Pakem, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.37222,
+          -7.89917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Perwita Karya, PT",
+        "address": "Jl. Diponegoro No. 54 Kel.gowongan Kec. Jetis, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33411,
+          -7.88461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pesona Bintang Utama, PT",
+        "address": "Tambak, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33411,
+          -7.88461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pondok Daun, CV",
+        "address": "Jl. Hasyim Ashari Rt. 6 Soropaten Ringinharjo, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.37917,
+          -7.82361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prestige Furniture, CV",
+        "address": "Jl. Lowanu No.68 - 72 Kel. Sorosutan Kec. Umbulharjo, Yogyakarta, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33778,
+          -7.78556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Quira Terrastika, PT",
+        "address": "Jl. Wates Km. 4 Pathuk Banyuraden Gamping, Sleman, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.49,
+          -7.75
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Raja Gajah Oya, PT",
+        "address": "Jl. Prambanan Piyungan Km. 3,5 Bokoharjo S, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.36444,
+          -7.80139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rapi Furniture, CV",
+        "address": "Jl. Sabirin 18, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33411,
+          -7.88461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Robin Wood Indonesia",
+        "address": "Pedukuhan Kalangan Rt 002, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.360312,
+          -7.834023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Roma Export, PT",
+        "address": "Jl. Ring Road Selatan No.27 Palemsewu,panggungharjo,sewon, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.414452,
+          -7.880134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Samku Glove Indonesia, PT",
+        "address": "Jl. Pleret,ds.demangan/gunungan Kel.jambidan/pleret Kec.banguntapan, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33667,
+          -7.73722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Furniture, CV",
+        "address": "Gandekan Rt. 01 Rw. 09 Desa Tlogoadi Kec. Mlati Kab. Sleman Di Yogya, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.373502,
+          -7.831688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Satu Bumi",
+        "address": "Jalan Imogiri Barat  Km4 / No58, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3676,
+          -7.7028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Semesta Esensia",
+        "address": "Jl. Kaliurang Km. 8,5 Rt. 07 Rw. 40 Perum Dayu Permai Blok B. 18 Sleman, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3769,
+          -7.803784500000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Siji Lifestyle, PT",
+        "address": "Jl. Sultan Agung Dk.kweden, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.449725,
+          -7.776752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Albasia Utama, CV",
+        "address": "Dn. Babadan Rt. 006 Rw. 002 Purwomartani Kalasan, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.33778,
+          -7.78556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Kencana Makmur Jaya, PT",
+        "address": "Jl. Ringroad Brt Rt. 008 Rw. 15 Banyuraden Gamping, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.36444,
+          -7.80139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Obor, PT",
+        "address": "Jl. Ireda No. 53, Yogyakarta, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.25861,
+          -7.805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sk Glove Indonesia, PT",
+        "address": "Jl. Dusun Sedayu Argosari, Sedayu 55752, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.365,
+          -7.86889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Snr Ekspor Furindo, CV",
+        "address": "Jl. Parangtritis Km. 8,5 Dadapan, Ds. Timbulharjo, Kec. Sewon, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.334998,
+          -7.845049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Solution Export, CV",
+        "address": "Kasongan Tirtonirmolo Kasihan, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.34722,
+          -7.71194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Supratik Suryamas, PT",
+        "address": "Jl. Salakan Desa Durenan (jl. Magelang Km.12), Kel. Tridadi, Kec. Sleman, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.4192,
+          -7.6681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Takii Indonesia, PT",
+        "address": "Jl. Kaliurang Km.18, Padasan, Duwetsari, Kel. Pakem Binangun, Kec. Pakem, Sleman, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.31889,
+          -7.79944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Talaindo Interior, PT",
+        "address": "Jl. Gamping Tengah, Rt.02/20, Dsn. Patukan, Kel. Ambarketawang, Kec. Gamping, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.38,
+          -7.79
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Taru Martani, Pd.",
+        "address": "Jl. Kompol B.suprapto No.2a, Kel.baciro, Kec.gondokusuman, 55225, Yogyakarta, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.35,
+          -7.87
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Teak Temptation, PT",
+        "address": "Jl. Parangtritis Km 8, Dadapan Rt. 08, Kel.parangtritis, Kec.kretek, 55186, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.324345,
+          -7.820244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Thasinda Putraprima, CV",
+        "address": "Jl. Bibis Ds.kulon Gangin, Kel. Taman Tirto Kec. Kasihan, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.373502,
+          -7.831688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Thekku Art, PT",
+        "address": "Jl. Imogiri Barat Km.6,5 Bakung No.40 Rt.05, Kel.bangunharjo, Kec.sewon, Bantul, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.334998,
+          -7.845049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Timboel, PT",
+        "address": "Tirto/kasongan Rt.06/rw.45, Kel.bangunjiwo, Kec.kasihan, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.374666,
+          -7.800656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Titon Garment & Craft, CV",
+        "address": "Jl. Minggiran Mj I/1627, Kel.suryodiningratan, Kec.mantrijeron, Yogyakarta, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.31944,
+          -7.84306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Toba, CV",
+        "address": "Kajen Rt.06, Kel. Bangunjiwo, Kec. Kasihan, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.393919,
+          -7.738247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tonni Suryoputro",
+        "address": "Jl.kaliurang Km 14, Kavling Uii C-34 Ds.sukoharjo, Sleman, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.381852,
+          -7.693661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tumutu Pulung Jaya, CV",
+        "address": "Desa Krikilan Dn.11 No. 83 Kel. Sariharjo Kec. Ngaglik, Sleman, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.27,
+          -7.79639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tunas Jaya Abadi, CV",
+        "address": "Srontakan Rt.03 Rw.09 Kel. Argomulyo, Kec. Sedayu, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.31944,
+          -7.84306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Unique Idea Creation, PT",
+        "address": "Lemah Dadi Rt. 3 Kel. Bangunjiwo Kec. Kasihan, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.41306,
+          -7.79694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wana Awet Mas, PT",
+        "address": "Jl. Pertanian 382 Tegalmulyo Banguntapan Rt.11 Rw.21 Banguntapan 55198, Yogyakarta, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.575,
+          -7.98222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wanghort Pratama Lestari, PT",
+        "address": "Jl. Raya Wonosari - Semanu Km.3,5  Ds. Wukirsari, Baleharjo, Wonosari 55891, Gunung Kidul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.34,
+          -7.68
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Westa Pusaka Kusuma, PT",
+        "address": "Jl. Magelang Km.16, Triharjo 55514, Sleman, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.3289,
+          -7.8881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wira Mulya, CV",
+        "address": "Jl. Raya Bantul Km. 10 Melikan Lor Klodran, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.41306,
+          -7.79694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yanis Gallery, CV",
+        "address": "Pelemwulung 105 Rt 4 Rw 43 Banguntapan 55198, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.41167,
+          -7.82639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yogya Indo Global, PT",
+        "address": "Jl. Ring Road Timur No 239 Ds Suntenbaru Rt.10 Rw.03 Kecamatan Banguntapan, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.37944,
+          -7.91583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yogya Karya Andini, CV",
+        "address": "Jl. Imogiri Timur Km.8 Glagah Kidul Tamanan Banguntapan, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.470516875,
+          -7.768443875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yokya Presisi Tehnikatama Industri, PT",
+        "address": "Dhuri,tirtomartani, Kalasan 55571, Sleman, D.I. Yogyakarta",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.405725,
+          -7.819316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yuka, CV",
+        "address": "Jl. Gedong Kuning Selatan 126b, Gedongan Baru, Banguntapana 55198, Bantul, D.I. Yogyakarta",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.399039,
+          -7.834649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Zamrud Java Teak, PT",
+        "address": "Kemasan Rt. 01 Rw. 03, Singosaren, Banguntapan 55198, Bantul, D.I. Yogyakarta",
+        "mag": 2
+      },
+      "type": "Feature"
     }
   ]
 }
