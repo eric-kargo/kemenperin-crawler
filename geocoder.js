@@ -19,7 +19,7 @@ writer.pipe(fs.createWriteStream('address.csv'));
 function readData() {
   const results = [];
   return new Promise((resolve, reject) => {
-    fs.createReadStream('data.csv')
+    fs.createReadStream('dirty.csv')
       .pipe(csv())
       .on('data', (data) => results.push(data))
       .on('end', () => {
@@ -44,7 +44,7 @@ async function getLatLngFromAddress({address, companyName} = {}) {
       address,
       center[0],
       center[1],
-    ])
+    ]);
     return center;
   } catch (error) {
     console.error(error)
@@ -57,7 +57,7 @@ async function generate() {
   const address = data.map(item => ({
     address: item.Address,
     companyName: item["Company Name"],
-  })).slice(0, 2);
+  }));
 
   const latLngFetch = address.map(item => getLatLngFromAddress(item));
   await Promise.all(latLngFetch);
