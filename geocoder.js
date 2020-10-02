@@ -19,7 +19,7 @@ writer.pipe(fs.createWriteStream('address.csv'));
 function readData() {
   const results = [];
   return new Promise((resolve, reject) => {
-    fs.createReadStream('dirty.csv')
+    fs.createReadStream('data.csv')
       .pipe(csv())
       .on('data', (data) => results.push(data))
       .on('end', () => {
