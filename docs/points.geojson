@@ -158721,6 +158721,3561 @@
         "mag": 1
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.12,
+          -2.14
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Alam Lestari Kencana, PT",
+        "address": "Jl. Tpi Ketapang, Ait Itam, Bukit Intan,  33149, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.12,
+          -1.85
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Artha Cipta Langgeng, PT",
+        "address": "Tpa Lingkungan Kenanga Permai Kenanga Sungailiat, Bangka, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.75,
+          -2.75
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Asia Kaolinraya, PT",
+        "address": "Jl. Raya Badau Km.12 Desa Buluh Tumbang Tanjung Pandan, Belitung, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.12,
+          -1.85
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Atd Makmur Mandiri, PT",
+        "address": "Kawasan Industri Dan Pelabuhan Air Katung Jelitik Sungailiat, Bangka, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.107183,
+          -1.847043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ayi Jaya, PT",
+        "address": "Jl. Pelabuhan Perikanan, Kawasan Industri Jelitik, Bangka, Kepulauan Bangka Belitung",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.13,
+          -2.16
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bangka Alam Sejahtera, PT",
+        "address": "Jl. Koba No. 637 Kampung Dul Pangkalan Baru, Bangka Tengah, Kepulauan Bangka Belitung",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.1,
+          -2.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bangka Buana Internasion, PT",
+        "address": "Jl. Jend. Sudirman No.6, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.107183,
+          -1.847043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bangka Kuda Tin, PT",
+        "address": "Jl. Sisingamaraja Parit 7 No. 75, Kudai Suangailiat, Bangka, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.16,
+          -2.15
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bangka Putra Karya, PT",
+        "address": "Jl. Tpi Air Ketapang Air Itam, Kawasan Industri, Ketapang Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.12,
+          -2.14
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bangka Timah Utama Sejahtera, PT",
+        "address": "Jl. Pasir Ketapang Kel. Air Itam, Kec. Bukit Intan, 33149, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.12,
+          -1.85
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bangka Tin Industry, PT",
+        "address": "Kawasan Industri Jelitik Sungailiat, Bangka, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.7,
+          -2.86667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Billiton Plywood, PT",
+        "address": "Jl. Depati Endek No. 743 Rt.004 Rw.001, Belitung, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.8,
+          -2.8333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Billiton Rubber Industry, PT",
+        "address": "Jl. Raya Badau Km.11 Rt.006 Rw. 002 Dusun Perawas Ii, Belitung, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.173885,
+          -2.118073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bukit Timah, PT",
+        "address": "Jl. Ketapang Kawasan Industri Pangkal Pinang, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.173885,
+          -2.118073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ds Jaya Abadi, PT",
+        "address": "Jl. Raya Ketapang Kawasan Industri Pangkal Pinang, Bacang , Bukit Intan, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.7,
+          -2.86667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Duta Buana Pacific",
+        "address": "Jl. Re Martadinata Rt/rw 007/002, Belitung, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.88333,
+          -1.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Fajar Berseri, PT",
+        "address": "Jl. Pltu Dusun Mudel Kec.merawang, Bangka, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.1,
+          -1.87
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gita Pesona, CV",
+        "address": "Duyung Raya Perumnas Btn Air Buai Karya Makmur Pemali, Bangka, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.5,
+          -3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indobhakti Makmur, PT",
+        "address": "Jl. Jend.sudirman No.32 Toboali, Bangka Selatan, Kepulauan Bangka Belitung",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.7,
+          -2.86667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Justindo, PT",
+        "address": "Dusun Ilir Rt. 12 Rw. 06, Belitung, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.128048,
+          -2.098215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karini Utama, PT",
+        "address": "Jl. Syahfri Rachman Km. 3  Crumb Rubber Factory Po Box 234, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.74,
+          -3.01
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Keranji Jaya Utama",
+        "address": "Jl. Raya Sadai,bangka Selatan, Bangka, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.1,
+          -2.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Laris Jaya, Pd.",
+        "address": "Jl. Liong Boen No. 71, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.75,
+          -2.75
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Laut Jaya, CV",
+        "address": "Jl. Re Martadinata Tanjung Pandan, Belitung, Kepulauan Bangka Belitung",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.66,
+          -2.75
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Litin Makmur Lestari, PT",
+        "address": "Jl. Jend. Sudirman Rt.19 Rw.08 Lesung Batang, Belitung, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.113292,
+          -2.133877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Makro Jaya Lestari, PT",
+        "address": "Jl. Pasar Lama No. 18 Pangkal Pinang, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.75,
+          -2.75
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nelayan Mitra Mandiri, PT",
+        "address": "Jl. Re. Martadinata Tanjung Pandan, Belitung, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.13,
+          -2.16
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Panen Baru, CV",
+        "address": "Jl. Koba No. 76a Kampung Dul Pangkalan Baru, Bangka Tengah, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.16,
+          -2.15
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prima Timah Utama, PT",
+        "address": "Jl. Ketapang Air Itam Bukit Intan Kawasan Industri, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.11,
+          -1.89
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Refined Bangka Tin, PT",
+        "address": "Jl. Kawasan Industri Jelitik Kec,sungai Liat, Bangka, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.12,
+          -2.14
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sariwiguna Bina Sentosa, PT",
+        "address": "Jl. Ketapang Kawasan Industrial Kec. Bukit Intan, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.635997,
+          -2.733248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Seirama Tin Investment",
+        "address": "Jl.depati Rahat No.42 Rt14/03,belitung, Belitung, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.13,
+          -2.16
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Serumpun Sebalai, CV",
+        "address": "Jl. Manunggal Desa Dul Kampung Dul, Bangka Tengah, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.16,
+          -2.15
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Stainindo Inti Perkasa, PT",
+        "address": "Jl. Ketapang Kawasan Industri Air Itam, Bukit Intan, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.133065,
+          -2.103372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sukardi, CV",
+        "address": "Jl. Ketapang No. 199 Pangkal Balam, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.13,
+          -2.16
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Alam Lestari, CV",
+        "address": "Jl. Koba No.637, Kel. Dul, Kec. Pangkalan Baru, 33147, Bangka Tengah, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.1,
+          -2.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tambang Timah, PT",
+        "address": "Jl. Jend.sudirman No. 51, Kel.opas Indah, Kec.taman Sari, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.09,
+          -2.12
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Timah (persero) Tbk, PT",
+        "address": "Jl. Jendral Sudirman No.51 Kel.opas Indah, Kec.taman Sari, 33121, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.09,
+          -2.12
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Timah Industri, PT",
+        "address": "Jl. Jendral Sudirman No.51 Kel.opas Indah, Kec.taman Sari, 33121, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.63,
+          -2.02
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Timah Nusantara, PT",
+        "address": "Jl. Tempilang Raya Km.1, Kel.kelapa, Kec.kelapa, Bangka Barat, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.1,
+          -2.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tinindo Internusa, PT",
+        "address": "Jl. A. Yani No. 46, Kec.taman Sari, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.91,
+          -1.73
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tirus Putra Mandiri",
+        "address": "Dusun Tirus No.62, Kel.riau, Kec.riau Silip, Bangka, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.11,
+          -2.14
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "United Smelting, CV",
+        "address": "Jl. Parit Lalang No. 2 Kec. Rangkui, Pangkal Pinang, Kepulauan Bangka Belitung",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.12,
+          -1.85
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Varia Gemilang, CV",
+        "address": "Jl. Raya Sungailiat Belinyu Rt. 006 Rw. 005, Bangka, Kepulauan Bangka Belitung",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.11,
+          -1.89
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Venus Inti Perkasa, CV",
+        "address": "Jl. Singayuda Iv Kel. Parit Padang Kec. Sungai Liat, Bangka, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.64,
+          -2.74
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wadah Lautan Makmur, CV",
+        "address": "Jl. R.e Martadinata Kota Tanjung Pandan, Tanjung Pandan 33411, Belitung, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.7667,
+          -2.5667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yudian Sejahtera",
+        "address": "Jl. Raya Sijuk Km.14 Rt/rw: 18/08,belitung, Belitung, Kepulauan Bangka Belitung",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.377854,
+          0.832249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Antam Tbk Unit Bisnis Perta, PT",
+        "address": "Jl. Batu Angus No. 11, Dufa-dufa, Ternate, Maluku Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.374066,
+          0.769286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gane Permai Sentos, PT",
+        "address": "Jl. Raya Bastiong Kel Bastiong Talangame, Ternate, Maluku Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.107562,
+          0.673708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Haltim  Mining",
+        "address": "Jl. Raya Desa Wailukum Rt.001 Rt/rw. 001/001,halmahera Timur, Halmahera Timur, Maluku Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.590182,
+          1.749093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pacific Ocean Fisheries, PT",
+        "address": "Jl. Desa Buo, Buo, Loloda Selatan, Halmahera Barat, Maluku Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.36667,
+          0.78333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Santo Alvin Pratama, CV",
+        "address": "Kompleks Ppn, Rt 12/03, Ternate, Maluku Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.387126,
+          0.796286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Trimegah Bangun Persada, PT",
+        "address": "Jl. Yasin Gamsungi No. 94 Rt. 003 Rw. 002 Kel. Makassar Timur Kec. Ternate Tengah, Ternate, Maluku Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.01,
+          1.72
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ultranesia, PT",
+        "address": "Ds. Gosoma Kec. Tobelo, Halmahera Utara, Maluku Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.17703,
+          -3.66163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Minatama, Ud.",
+        "address": "Jl. Pari Rt 002 Rw 04 Rumah Tiga Teluk Ambon- 97234, Ambon, Maluku",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.75,
+          -5.62
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Binar Surya Buana, PT",
+        "address": "Jl. Dulan Raya Desa Nipadi Tual, Maluku Tenggara, Maluku",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.771729,
+          -5.580907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Binar Surya Buana, PT",
+        "address": "Jl. Dullah Raya Desa Ngadi, Tual, Tual, Maluku",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.5,
+          -6.16667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dafin Mutiara, PT",
+        "address": "Dobo, Kepulauan Aru, Maluku",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.17,
+          -3.705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Golden - Kk, CV",
+        "address": "Jl. Sultan Hasanuddin Komp.pelabuhan Perikanan Nu, Ambon, Maluku",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.194713,
+          -3.678794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Khatulistiwa Ray Makmur, PT",
+        "address": "Jalan Kebun Cengkeh Rt 003 Rw 017, Ambon, Maluku",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.17,
+          -3.705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mabiru Industries, PT",
+        "address": "Jalan Sultan Hassanudin Ppn, Ambon, Maluku",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.1,
+          -3.7
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Maluku Maya Mandiri, PT",
+        "address": "Jl. Dr. Laemena No. 8 Ds Tawiri Dsn Riang Kec. Teluk Ambon, Ambon, Maluku",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.42996,
+          -3.1027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Manusela Prima Mining, PT",
+        "address": "Jl. Trans Seram, Seram Bagian Barat, Maluku",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.334969,
+          -3.625318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Maritim Timur Jaya, PT",
+        "address": "Jl.raya Dullah Tual Maluku, Tual, Maluku",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.75,
+          -5.64
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Maritim Timur Jaya, PT",
+        "address": "Jl. Dusah Raya Desa Ngadi- Tuai Maluku Tenggara, Maluku Tenggara, Maluku",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.182875,
+          -3.69339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mina Maluku Sejahtera",
+        "address": "Ppi Erie, Rt 007 Rw 002,ambon, Ambon, Maluku",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.29,
+          -3.62
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nusaina Agro Huaulu Manise, PT",
+        "address": "Jl. Salahutu Rt.05/rw.04, Maluku Tengah, Maluku",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.75,
+          -5.64
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nusantara Peartl, Fa.",
+        "address": "Jl. Rajasam, Dobo, Maluku Tenggara, Maluku",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.0867,
+          -3.5823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ollop, PT",
+        "address": "Desa Hila, Kecamatan Leihitu, Maluku Tengah, Maluku",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.17,
+          -3.705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "S & T Mitra Mina Industri, PT",
+        "address": "Jl. Gudang Arang Benteng, Ambon, Maluku",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.75,
+          -5.64
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Surya Buana, PT",
+        "address": "Jl. Dusah Raya Desa Ngadi- Tuai Maluku Tenggara, Maluku Tenggara, Maluku",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.75,
+          -5.62
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Surya Buana, PT",
+        "address": "Jl. Dufan Raya Desa Ngagi Tual Maluku Tenggara, Maluku Tenggara, Maluku",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.078545,
+          -8.572289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Agung Perdana, CV",
+        "address": "Jl. Yos Sudarso  No.102 Ampenan, Mataram, Nusa Tenggara Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.092,
+          -8.582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Autore Pearl Culture, PT",
+        "address": "Jl. Pemuda No. 26 Dasan Agung, 83121, Mataram, Nusa Tenggara Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.621194,
+          -8.562478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bhina Karya Mandiri",
+        "address": "Link. Ijobalit Lauq Rt.006 Rw.002,lombok Timur, Lombok Timur, Nusa Tenggara Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.0375,
+          -8.57444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bima Budidaya Mutiara, PT",
+        "address": "Kp Tolodara 89 Mongonao, Rasanae, Bima, Nusa Tenggara Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.586469,
+          -8.644507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bunda Buana Bakti, Ud.",
+        "address": "Geres Lauq Kelurahan Ijobalit Kec Labuhan Haji, Lombok Timur, Nusa Tenggara Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.621194,
+          -8.562478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cakrawala Dua Benua",
+        "address": "Geres Bagek Elen,lombok Timur, Lombok Timur, Nusa Tenggara Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.11667,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Central Jaya Utama",
+        "address": "Jl.seganteng Indah Raya C-2, Mataram, Nusa Tenggara Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.13333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indocraft And Naturals, PT",
+        "address": "Jl. Lalu Mesir No.27 Babakan Cakranegara, Mataram, Nusa Tenggara Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.11667,
+          -8.71667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indonatura, Ud.",
+        "address": "Dsn.lelede Ds.banyumulek, Kec.kediri, Lombok Barat, Nusa Tenggara Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.12,
+          -8.59
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kai Sun, PT",
+        "address": "Jl. Ismail Marzuki No. 9 Kel. Cilinaya Kec. Cakranegara, Mataram, Nusa Tenggara Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.124,
+          -8.585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lombok Putri Cenderamata, PT",
+        "address": "Jl. Sriwijaya  No. 111a  Cakranegara Barat, Mataram, Nusa Tenggara Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.7066,
+          -8.51446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mp Sape, CV",
+        "address": "Ds O`i Niu, Desa Panda, Bima, Nusa Tenggara Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.735,
+          -8.453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nusa Bajo",
+        "address": "Dusun Nae Bugis Rt .004 Rw. 002, Bima, Nusa Tenggara Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.13333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pandawa Lima, Ud.",
+        "address": "Jl. Rajawali Raya No. 8 Btn Selagalas Cakranegara, Mataram, Nusa Tenggara Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.621194,
+          -8.562478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putra Kembar",
+        "address": "Dusun Geres Lauq Lombok Timur, Lombok Timur, Nusa Tenggara Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.53333,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rempah Organic Lombok, Ud.",
+        "address": "Dewa Soma.ds.sakra.kec.sakra, Lombok Timur, Nusa Tenggara Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.11667,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Shitaratian, PT",
+        "address": "Jl. Magepanda Km. 9 Nangahureewuli Rt. 12 Rw. 08 Alok Barat, Sumba Barat, Nusa Tenggara Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.13333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surya Indah Cakratama, CV",
+        "address": "Jl. Pertanian No.6, Cakranegara, Mataram, Nusa Tenggara Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.54,
+          -8.53
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Takdir",
+        "address": "Dusun Karang Baru, Lombok Timur, Nusa Tenggara Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.16667,
+          -8.725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tirta Mina",
+        "address": "Pulau Rakit, Rt.04/rw.08, C/o Bapak Herman, Ds.labuan Jambu, Kec. Tarano, Sumbawa, Nusa Tenggara Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "8 Jaya, Tk.",
+        "address": "Terminal Kefa, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.47806,
+          -9.44667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "9 Jaya, Tk.",
+        "address": "Terminal - Kefa Ttu, Timor Tengah Utara, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.6194,
+          -10.1499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Alam Timor Indah, CV",
+        "address": "Jl. Hans Kapitan No.4b Kel Kelapa Lima, Kupang, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anissa, Pa.",
+        "address": "Jl. Raikatar Rt 01/ 01 Kukuluk Mesak, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Arclysel, CV",
+        "address": "Jl. Meo Baru Tenukik Atambua Belu, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Argres, Tk.",
+        "address": "Jl. Lolowa Lidak, Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aries Jaya, PT",
+        "address": "Jl. Pramuka Beirafu,atambua-belu, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aries Jaya, Ud.",
+        "address": "Jl. Pramuka Beirafu Atambua Belu, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Asia, Ud.",
+        "address": "Jl. Merdeka Rt.02/04,atambua-belu, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.278,
+          -9.7243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Asri Asdin, Ks.",
+        "address": "Des. Obesi Rt.005 Rw.002 Mollo Utara - Tts, Timor Tengah Selatan, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Atibo, CV",
+        "address": "Lesupu Rt 15 / 05 Manumutin Atambua - Belu, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.600098,
+          -10.153596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Auto Nusa Abadi, CV",
+        "address": "Jl. Timor Raya No.78 Kel Pasir Panjang, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.64255,
+          -10.20718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Becca Wijaya, Ud.",
+        "address": "Rt. 25/08 Kel. Kolhua, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.903429,
+          -9.054578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bele-bele, Ud.",
+        "address": "Bautasik Rt 05/05 Kabuna Kukuluk Mesak Belu, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Belu Mulia, Ud.",
+        "address": "Jl. Pramuka Rt.018/rw.006 Beirafu - Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.896622,
+          -8.994677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Berkat Usaha, Ks.",
+        "address": "Makfao Kenebibi K. Mesak, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.5992,
+          -10.1678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bhakti Citra Abadi, CV",
+        "address": "Jl. Wolter Mongisidi Ruko Lontar Permai Blok A/28 Oebobo Fatululi, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.59028,
+          -10.16361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bhakti Citra Abadi, CV",
+        "address": "Jl. Wolter Monginsidi, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bintang Baru, Tk.",
+        "address": "Terminal - Kefa Ttu, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.57
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bintang Malaka, CV",
+        "address": "Betun Rt.011/rw.004 - Wehali - Malaka Tengah, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bintang Terang, Ud.",
+        "address": "Jl. Pramuka - Per Baru Pocket Camera, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.47806,
+          -9.44667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bmw Cellular, Tk.",
+        "address": "Jl. El Tari - Kefa Selatan, Timor Tengah Utara, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.64137,
+          -10.14915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bunga Lontar",
+        "address": "Jl. Mone Rt. 22/08 Oesapa Kelapa Lima, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Baru, Tk.",
+        "address": "Jl. Sudirman No. 4 Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9075,
+          -9.56722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Surya, Ud.",
+        "address": "Betun - Malaka Tengah, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9075,
+          -9.56722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Surya, Ud.",
+        "address": "Betun - Malaka Tengah Belu - Ntt Malaka, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9075,
+          -9.56722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Surya, Ud.",
+        "address": "Betun - Malaka Tengah, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Casangi, Ud.",
+        "address": "Fatubenao - Atambua - Belu - Ntt, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.891882,
+          -9.276341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cendana, Ks.",
+        "address": "Webubur Rt 01/10 Naitimu Tasifeto Barat, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9075,
+          -9.56722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cendana, Ks.",
+        "address": "Betun - Malaka Tengah Belu - Ntt, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9075,
+          -9.56722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Central Timor, CV",
+        "address": "Betun - Malaka Tengah Belu - Ntt, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.903429,
+          -9.054578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cinta Damai, Ud.",
+        "address": "Welurai Rt. 04/01 Kabuna-kukuluk Mesak, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cipta Belu Mandiri, PT",
+        "address": "Jl. Adam Malik No.5 Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.94917,
+          -9.48333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dimas, Tk.",
+        "address": "Seon  Desa Wewada Malaka Timur-belu, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.94917,
+          -9.48333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dirma, Tk.",
+        "address": "Seon Desa Weweda - Malaka Timur, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.64137,
+          -10.14915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dua Putra, Ud.",
+        "address": "Jl. Bunda Hati Kudus Rt 50/019 Oesapa, Kupang, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.47806,
+          -9.44667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Elim Baru, Ud.",
+        "address": "Terminal - Kefa Ttu, Timor Tengah Utara, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.47806,
+          -9.44667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Elim Baru, Ud.",
+        "address": "Kel. Kefa Tengah Kefamenanu, Timor Tengah Utara, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Enam Saudara, CV",
+        "address": "Jl. Jaksa Agung R. Suprapto No. 79 Fatukbot - Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.892623,
+          -9.104358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Familia, Ud.",
+        "address": "Jl. Kartini Kelurahan Berdao Kecamatan Atambua Barat, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Feromas Timor Distributions, CV",
+        "address": "Jl. D.c.saudale - Beirafu - Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.5854,
+          -10.1628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Firany Indah Jaya, CV",
+        "address": "Jl. Urip Sumoharjo Kel. Merdeka, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.6194,
+          -10.1499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Foda Prima Nusantara, CV",
+        "address": "Jl. Sam Ratulangi 1/2 Kelapa Lima, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.892,
+          -9.114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gajah Mada",
+        "address": "Jl. Mohamad Yamin Rinbesi Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.892623,
+          -9.104358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Galang Ichal Mandiri, CV",
+        "address": "Jl. Proklamasi Kel Berdao Atambua Belu, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9075,
+          -9.56722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Garuda, Ks.",
+        "address": "Betun-malaka Tengah, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Golden Bakery, Ud.",
+        "address": "Jl. Soekarno - Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9075,
+          -9.56722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Golden Bangunan, CV",
+        "address": "Betun - Malaka Tengah, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harapan Indah Sejahtera, PT",
+        "address": "Jl. A. A. Dara Mau Atambua-belu-ntt, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harapan Indah Sejahtera, PT",
+        "address": "Jl. A. A. Bere Mau Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9075,
+          -9.56722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harisna, Ks.",
+        "address": "Betun - Malaka Tengah, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Inacio Mendes, PT",
+        "address": "Tenubot Manumutin,atambua-belu, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ita Star, CV",
+        "address": "Jl. D.c Saudale - Beirafu Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9075,
+          -9.56722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jabal Rahmat, Ks.",
+        "address": "Betun - Malaka Tengah, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9075,
+          -9.56722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jabal Rahmat, Ks.",
+        "address": "Betun Malaka Tengah, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.6075,
+          -10.187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jolian Putra, CV",
+        "address": "Jl. Amabi No. 39 Rt. 007  Rw. 003 Oepura Maulafa, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.6689,
+          -10.1416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kachuga, CV",
+        "address": "Rt.031/rw.008 Kelurahan Lasiana, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.274506,
+          -9.867064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kasih Ibu, CV",
+        "address": "Oekefan Rt 002 Rw 001 Soe Tts, Timor Tengah Selatan, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.47806,
+          -9.44667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kasih Utama, Ks.",
+        "address": "Jl. Asam Kefa, Timor Tengah Utara, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kawan Lama, CV",
+        "address": "Jl. Meoabekunatun Rt. 05 Rw. 01, Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kiky Electronic, Ks.",
+        "address": "Jl. Pramuka Pasar Baru-beirafu Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Komiko Timor, Ud.",
+        "address": "Fatubenao - Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kraton, Ud.",
+        "address": "Jl. A Yani- Kefa Selatan Kefamenanu - Ttu, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.892623,
+          -9.104358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kuncup Mekar, CV",
+        "address": "Jl. Cuk Nyak Dien Berdao Atambua - Belu, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.6689,
+          -10.1416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Laleno, CV",
+        "address": "Jl. Timor Raya Km.t.018/rw.004, Lasiana, Kupang, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Layantara, CV",
+        "address": "Jl. Pramuka Rt 016/ 006 Beirafu Atambua Belu, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Layantara, CV",
+        "address": "Jl. Pramuka Rt 016/ 006 Beirafu Atambua Belu, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lestari Hidup Baru, Tk.",
+        "address": "Jl. Sudirman No.11 - Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lesupu, Ud.",
+        "address": "Jl. Lesupu Rt. 015 / Rw. 005 Manumutin- Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lesupu, Ud.",
+        "address": "Lesupu Rt 15 / 05 Manumutin Atambua - Belu, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.5334,
+          -10.1973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lima Putri, Ud.",
+        "address": "Jl. Yos Sudarso Rt.003/rw.002 Kelurahan Alak, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "M3 Cakrawala, CV",
+        "address": "Jl. Timor Raya  Rt 20/ 10 Oesapa, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.6689,
+          -10.1416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Maestro Niaga Nusantara, CV",
+        "address": "Jl. Timor Raya Rt.001 / Rw.001 Lasiana, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Malinton Jaya, Ks.",
+        "address": "Tini Rt. 04/02 Manuaman-atambua, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885793,
+          -9.10537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Matador, CV",
+        "address": "Jl. Pramuka Pasar Baru - Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Matador, CV",
+        "address": "Jl. Pramuka Psr. Baru-atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mega Bintang, Ud.",
+        "address": "Jl. Mohammad Yamin Rt.007/004,atambua-belu, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.61,
+          -10.17
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mega Jasa Timur, CV",
+        "address": "Kelurahan Fatululi Rt.16/05, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.892,
+          -9.114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mega Timor Perkasa, CV",
+        "address": "Jl. Mohamad Yamin - Rinbesi - Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Merlin, Tk.",
+        "address": "Jl. Sudirman No. 46 Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.5334,
+          -10.1973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Bangunan, Ud.",
+        "address": "Jl. Yos Sudarso Alak Kupang, Kupang, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.5334,
+          -10.1973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Bangunan, Ud.",
+        "address": "Jl. Yos Sudarso, Alak, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.61,
+          -10.148312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Multi Kreatif Mandiri, PT",
+        "address": "Jl. Timor Raya-lasiana-kelapa Lima Kupang-ntt, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.600098,
+          -10.153596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mutiara Timur Star, Ud.",
+        "address": "Jl. Timor Raya Kel. Pasir Panjang Kupang - Ntt, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Naga Mas Jaya, Ud.",
+        "address": "Pasar Baru - Betun, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Naga Mas, CV",
+        "address": "Jl. Meobekunatun Rt.05/01 - Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.59028,
+          -10.16361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nam, CV",
+        "address": "Jl. Siliwangi N0.17, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.6689,
+          -10.1416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nirichvy, Ud.",
+        "address": "Jl. Beringin Lasian, Kupang, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nusantara Jaya, CV",
+        "address": "Jl. Sukamo Hatta Rt 42 / 05, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.956,
+          -8.332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Okishin Flores, PT",
+        "address": "Waibalun ,kec Larantuka, Flores Timur, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.892,
+          -9.114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pelita, Tk.",
+        "address": "Jl. M.yamin Rt 09 / 05 Rinbesi Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.892,
+          -9.114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prima Investa Nusa Tenggara, CV",
+        "address": "Kel. Rinbesi Rt 01/01 Atambua-belu-ntt, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.59028,
+          -10.16361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prima Investa Nusatenggara",
+        "address": "Jl. Pahlawan No. 102 Rt. 001 Rw. 001, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.971049,
+          -8.233121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Primo Indo Ikan, PT",
+        "address": "Ds. Halakodanuan / Waimana Ii Kec. Ile Mandiri, Flores Timur, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.6194,
+          -10.1499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pusat Koperasi Unit Desa Ntt",
+        "address": "Jl. Arif Rahman Hakim No 1 Kelapa Lima Kupang, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.6227,
+          -10.1861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putri Berlian, Ud.",
+        "address": "Rt 20/08 Maulafa, Kupang, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.6227,
+          -10.1861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putri Berlian, Ud.",
+        "address": "Rt 20 / 08 Maulafa Kupang - Ntt, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.64137,
+          -10.14915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putri Mandiri Meubel, Ud.",
+        "address": "Rt 02/01 Kel. Oesapa, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.47806,
+          -9.44667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rahmat, Ks.",
+        "address": "Jl. Sisinga Mangaraja Pasar Baru, Kefamenanu,ttu., Timor Tengah Utara, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Refan Mebel, Tk.",
+        "address": "Jl. Soekarno Hatta No. 12 Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ria, Tk.",
+        "address": "Jl. Pramuka Rt 005/ Rw 002 Beirafu, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rizky Makmur, Ud.",
+        "address": "Jl. Adi Sucipto Rt 002/rw 001kel. Manumutin-atambua, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.892623,
+          -9.104358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "S-cell, Tk.",
+        "address": "Jl. Adam Malik - Berdao, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.61,
+          -10.17
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sadar, CV",
+        "address": "Jl. Sopping Center Fatululi, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.5334,
+          -10.1973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sarana Lombok Utama, PT",
+        "address": "Komplek Pelabuhan Tenau - Alak, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.286,
+          -9.861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Scent Indonesia, PT",
+        "address": "Desa Supul Taubneno Kota Soe Timor Tengah Selatan, Timor Tengah Selatan, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9075,
+          -9.56722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Scuddeto Motor, Tk.",
+        "address": "Jl. Betun Malaka Tengah, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885793,
+          -9.10537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Senyuman, Ud.",
+        "address": "Jl. P. Tendean Pasar Baru, Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Serafim, CV",
+        "address": "Tini Rt/rw 04/02 Rinbes Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.394252,
+          -9.365222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Siknapan, Ks.",
+        "address": "Desa Napan Kec Bikomi Utara Ttu, Timor Tengah Utara, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Bone, Ud.",
+        "address": "Jl. El Tari - Kefamenanu, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.591524,
+          -10.155997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Gemilang, Po.",
+        "address": "Jl. Timor Raya No. 1 Kelurahan Fatubesi,kecamatan Kelapa Lima, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.526951,
+          -10.195449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Hari Esok, CV",
+        "address": "Jl. Jalur 40 Rt 13 / 04 Kel. Sikumana Kupang - Ntt, Kupang, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.61,
+          -10.148312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Kasih, Tk.",
+        "address": "Jl. Timor Raya Km 26 Rt 14/05, Bebau, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.7948,
+          -10.1011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Kasih, Tk.",
+        "address": "Jl. Timor Raya Km. 26 Rt 14/05 Babau Kupang, Kupang, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.47806,
+          -9.44667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Star Motor, Tk.",
+        "address": "Jl. Johar Oetete, Timor Tengah Utara, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Berlian, Ud.",
+        "address": "Jl. Pramuka Rt. 017/06 Beirafu, Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Berlian, Ud.",
+        "address": "Jl. Pramuka Rt 17/ 06 Beirafu Atambua Belu, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Indah, CV",
+        "address": "Tanah Merah Atambua Belu, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Jaya, CV",
+        "address": "Kampung Baru - Beirafu - Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.885,
+          -9.106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Jaya, CV",
+        "address": "Kamp Baru - Beirafu Atambua - Belu, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.64137,
+          -10.14915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Super Karya, CV",
+        "address": "Rt. 015/005 Oesapa, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.591524,
+          -10.155997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surya Bahana Mahkota, PT",
+        "address": "Jl. Timor Raya No 1 Fatubesi Kupang, Kupang, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.591524,
+          -10.155997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surya Bahana Mohkota, PT",
+        "address": "Jl. Timor Raya No. 1, Kel. Fatubesi - Kupang, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.64137,
+          -10.14915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surya Citra Timor, CV",
+        "address": "Jl. Timor Raya Km.9 Rt.022/rw.008 Kelurahan Oesapa, Kupang, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.892,
+          -9.114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Thonbers Gemilang Technologi, CV",
+        "address": "Jl. Moh.yamin - Kel Rimbesi, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.128927,
+          -9.000649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Timor Agung, Ud.",
+        "address": "Derok Desa Maumutin Raihat, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Timor Distrindo, PT",
+        "address": "Jl. Moh.yamin, Kel.rinbesi, Kec.atambua Selatan, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.892623,
+          -9.104358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Timor Tour & Travel, PT",
+        "address": "Jl. Soekarno Hatta - Berdao - Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tunas Baru, CV",
+        "address": "Jl. Diponegoro Rt 09/03 Tulamalae Atambua Belu, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tunas Flamboyan, CV",
+        "address": "Jl. Letjend Suprapto Tanah Merah Atambua Belu, Belu, Nusa Tenggara Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tunas Mekar, Ud.",
+        "address": "Kampung Baru Rt.15/03 - Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.590747,
+          -10.174299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wiliam Motor, Tk.",
+        "address": "Jl. Banteng No. 9 Nunleu Kupang - Ntt, Kupang, Nusa Tenggara Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.9,
+          -9.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Zona Dewata, CV",
+        "address": "Jl. Adam Malik Rt.018/rw.005 Atambua, Belu, Nusa Tenggara Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.328825,
+          -3.942967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Amera Nus, PT",
+        "address": "Desa Siawatan Semini Yeluk Etna, Fakfak, Papua Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.0833,
+          -0.8667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bintuni Utama Murni Wood Industries Manokwari, PT",
+        "address": "Jl. Jend.sudirman No.40 Manokwari Timur, Manokwari, Papua Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.29,
+          -0.89
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Citraraja Ampat Canning, PT",
+        "address": "Jl. Ahmad Yani Klademak I 98414, Sorong, Papua Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.28,
+          -0.88
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Klalin Indah Furniture",
+        "address": "Jl. Petrocina 88  Rt 01 Rw 1 Distrik Aimas, Sorong, Sorong, Papua Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.25,
+          -0.86667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Piala, Ud.",
+        "address": "Jl. Ds. Yan Mamoribo No. 88, Sorong, Papua Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.31,
+          -0.96
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Radios Apirja Sorong, PT",
+        "address": "Jl. Klalin I Distrik Aimas, Sorong, Papua Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.27,
+          -0.88
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yellu Mutiara, PT",
+        "address": "Jl. Jend. Sudirman No.195 Kld.ii Klademak, Sorong Timur 98414, Sorong, Papua Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.39859,
+          -8.4967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aru Samudera Lestari, PT",
+        "address": "Jl. Raya Mandala No.68, Mearauke, Merauke, Papua",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.09,
+          -1.18
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Biru Biak, CV",
+        "address": "Desa Rumainum No 1, Mandala, Biak, Biak Numfor, Papua",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.39859,
+          -8.4967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dwi Karya Reksa Abadi, PT",
+        "address": "Jl. Raya Mandala No.68, Merauke, Papua",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.66667,
+          -7.66667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sino Indonesia Shunlida, PT",
+        "address": "Jl. Kampung Timur No. 164, 99614, Merauke, Papua",
+        "mag": 3
+      },
+      "type": "Feature"
     }
   ]
 }
