@@ -121896,6 +121896,4971 @@
         "mag": 2
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.17,
+          -8.52
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "A F R A, CV",
+        "address": "Btn Surya Graha Lestari, Blok N/2, Desa. Dauh Peken, Tabanan, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.261263,
+          -8.629835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Abian Bali, PT",
+        "address": "Dusun/banjar Sasih,desa Batubulan,kec. Sukawati,, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Access Flora Dewata, CV",
+        "address": "Jl. Durian No.1, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.27,
+          -8.54
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Adhi Darma, CV",
+        "address": "Jl. Raya Pengosekan Mas Ubud, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.20705,
+          -8.80705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Agar Kembang, CV",
+        "address": "Jl. Pintas Biligita Gg Lulut No.99 Kel. Benoa, Kec. Kuta Selatan, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.20705,
+          -8.80705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Agro Mina Dewata, CV",
+        "address": "Jl. Taman Mahardika No.28 Mumbul,benoa, Kuta Selatan 80361, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.22,
+          -8.66
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Agung Aquatic Marine, PT",
+        "address": "Jl. Letda Winda Dangin Puri, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2038,
+          -8.5837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Agung Jaya  Internasional, PT",
+        "address": "Jl. Raya Darmasaba No,60x,brmenesa,darmasaba Abiansemal, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.269799,
+          -8.524281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Akar Wangi, PT",
+        "address": "Cok Rai Pudak No 8 Peliatan Ubud Gianyar, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1962,
+          -8.7136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Akuarium Laut Bali, CV",
+        "address": "Jl. Mekar No.1 Kepaon- Pemogan Denpasar Selatan, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1673,
+          -8.6804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Alam Global Indonesia, PT",
+        "address": "Jl. Umalas Ii No.76 Kel.kerobokan Kelod, Kuta Utara, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Albyon Gema Mandiri, PT",
+        "address": "Jl. Gunung Penamparan No. 35x,, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Alfa Omega, CV",
+        "address": "Jl. Gn. Tangkuban Perahu No.77x, Kel.kerobokan Kelod, Kec.kuta Utara, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.3144,
+          -8.5915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aloha Coconut Fiber, CV",
+        "address": "Jl. Permata Pering 9x Desa Pering, Kec.blahbatuh, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.3272,
+          -8.5435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Alove Bali Ind",
+        "address": "Banjar Tengah Bonbiyu,gianyar, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aman Accessories",
+        "address": "Jl. Drupadi I Golden Village, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.257018,
+          -8.592642000000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anak Burung Tropikana, PT",
+        "address": "Jl. Dangin Puri Banjar Apuan Singapadu Sukawati, Gianyar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.13,
+          -8.58
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ananta, Ud.",
+        "address": "Br. Bandung, Ds. Pandak Bandung, Kecamatan Kediri, Tabanan, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.264699,
+          -8.627304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ands Bali, PT",
+        "address": "Jl. Batuyang Gang Bangau Vi/6 Dusun Tegehe, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.161577,
+          -8.648586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Angkasa Jaya, CV",
+        "address": "Jl. Raya Kuta No. 72 Lt.2, Kerobokan, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.95,
+          -8.2
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aqua First Bali, CV",
+        "address": "Jl. Pidada No. 19 Singaraja, Buleleng, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.174091,
+          -8.782484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aqua Home International, PT",
+        "address": "Jl. Jimbaran Pratama Gg.serongga, Perarudan, Jimbaran Kuta Selatan, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2628,
+          -8.4968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ari, Fa.",
+        "address": "Jl. Raya Mas No.41 Mas - Ubud, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.28,
+          -8.64
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Atman Silver, PT",
+        "address": "Br. Manyar, Ketewel, Sukawati, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.185051,
+          -8.701348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ayu Orchid, PT",
+        "address": "Jl. Imam Bonjol No.324, 80119, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.28,
+          -8.64
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bale Gede Internasional, PT",
+        "address": "Jl. Prof.ida Bagus Mantra No.101 Ketewel, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.0887,
+          -8.1189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Aquarich",
+        "address": "Br. Dinas Sekeling, Buleleng, Buleleng, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Aquarium, CV",
+        "address": "Jl. Muding Indah Iv. No.12. Padang Sambian, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.435,
+          -8.16889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Aquatic, CV",
+        "address": "Lingk. Penginuman Gilimanuk Melaya, Jembrana, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.258351,
+          -8.502782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Bakti Anggara",
+        "address": "Jl. Mulawarman No. 2a Lingk. Kaja Kauh, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2351,
+          -8.6512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Baku, CV",
+        "address": "Jl. Drupadi No.14 A, Kel Sumerta Klod Kec Denpasar Timur, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Bela Abadi, CV",
+        "address": "Jl. Uluwatu No 999a Br Kealan Abian Kerobokan, Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.26,
+          -8.69
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Bina Utama, CV",
+        "address": "Jl. Hangtuah Gg Mawar Ix/10 Pekandelan Sanur, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2195,
+          -8.6966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Bintang Terang, CV",
+        "address": "Jl. Pulau Batanta No. 19 Sesetan Denpasar Selatan, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.16648950000001,
+          -8.746112499999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Blue International, PT",
+        "address": "Jl. By Pass I Gusti Ngurah Rai Gg Mertasari 9, Nusa Dua, Kuta Selatan, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Boxes",
+        "address": "Jl. Gunung Sanghyang No. 98, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Boxes, PT",
+        "address": "Jl. Gn. Shangyang No 98 Kesambi Kerobokan, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Chippendale Furniture",
+        "address": "Jl. Danau Poso No.22, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.170386,
+          -8.607001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Cipta Sarana, CV",
+        "address": "Jl. Raya Dalung No.99  Dalung Kuta Utara, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.435,
+          -8.16889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Coral",
+        "address": "Jl. Raya Singaraja Gilimanuk, Gondol, Buleleng, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Crafters International, CV",
+        "address": "Perum Taman Wira Umadui C 20, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Diamond, CV",
+        "address": "Jl. Gunung Agung Gang Iv. No 11, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.16972,
+          -8.764049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Double C, PT",
+        "address": "Jl. Taman Jimbaran Xvi No.28, Lingkungan Perarudan Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.905,
+          -7.545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Empat Abadi, CV",
+        "address": "Jl. Solo - Sragen Km.9,5 Desa Brujul, Kec. Jaten, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.08,
+          -8.54
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Fruit Luwus, PT",
+        "address": "Banjar Luwus, Baturiti, Tabanan, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2857,
+          -8.5977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Image Collection, CV",
+        "address": "Jl. Batu Intan Iii No.33 Banjar Kapal Ds.batubulan, Sukawati, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.905,
+          -7.545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali International Company, CV",
+        "address": "Jl. Solo - Sragen Km.9,5 Desa Brujul, Kec. Jaten, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Made",
+        "address": "Jl. Hayam Wuruk No. 125, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.95,
+          -8.2
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Marine Fish Farm",
+        "address": "Jl Kamboja, Br Dinas Kertakawat, Buleleng, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.59,
+          -8.37
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Maya Permai, PT",
+        "address": "Desa Tegal Badeng Barat, Negara, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2,
+          -8.62
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Meisho, PT",
+        "address": "Jl. Raya Yeh Gangga No. 9b, Desa Gubug, Ubung Kaja, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1962,
+          -8.7136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Mina Utama, PT",
+        "address": "Jl. Raya Ikan Tuna Timur Kmpl. Pelabuhan Benoa, Pemogan, Denpasar Selatan, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.563506,
+          -8.365398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Omega, CV",
+        "address": "Dusun Mandar, Desa Cupel,  Kec. Negara, Jembrana, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.185792,
+          -8.71445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Permai, PT",
+        "address": "Jl. Sunset Road Kel.seminyak Kec. Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Persada International, PT",
+        "address": "Jl. Raya Kerobokan No. 39, Kerobokan Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Sati, CV",
+        "address": "Jl. Bung Tomo 1 No.7a Gatsu Barat, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.234,
+          -8.7038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Segoro Mandiri, Ud.",
+        "address": "Jl. Tukad Sempol I, Sidakarya, Denpasar Selatan, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21,
+          -8.68
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Smile, CV",
+        "address": "Jl. Pulau Menjangan No.55 Dauh Puri Klod, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.186901,
+          -8.784052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Soap, PT",
+        "address": "Jl. By Pass Ngurah Rai, Ruko Surya Indah C1 Jimbaran, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2195,
+          -8.6966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Sukses Mandiri, Ud.",
+        "address": "Perumahan Taman Dukuh Sari Blok  D No.7 Sesetan Denpasar  Selatan, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.063,
+          -8.4844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Sun, CV",
+        "address": "Jl. Gunung Salak No.99, Br.abasan Tegal Buah, Desa Padang Sambian, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.167695,
+          -8.689445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Super, CV",
+        "address": "Jl. Majapahit No.54 Kuta, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2628,
+          -8.4968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Treasures, PT",
+        "address": "Jl. Raya Andong Peliatan Ubud, Gianyar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21,
+          -8.68
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Tui, CV",
+        "address": "Jl. Pulau Alor No.4, Dauh Puri Klod, Denpasar Barat, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2123,
+          -8.7053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Tuna Segar, PT",
+        "address": "Jl. Raya Ikan Tuna Raya  No.17 Pedungan Denpasar Selatan, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2123,
+          -8.7053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Tuna Segar, PT",
+        "address": "Jl. Raya Ikan Tuna 17 Pelabuhan Benoa Kel. Pedungan Kec. Denpasar Selatan, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.249073,
+          -8.635615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bali Wikan, PT",
+        "address": "Jl. Sekar Tunjung Xvi/8 Kesiman Kertalangu, Denpasar Timur, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Balinusa Windumas, PT",
+        "address": "Jl. Cokroaminoto No.65, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2123,
+          -8.7053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bandar Nelayan, PT",
+        "address": "Jl. Ikan Tuna Ii No.5 Pelabuhan Benoa Pedungan Denpasar Selatan, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2628,
+          -8.4968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Banyan Internasional, CV",
+        "address": "Jl. Raya Mas Banjar Batanancak, Ubud, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bask Bali, PT",
+        "address": "Jl. Cendrawasih No. 69 Krobokan Kuta, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Batu Inbali, CV",
+        "address": "Jl. Nangka (selatan) Gang Xi/52, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.25043,
+          -8.477547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bening Big Tree Farms, PT",
+        "address": "Jl. Raya Kedewatan No.15 Ubud, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Biosystems Indonesia, PT",
+        "address": "Jl. Tambak Sari No.1, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2654,
+          -8.5098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bisama Trading, CV",
+        "address": "Jl. Raya Andong No. 54x Ubud, Gianyar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bonofacum, PT",
+        "address": "Jl. Raya Kerobokan Lingk. Batu Culung No. 123 X Kec. Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.130244,
+          -8.659581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bregwin Indonesia, PT",
+        "address": "Jl. Pantai Batu Bolong No.18 Canggu Kuta Utara, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.26,
+          -8.69
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bunga Bali Dewata, PT",
+        "address": "Jl. By Pass I Gusti Ngurah Rai No. 377 Sanur, Denpasar Selatan, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.308209,
+          -8.450156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bunga Harimau, CV",
+        "address": "Jl. Surya Brata, Br. Tegal Suci, Tampaksiring, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.181919,
+          -8.666606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "By Lin Bali, PT",
+        "address": "Jl. Tangkuban Perahu Gg Tegal Mawar,padang Sambian Kelod, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18,
+          -8.58
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cabalindo, PT",
+        "address": "Jl. Raya Tangeb Munggu Kapal, Abianbase, Mengwi, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Putih, PT",
+        "address": "Jl. Kayu Aya No 15 X, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Casa Bali, CV",
+        "address": "Jl. Wira Bhuana Calung Permai Blok2no.17,lingk. Wira Bhuana Kerobokan, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Caspla Bali",
+        "address": "Jl. Pulau Moyo Gg. Cemara No. 4,denpasar, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.26,
+          -8.69
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cendana Indopearls, PT",
+        "address": "Jl. By Pass, Pertokoan Sanur Rayano.18-19, Ngurah Rai Sanur, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2643,
+          -8.6793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cibalindo Putra",
+        "address": "Jl. Tukad Buaji No.25,sasetan, Denpasar Selatan,, Denpasar Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.165,
+          -8.70056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cjayita, CV",
+        "address": "Jl. Sriwijaya 28 Legian, Kelod, Kuta, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.13417,
+          -8.65583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "D Classic, PT",
+        "address": "Jl  Nelayan No 100 Canggu Kuta Utara, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2195,
+          -8.6966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Daewon Trading, CV",
+        "address": "Jl. Raya Sesetan, Istana Regensi J/6, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.22,
+          -8.71
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Damena, Ud.",
+        "address": "Jl. By Pass Ngurah Rai Gg. Mina Utama No.8, Pesanggaran 80222, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.27,
+          -8.5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dara Gabali Putra",
+        "address": "Jl.raya Andong,br.nagi,petulu,ubud, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.276369,
+          -8.496164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dara Gabali Putra, PT",
+        "address": "Jl. Raya Petulu Desa Petulu Ubud, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.023721,
+          -8.162688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dava",
+        "address": "Br Dinas Mandarsari, Buleleng, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2628,
+          -8.4968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Debra Jean Rinaldi",
+        "address": "Jl. Hanoman Ubud, Gianyar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Delapan Group",
+        "address": "Jl. Raya Kesambi No.111, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Demonia Perkasa, PT",
+        "address": "Jl. Petitenget No. 99a Kerobokan Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.13833,
+          -8.36917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Desi Der Dewi, PT",
+        "address": "Perum Pegending Asri 1. Bj. Pegending, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.340156,
+          -8.439165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Devine Indonesia, PT",
+        "address": "Dsn. Tanggahan Talang Jiwa Desa Demulih Susut, Bangli, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.0887,
+          -8.1189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dewata Laut, CV",
+        "address": "Br Dinas Triamerta,penyabangan.gerokgak,buleleng,bali-81155, Buleleng, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dewataru, CV",
+        "address": "Jl. Tunggul Ametung Ii No.14, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.32546,
+          -8.5441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dewi Asri Internasional",
+        "address": "Jl. Sandat Gg.ii No.3xxbr. Roban, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.27,
+          -8.54
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dharma Siadja, CV",
+        "address": "Jl. Raya Mas Ubud, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.175956,
+          -8.763341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dian Bali Pertiwi, CV",
+        "address": "Jl. Toyaning No. 19 Kedonganan Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.80482073895072,
+          61.2483331493152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dianatina Ayu, PT",
+        "address": "Jl. Raya Kuta  No. 104 Kuta, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.172676,
+          -8.689489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Didu Indonesia, PT",
+        "address": "Jl. Sunset Road Barat, Lingk. Seminyak - Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.27,
+          -8.51
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dirgayusa, CV",
+        "address": "Banjar Kalah Peliatan Ubud, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.276,
+          -8.3395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Disthi Mutiara Suci, PT",
+        "address": "Jl.baruna,dsn. Kerta Kawat, Ds.banyupoh, Kec.gerokgak, Buleleng, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Diyo Enggal Makmur, PT",
+        "address": "Jl. Raya Kesambi No.29 Lingk Kesambi Kerobokan, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dmd Asia, PT",
+        "address": "Jl. Lasmana No. 999x Oberoi, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.167295,
+          -8.736495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Domba Bali Persada, PT",
+        "address": "Jl. Dewi Sri No.777 Ling.abian Base Kel. Kuta, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.186901,
+          -8.784052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dua Jaya",
+        "address": "Jl. By Pass Ngurah Rai No.888, Linkg. Kelan Abian, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dua Sahabat, PT",
+        "address": "Jl. Danau Tempe No. 20, Sidakarya, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.176205,
+          -8.760901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Duo Furniture Indonesia, PT",
+        "address": "Jl. By Pass Ngurah Ray No.123,kel.benoa, Kec. Kuta Selatan, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Duta Merta Sejahtera, PT",
+        "address": "Jl. Mertanadi No.1 X.kel.kerobokan Kelod,kec.kuta Utara, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2195,
+          -8.6966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dwi Karya International, CV",
+        "address": "Jl. Raya Sesetan No. 573, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2643,
+          -8.6793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dwi Karya International, CV",
+        "address": "Jl. By Pass Ngurah Rai No. 36b Kel.pedungan Kec. Denpasar Selatan, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dwi Putra, CV",
+        "address": "Jl. Lingkungan Peliatan Br. Link. Peliatan, Kerobokan Kuta, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.83,
+          -1.25
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Eagle Perkasa, PT",
+        "address": "Jl. Sekar Sari No.41-b Tohpati, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.165,
+          -8.70056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Eastern Trade Winds, PT",
+        "address": "Jl. Sri Rama No.9 X Legian - Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Era Bali Mesari",
+        "address": "Jl. Gn Salak No 68x, Padang Sambian Klod, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2,
+          -8.68408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Era Bali Mesari, PT",
+        "address": "Jl. Teuku Umar Barat, Kel. Padangsambian Kelod Kec. Denpasar Barat, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18196,
+          -8.707096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Field Day Design Bali, PT",
+        "address": "Jl. Muding Indah Xiii, Lingk. Muding Kaja, ,badung, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.0544,
+          -8.4891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Fitriyah Ekspor Indah, PT",
+        "address": "Jl. Raya Denpasar-gilimanuk/yudistira No 51, Megati, Selemadeg Timur, Tabanan, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Flamboyan",
+        "address": "Jl. Tukad Citarum No 17, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.212,
+          -8.6221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Flora Pacific, PT",
+        "address": "Jl. Antasura No.34, Peguyangan, Denpasar Barat, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.5186,
+          -8.3052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Freedom Indonesia, PT",
+        "address": "Dusun Tirtakusuma Desa Candikusuma, Jembrana, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Fusion Hawaii",
+        "address": "Jl. Muding Mekar Gg. Kamboja No.6, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2628,
+          -8.4968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gadjah Elra, PT",
+        "address": "Jl. Raya Mas, Abian Seka, Desa Mas, Kec. Ubud, Gianyar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.17,
+          -8.52
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gajah Terbang, PT",
+        "address": "Jl. Bedugul Selatan Asri Palasari 1a,desa Dauh Peken Tabanan, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.13417,
+          -8.65583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ganesha Suwathama, PT",
+        "address": "Jl. Raya Padonan No.26a Kel. Canggu Kec. Kuta Utara, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.13417,
+          -8.65583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ganesha Suwathama, PT",
+        "address": "Jl. Raya Padonan No.26a Kel. Canggu Kec. Kuta Utara, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2628,
+          -8.4968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gangga Sukta, CV",
+        "address": "Jl. Pekandelan No.71 Br. Teruna Ubud, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.27,
+          -8.54
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Garuda Bali, CV",
+        "address": "Jl. Raya Mas,dusun/br.abianseka, Desamas, Kec. Ubud, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.242,
+          -8.50049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gaya Ceramic And Design, PT",
+        "address": "Sayan,ubud.gianyar, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.172676,
+          -8.689489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gel Furnitur, CV",
+        "address": "Jl. Sunset Road No. 10 X, Kel. Seminyak, Kec. Kuta,, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.172676,
+          -8.689489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gel Logistic, PT",
+        "address": "Jl. Sunset Road 10x Seminyak, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.166545,
+          -8.701254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gemini, PT",
+        "address": "Jl Sri Rama No 8 Legian Kuta, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.167295,
+          -8.736495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gerbang Semesta, PT",
+        "address": "Jl. Dewi Sri No. 45 D Lingkungan Abian Base, Kuta, Badung, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2195,
+          -8.6966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gilotas Indonesia, PT",
+        "address": "Jl. Raya Sesetan Gg. Gurita I No.188, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.186782,
+          -8.631122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gradient Group, PT",
+        "address": "Jl. Kebo Iwa Selatan No.39, Kel.padangsambian Kaja 80117, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.22,
+          -8.66
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harmattan Indonesia, PT",
+        "address": "Jl. Tegal Sari 32-b Tegal Gundul  Dangin Puri Kuta Utara, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harum Sari, CV",
+        "address": "Jl. Gn Tangkuban Perahu No.27 A Kerobokan Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hasta Werdhi, PT",
+        "address": "Jl. Penyaringan Gg Kadal No. 2, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2123,
+          -8.7053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hatindo Makmur, PT",
+        "address": "Jl. Ikan Tuna Iii No.2. Kelurahan Pedungan Kec. Denpasar Selatan Benoa, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hentry Jaya, PT",
+        "address": "Jl. Ikan Tuna Raya No.17 Pelabuhan Benoa, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1723,
+          -8.7233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Horas Indonesia, CV",
+        "address": "Jl. Majapahit No. 28a, Kel. Kuta, Kec. Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.0887,
+          -8.1189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Horiko Abadi, PT",
+        "address": "Ds.banyupoh, Gerokgak Buleleng, Buleleng, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Horn Trading Company, PT",
+        "address": "Jl. Lesmana No.12, Lingk.taman Kerobokan Klod Kuta Utara, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.546348,
+          -8.351999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hosana Buana Tunggal, PT",
+        "address": "Dusun Munduk, Jembrana, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.177,
+          -8.74278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ikas Amboina, PT",
+        "address": "Jl. Mapanget Gg. Mandala No. 9d Tuban - Kuta, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.28,
+          -8.51
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indo Hidup, CV",
+        "address": "Br.tatiapi, Pejeng Kawan, Tampak Siring, Gianyar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.3272,
+          -8.5435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indo Percussion, PT",
+        "address": "Jl. Prof.dr.ida Bagus Mantra  Ds. Medahan, Kec. Blahbatu,gianyar, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.217418,
+          -8.635956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indofish International, PT",
+        "address": "Jl. Gatot Subroto No.99 Negara, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.546348,
+          -8.351999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indohamafish, PT",
+        "address": "Jl. Udayana No.86 Ds.pengambengan, Jembrana, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indonesia Cemerlang, CV",
+        "address": "Jl. Tangkuban Perahu No. 252, Ds. Kerobokan Kelor, Kec. Kuta Utara, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.546348,
+          -8.351999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indosarnia, PT",
+        "address": "Jl. Delima No.5, Jembrana, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.236,
+          -8.6655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indosena, CV",
+        "address": "Jl. Drupadi No. 14a Sumerta Kelod, Denpasar Timur, Denpasar, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1723,
+          -8.7233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Intai Rainbaw Collection, CV",
+        "address": "Jl. Raya Kuta No 49 Ling Jaba Jero, Kuta, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.165316,
+          -8.738845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Intai Rainbow Collection, CV",
+        "address": "Jl. Raya Kuta No. 49, Kel. Kuta, Kec. Kuta No.fax : 0361-755138, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Intan Bali International, PT",
+        "address": "Jl. Patih Jelantik No. 100x,kuta, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.235275,
+          -8.620142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Intan Sanggraha International, PT",
+        "address": "Jl. By Pass Ngurah Rai No.769 Pesanggran, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.186901,
+          -8.784052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Inti Dufree Promosindo, PT",
+        "address": "Jl. By Pass Ngurah Rai Kuta 75-xx Mall Bali Galeria, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Inti Samudera Citra Perkasa, PT",
+        "address": "Jl. Ikan Tuna Blok Iii/i Pel Benoa, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jarosite, PT",
+        "address": "Jl. Sunset Road No. 69, Kuta, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.0258,
+          -8.2367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jaya Utama Abadi, CV",
+        "address": "Jl. Banjar -grokgak,gondol ,singaraja, Buleleng, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.151423,
+          -8.805603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jenggala Keramik Bali, PT",
+        "address": "Jl. Uluwatu Ii, Jimbaran, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.22,
+          -8.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jewelry Design Services, PT",
+        "address": "Br. Baturning No. 88 Mambal  Abiansemal, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.186782,
+          -8.631122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kapit Mas, PT",
+        "address": "Jl. Kebo Iwa N0. 10 Padang Sambian, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2024,
+          -8.6458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karinta Bali International, PT",
+        "address": "Jl. Buluh Indah No. 9a Desa Pemecutan Kaja, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.12,
+          -8.54
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kasmil Kosmos, PT",
+        "address": "Jl. Rajawali Persiapan  Ds. Dauh Peken  Kec., Tabanan Tabanan, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kecak",
+        "address": "Jl. Raya Puputan 42-44 Indian Cultural Centre Denpasar Bali, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kelapa Bali",
+        "address": "Jl. Gunung Bromo Iv No.7, Denpasar, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.217872,
+          -8.81907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kenindo Tunggal Perkasa",
+        "address": "Jl. Nusa Dua Lot 4 Po Box 53 Benoa-kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "King Trading, PT",
+        "address": "Jl. Raya Kerobokan  No.  1x Banjar Semer Kerobokan Kuta, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.95,
+          -8.2
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Knk Bali",
+        "address": "Jl. Mayor Metra Gg Xiv No. 69,buleleng, Buleleng, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kolombo Bali, CV",
+        "address": "Jl. Pulau Batanta No. 70, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.151423,
+          -8.805603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kopindo Jaya, PT",
+        "address": "Jl. Raya Uluwatu Ii N0.88, Kel. Jimbaran,kec. Kute Selatan, Kab. Badun, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1889,
+          -8.6944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kreatif Design, CV",
+        "address": "Jl. Gn. Soputan Gg. Rajawali No. 4 Pemecutan Klod, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2356,
+          -8.6773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kresna Mitra Abadi, CV",
+        "address": "Jl. Tukad Yeh Aya Ix No. 49 X Renon, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.33,
+          -8.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kriya Jaya Internasional, PT",
+        "address": "Pertokoan Tedung Komala Asri Blok Ii/5 Tedung,abianbase,gianyar,gianya, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kuacha, CV",
+        "address": "Jl. Imam Bonjol No. 195, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.976499889046,
+          8.88100004631677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kwalita Bali, PT",
+        "address": "Jl. Raya Kuta No. 80, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2123,
+          -8.7053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "La Chidehafu, CV",
+        "address": "Jl. P. Moyo No.1 A Pedungan, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.0258,
+          -8.2367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lancar Sari, PT",
+        "address": "Banjar Tanah Pegat, Desa Gubug, Tabanan, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.12,
+          -8.62
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Landfall Bali Utama, PT",
+        "address": "Jl. Raya Munngu, Mengwi, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Laris Karta Jaya, PT",
+        "address": "Jl. Bay Pass Ngurah Rai No. 365 Desa Sanur, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.0887,
+          -8.1189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lautan Abadi",
+        "address": "Br. Dinas Tukad Pule,buleleng, Buleleng, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.023721,
+          -8.162688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lautan Sumber Rejeki",
+        "address": "Dsn. Sumberpao, Buleleng, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lestari Primatama, PT",
+        "address": "Jl. Pratama Gg. Bali Becik. No. 60 B Benoa, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lilla Lane, PT",
+        "address": "Jl. Raya Semer No. 48 Kerobokan, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.23441,
+          -8.724574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lintas Antar Nusa, PT",
+        "address": "Jl. Lumba-lumba Bjr. Ponjok Pulau Serangan, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.16487,
+          -8.67203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lio Collection, PT",
+        "address": "Jl. Raya Kerobokan No. 2 Kel. Kerobokan Kelod, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1746,
+          -8.63712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lumee Bali Logistic, CV",
+        "address": "Jl. Muding Mundeh  Kerobokan Kaja, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.261263,
+          -8.629835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lutikalai, PT",
+        "address": "Jl. Smki 69, Batubulan, Sukawati, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.27,
+          -8.5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Madu Brooklyn, PT",
+        "address": "Ds/br Kutuh, Desa Petulu, Kec.ubud,kab.gianyar, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.976499889046,
+          8.88100004631677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Maharani, CV",
+        "address": "Jl. Raya Kuta No. 102, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mama Leon, CV",
+        "address": "Jl. Danau Tamblingan No. 99a, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.13833,
+          -8.36917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mandaraspa Indonesia",
+        "address": "Jl. Raya Kuta No. 707,badung, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Margan Last Diamond, CV",
+        "address": "Jl. Gng. Agung Gang Iv No. 11  Pamecutan Kaja, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Marine Dewata Sejahtera",
+        "address": "Jl. Nusa Ceningan No.18.dauh Puri Kelod, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.265573,
+          -8.590341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mario Antik, PT",
+        "address": "Ds.bantuan Br Dlod Tunon Sukawati Denpasar, Bali, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.131083,
+          -8.65991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Melamun, PT",
+        "address": "Jl. Raya Batu Bolong Br. Canggu Kuta Utara, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Merdeka Kreasi, PT",
+        "address": "Jl Sunset Road,dewa Ruci Building Blok C No 2 Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mertha Bhuana Dewata, CV",
+        "address": "Jl. Sekar Tunjung No. 2 Tohpati, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.186901,
+          -8.784052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mgm Bali Carpenter",
+        "address": "Jl. By Pass Ngurah Rai No. 90, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.0887,
+          -8.1189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mina Makmur Sentosa",
+        "address": "Bj.dinas Tukadpule Sanggalangit,grogak,buleleng, Buleleng, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.14,
+          -8.52
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mina Sari Sedana, Ud.",
+        "address": "Ling. Celagi Kel. Denbantas, Tabanan, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.16667,
+          -8.73333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mister Kuta, CV",
+        "address": "Jl.gunung Payung No. 8 Kuta, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Prodin, PT",
+        "address": "Jl. Menuri I/33,kec.denpasar Timur, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Sejati Abid",
+        "address": "Jl. Antasura No.111, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.185051,
+          -8.701348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitragarment Indoraya, PT",
+        "address": "Jl. Imam Bonjol 448, Desa Pemecutan Klod, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Momo, CV",
+        "address": "Jl. Gn Athena1/5,lingk Padang Sumbu Tengah Padang Sambian Kelod, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mowgli Indonesia, PT",
+        "address": "Jl. Hayam Wuruk No. 183, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mulia Busana, CV",
+        "address": "Jl. Intan Permai No.51 B Pengubengan Kangin, Kerobokan, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.95,
+          -8.2
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Musi Jaya",
+        "address": "Br. Dinas Madan, Buleleng, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Naga Jaya Bali, PT",
+        "address": "Jl. Merta Ayu No 20,kerobokan, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nagama Samudra",
+        "address": "Jl. Tukad Punggawa No. 238 X Lingk. Br. Ponjok, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2362,
+          -8.6134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Naka, CV",
+        "address": "Jl. Trengguli No.57, Penatih, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.22,
+          -8.67
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Natural Bali, CV",
+        "address": "Jl. Ida Bagus Mantra Kec. Denpasar Timur, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.191485,
+          -8.697132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nexus Trading Asia, PT",
+        "address": "Jl. Perum Gelogor Carik Indah Gang Iii No 7, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.17,
+          -8.624447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nikki Bali, CV",
+        "address": "Jl. Perum Bumi Dalung Permai Blok L No:32, Dalung, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1667,
+          -8.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nini Srirejeki, PT",
+        "address": "Jl. Pura Keramat Br.seseh Ds.cemagi Ke. Mengwi, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nirwana Dewata, CV",
+        "address": "Jl. Gunung Muliawan No.20, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.27,
+          -8.54
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Novinet, PT",
+        "address": "Jl. Raya Mas - Ubud, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2,
+          -8.62
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nuansa Bali, PT",
+        "address": "Jl. Tunggul Ametung Ii/14 Kel Ubung Kaja Kec Denpasar Utara, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.838517,
+          -1.277637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nuansa Taru Bali, CV",
+        "address": "Jl. Kembang Matahari 1 No.83,kel.kesiman,kec.denpasar Timur, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.225998,
+          -8.796364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nusa Dua Indonesia, PT",
+        "address": "Bali Nusa Dua Convention Centre,kawasan Btdc Lotnw1, Benoa, Kuta Selatan, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.219587,
+          -8.796945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nusadua Graha International, PT",
+        "address": "Nusadua Po Box 36, Benoa, Kuta Selatan, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.435,
+          -8.16889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ocean Blue Mutiara, PT",
+        "address": "Banjar Klatakan Gilimanuk, Melaya, Jembrana, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.6837,
+          -8.1745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ocean Mega Fish Farm, CV",
+        "address": "Br Dinas Batu Agung,gerogak, Buleleng, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1746,
+          -8.63712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Om Bali, CV",
+        "address": "Jl. Muding Indah X, Lingk. Muding Kaja, Kerobokan Kaja, Kuta Utara, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21,
+          -8.68
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pama Prospero, CV",
+        "address": "Jl. Komodo Gg Iii No. 02 Dauh Puri Klod - Denpasar Barat, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Panca Naga Jaya, CV",
+        "address": "Jl. Batu Beling No. 89, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pantai Kayu Ayu, PT",
+        "address": "Jl. Raya Perancak No 2, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18724,
+          -8.712749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Paris Bali, PT",
+        "address": "Jl. Sunset Road No.900 Lingkungan Basangkasa, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.206843,
+          -8.653558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pendawa, CV",
+        "address": "Jl. Gunung Agung 28, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Perikanan Nusantara (persero), PT",
+        "address": "Jl. Raya Pelabuhan Benoa, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2123,
+          -8.7053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Perintis Jaya  Internasional, PT",
+        "address": "Jl. Ikan Tuna Raya Barat No. 6 Pel Benoa, Pedungan, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2764,
+          -8.4527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Planet Handicraft Bali, PT",
+        "address": "Dsn / Br.tegallalang Kecamatan Tegallalang, Gianyar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.16755,
+          -8.69884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Praba Surya International, PT",
+        "address": "Jl. Pura Bagus Taruna No. 30 A Legian Kaja - Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.14,
+          -8.58
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prasetya Agung Cahaya Utama, PT",
+        "address": "Jl. A Yani I. Br. Carik Padang Ds. Nyambu Kec.kediri, Tabanan, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.17111,
+          -8.6175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prima Cipta Mandiri, CV",
+        "address": "Jl. Bhineka Nusa Kauh Blok. S No. 53 Ds. Dalung Kec. Kuta  Utara, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.16,
+          -8.61
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prima Collection",
+        "address": "Jl. Veteran No. 94 Buduk Mengwi Badung, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.32546,
+          -8.5441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Primadona Trans",
+        "address": "Jl. Raya Tengkulak Kaja, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Protex Indo, CV",
+        "address": "Br. Tegal Permai Blok P3 No.61, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Psylo Design Studio, CV",
+        "address": "Jl. Pulau Batanta No. 53, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2123,
+          -8.7053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pulau Mas, Ud.",
+        "address": "Jl. Diponegoro Gg. Ulam Kencana 48 B Pedungan, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.257018,
+          -8.592642000000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Puri Lautan Mutiara, CV",
+        "address": "Br. Apuan Singapadu Sukawati, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putra Bhineka Perkasa, PT",
+        "address": "Jl. Pulau Moyo No. 5 Pesanggaran, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2326,
+          -8.7293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putra Pelangi Samudra, CV",
+        "address": "Jl. Tukad Punggawa Gg Xvii No. 1 Br. Peken Serangan, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.17,
+          -8.6
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putri Ayu Bali Indonesia, PT",
+        "address": "Jl. Ksatrian Gg. Pandawa No. 5  Lingk. Raja Kauh Kelurahan Abianbase, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.80482073895072,
+          61.2483331493152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Quiksilver Indonesia, PT",
+        "address": "Jl. Raya Legian No. 362 Kuta, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rahmat Bahari, Ud.",
+        "address": "Jl. Gunung Agung Gg Bumi Ayu B No. 7, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rasta Manis, CV",
+        "address": "Jl. Gunung Soputan Ib No.8, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.13833,
+          -8.36917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Real Issue 323, CV",
+        "address": "Jl. Pelita No. 13 Tuban-kuta, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.235275,
+          -8.620142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rendah",
+        "address": "Jl. By Pass Ngurah Rai No 88r, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rytaka, CV",
+        "address": "Jl. Muding Batu Sangian Viii / 17,kel.kerobokan Kaja,kel.kuta Utara, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.204788,
+          -8.719222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Samudra Intermina Perkasa, CV",
+        "address": "Jl. Mertasari Gg.kerta Bedulu, Suwung, Denpasar Selatan, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58,
+          -8.39
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Samudra Kencana, Ud.",
+        "address": "Dusun Kelapa Balian Kel. Pengambengan Kec. Negara, Jembrana, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.26,
+          -8.6
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sanjiwani, CV",
+        "address": "Jl. Raya Angantaka Kutri 18x Singapadu, Gianyar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.66667,
+          -8.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sarana Tani Pratama, PT",
+        "address": "Dusun Kelapa Balian, Jembrana, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sarana Teknik, CV",
+        "address": "Jl. Sumatra No. 33-35, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.252,
+          -8.6452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sarano Argo Indo, PT",
+        "address": "Jl. Gandapura No. 40 Kesiman Kertalangu Denpasar, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.231094,
+          -8.67734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Arta Dewata",
+        "address": "Jl. Tukad Yeh Aya No. 90 Denpasar, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2055,
+          -8.6581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Harta Samudra, PT",
+        "address": "Jl. Bukit Tunggal No. 44 Kelurahan Pemecutan, Denpasar Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.66,
+          -8.4
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Laut, CV",
+        "address": "Dusun Tengah Yeh Kuning Jembrana 82251, Jembrana, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.33,
+          -8.46
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Rambut, PT",
+        "address": "Desa Abuang Kec. Susut  Kabupaten Bangli, Bangli, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Segar Laut Indonesia, PT",
+        "address": "Jl. Ikan Tuna Raya Timur I Pelabuhan Benoa, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.13417,
+          -8.65583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sas Productions, PT",
+        "address": "Jl. Canggu Raya Br. Anyar Kelod Krobokan, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Satu Enam Delapan Benoa, PT",
+        "address": "Jl. Ikan Tuna Iii No. 1 B Denpasar, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sayap Garuda Indah, PT",
+        "address": "Jl. By Pass Dewa Ruci Building No. 2 Ngurah Rai, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.9675,
+          -8.19
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Segara Cipta Perdana",
+        "address": "Banjar Dinas Sekeling Buleleng 81155, Buleleng, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.16667,
+          -8.73333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sejati Interlog, PT",
+        "address": "Jl. Raya Seminyak No. 28 Kuta, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Seni Echo",
+        "address": "Br. Padang Badung, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sentral Benoa Utama, PT",
+        "address": "Jl. Ikan Tuna Iv No. 18 Pelabuhan Benoa, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.272637,
+          -8.523133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Silver Maiden International, PT",
+        "address": "Jl. Wanara-wana 100x Padang Tegal, Ubud Bali, Gianyar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2484,
+          -8.6502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Alami Kreasi, PT",
+        "address": "Jl. By Pass Ngurah Rai No. 144 Kesiman Petilan, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1746,
+          -8.63712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinez, CV",
+        "address": "Jl. Gatot Subroto No. 900x Kerobokan Kaja ,kec. Kuta Utara, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.27063799999999,
+          -8.5187065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sorga Indah, PT",
+        "address": "Dusun Banjar Kalah, Desa Peliatan, Kec. Ubud, Gianyar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sourcing Bali, PT",
+        "address": "Jl. Gn Salak No. 31 Padang Sambian Klod Denpasar, Bali Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.53333,
+          33.83333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Spa Faktori Bali, PT",
+        "address": "Jl. Toya Ning No.4, Lingk. Pasek, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.27,
+          -8.6
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Suarti, PT",
+        "address": "Jl. Raya Celuk 100x, Gianyar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sukma Sari Utama, PT",
+        "address": "Jl. Muding Indah Ling Muding Kaja Kerobokan Kuta Badung, Denpasar, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.16972,
+          -8.764049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Suluban Garment, PT",
+        "address": "Jl. Uluwatu No. 9-xx, Kel. Jimbaran, Kec. Kuta Selatan, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Agung, CV",
+        "address": "Jl. Ra. Kartini No.37, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Bali, CV",
+        "address": "Jl. Sekarsari Gg. Melasti, Villa Sanna,kel.kesiman Kertalangu,kec.denpasar Timur, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2123,
+          -8.7053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Mina Samudra, PT",
+        "address": "Jl. Dermaga I Pelabuhan Benoa, Kel. Pedungan, Kec. Denpasar Selatan, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2611,
+          -8.675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Samudra Wijaya, Ud.",
+        "address": "Jl. Pantai Sari No.19-a, Kel. Sanur Kaja, Kec. Denpasar Selatan, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.177,
+          -8.74278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumiati Ekspor Internasional, PT",
+        "address": "Jl. Ksatria Iii No.3, Kel. Tuban, Kec. Kuta, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sunari Sukses, PT",
+        "address": "Jl. Muding Xi No.1-x, Kel. Kerobokan, Kec. Kuta Utara, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.172676,
+          -8.689489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sunrise Trading, CV",
+        "address": "Jl. Sunset Road No.86-a, Kuta, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2195,
+          -8.6966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Super Saku Bali, PT",
+        "address": "Jl. Ikan Tuna Raya Barat No.1, Kel. Sesetan, Kec. Denpasar Selatan, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.0887,
+          -8.1189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surung",
+        "address": "Bj Dinas Tri Amerta, Buleleng, Buleleng, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2326,
+          -8.7293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surya Bali Kerapu, Ud.",
+        "address": "Lingk. Br. Ponjok, Kel. Serangan, Kec. Denpasar Selatan, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2857,
+          -8.5977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surya Bali Taksu, PT",
+        "address": "Jl. Tengkulak Mas, Desa Kemenuh, Kec. Sukawati, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.16667,
+          -8.68333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Taboo Trading Indonesia, PT",
+        "address": "Jl. Raya Seminyak Gg. Lumut 1, Kerobokan, Kuta, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tanjung Sari Aquarium, PT",
+        "address": "Jl. Segara Geni Gg. Lumba Lumba No. 7, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.175502,
+          -8.635332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tarita Furniture, PT",
+        "address": "Jl. Padang Luwih 100-x, Kel.kerobokan, Kec.kuta Utara, 80361, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Taru Sakti Utama, PT",
+        "address": "Jl. Raya Kerobokan No.9, Kel.kerobokan, Kec.kuta Utara, 80361, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.254782,
+          -8.634959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Teduh Mitra Utama, PT",
+        "address": "Jl. Sulastri I/6, Ds.kesiman Petilan, Kec. Denpasar Timur, 80237, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2857,
+          -8.5977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tirta Bulan Bali, PT",
+        "address": "Jl. Dsn/br. Telabah, Ds.batubulan, Kec. Sukawati, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tirta Internasional",
+        "address": "Jl. Gunung Athena No. 99x, Kel.kesiman, Kec.denpasar Timur, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.094175,
+          -8.120397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Toko Gwan Gwan Ho",
+        "address": "Jl. Surapati No.21, Kel. Singaraja, Kec. Buleleng, Buleleng, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.185051,
+          -8.701348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tomtom Busana, PT",
+        "address": "Jl. Imam Bonjol No.322, Kel.pemecutan Klod, Kec.denpasar Barat, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Totem Indonesia, PT",
+        "address": "Jl. Gn Soputan No 16b, Kel.pemecutan Klod, Kec.denpasar Barat, Denpasar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18333,
+          -8.58333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Touch Wood",
+        "address": "Jalan Uluwatu Ii No.53x Lingkungan Teba, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.206391,
+          -8.642753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Transindo Dewata, PT",
+        "address": "Jl. Gunung Takuban Perahu No.27 Kuta, Kec. Denpasar Barat 80361, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Transindo Mandiri",
+        "address": "Jl. Gunung Salak Utara No.77, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.22,
+          -8.67
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tridi Jaya, PT",
+        "address": "Jl. Jayagiri I No. 2 Kel. Dangin Puri Klod Kec. Denpasar Timur, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.9675,
+          -8.19
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Trimitra Anugrah Segara, PT",
+        "address": "Banjar Dinas Batuagung Pidada, Buleleng, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.276369,
+          -8.496164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Trio Globexindo, PT",
+        "address": "Jl. Raya Petulu-andong Ds. Petulu Kec. Ubud, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.3272,
+          -8.5435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tunjung",
+        "address": "Br. Teges Kawan Yangloni,gianyar, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.175956,
+          -8.763341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tushiv Indonesia, PT",
+        "address": "Jl. Bantas Kauh No. 18 X Lingkungan Pasek Kel. Kedonganan Kec. Kuta, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.15048,
+          -8.64715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Twin Mandala Indobali, CV",
+        "address": "Jl. . Raya Padonan No. 48a Br Asemam Kangin Kel. Tibubeneng Kec. Kuta Utara, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2857,
+          -8.5977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ubud Corner, CV",
+        "address": "Jl. Raya Batu Bulan Gg. Candrametu No. 2 Dsn/ Br. Menguntur Ds. Batubulan Kec. Sukawati, Gianyar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.18196,
+          -8.707096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Udiyana Lestari, PT",
+        "address": "Jl.patih Jelantik No.200x,badung, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1664,
+          -8.6507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Uluwatu Bali, CV",
+        "address": "Jl. Gunung Salak No. 11 Kel. Kerobokan Kec. Kuta Utara, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2438,
+          -8.6544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Unlimited Designs",
+        "address": "Jl. Soka No.126 Kesiman, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.80482073895072,
+          61.2483331493152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wahana Inti Sejahtera, CV",
+        "address": "Jl. Sri Rama No: 77,legian Kaja ,kuta 80118, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21,
+          -8.68
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wahyu Wahana, CV",
+        "address": "Jl. Raya Pemogan 268-g, Dauh Puri Klod, Denpasar Barat 80114, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.214426,
+          -8.758741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wahyudi, Ud.",
+        "address": "Jl. Segara Geni Gg. Lumba - Lumba No. 3 A Tanjung Benoa Kuta, Badung, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.6197890205486,
+          -9.58890301712257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Warisan Eurindo, PT",
+        "address": "Jl. Raya Padang Luwih - Br, Tegal Jaya - Dalung, 80361, Badung, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.6197890205486,
+          -9.58890301712257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wastra Indah, CV",
+        "address": "Br Aseman Kawan,ds Tibubeneng Kuta, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.33,
+          -8.54
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Widhi Asih Bali Export, CV",
+        "address": "Lingk. Tegal Tugu, Kel. Samplangan, Gianyar 80511, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2628,
+          -8.4968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wirya Nanda, CV",
+        "address": "Jl. Raya Mas No.54 Ubud 80571, Gianyar, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.173,
+          -8.7287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wisa Internasional, CV",
+        "address": "Jl. Kubu Anyar No.5 Kuta 80361, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2195,
+          -8.6966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wisnu Karya Putra International, PT",
+        "address": "Jl. Raya Sesetan 1 No.18 Kel.pedungan Kec. Denpasar Selatan 80222, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.21667,
+          -8.65
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yasmin, CV",
+        "address": "Jl. Gn.andakasa Gg.i, No.3 X, Blk.indosat Gatsu Barat, Denpasar, Bali",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.15048,
+          -8.64715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ymb Furniture, PT",
+        "address": "Jl. Pantai Brawa No. 128,desa Tibubeneng,kec Kuta Utara, Badung, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.023721,
+          -8.162688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yst Neo Logis Surabaya, PT",
+        "address": "Dusun Sukadharma, Buleleng, Bali",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.22,
+          -8.7
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yu Shen Fishery Indonesia, PT",
+        "address": "Jl. Pemelisan No.168,kel.sesetan,kec.denpasar Selatan 80223, Denpasar, Bali",
+        "mag": 3
+      },
+      "type": "Feature"
     }
   ]
 }
