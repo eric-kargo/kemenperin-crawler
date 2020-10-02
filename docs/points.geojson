@@ -152781,6 +152781,5946 @@
         "mag": 1
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7009,
+          -7.6026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "A. Schulman Plastics, PT",
+        "address": "Desa Ngerong Km. 39 Gempol, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.726556,
+          -7.735915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Abadi Barindo Autotech, PT",
+        "address": "Jl. Raya Purwosari No.1 Km.61, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7595,
+          -7.7669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Agar Sari Jaya, CV",
+        "address": "Jl. Puntir Dusun Klojen, Martopuro, Purwosari, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.633344,
+          49.755225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aida",
+        "address": "Jl. Jend. Akhmad Yani Rt. 05 Rw. 01, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.6859,
+          -7.5966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aji Sono, PT",
+        "address": "Dsn. Kaliputih, Ds. Sumbersuko, Kec Gempol, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7924,
+          -7.6465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Akt Indonesia",
+        "address": "Rembang Industri Raya 45, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7523,
+          -7.5946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Alam Indomegah, PT",
+        "address": "Jl. Bintoro Desa  Gunung Gangsir - Beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7268,
+          -7.587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Algalindo Perdana, PT",
+        "address": "Jl. Wicaksono No. 23 Desa Gununggangsir - Kec. Beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7115,
+          -7.5636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Alp Petro Industry, PT",
+        "address": "Jl. Raya Tempel Lrgok, Kecamatan Gempol, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.668959,
+          -7.602016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Amarta Carrageenan Indonesia, PT",
+        "address": "Desa Jeruk Purut-bulu Sari Kec.gempol, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.6954,
+          -7.5838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Amelia Metal, PT",
+        "address": "Dusun Karangbangkal, Rt.03/rw.04, Desa Karangrejo, Kec. Gempol, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.703,
+          -7.6517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anam Putra, Ud.",
+        "address": "Dusun Lebaksari Rt 002  Rw. 011, Karangjati, Pandaan, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.6859,
+          -7.5966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aneka Tuna Indonesia, PT",
+        "address": "Jl. Raya Surabaya-malang Km.38 Gempol, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          111.314111,
+          -6.700807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ansento Indonesia, PT",
+        "address": "Jl. Rembang Industri Ii / 7 Kawasan Pier Rembang, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.41556,
+          -6.67778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anugerah Jati Utama, PT",
+        "address": "Dusun Grogolan Desa Winong Gempol, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7537,
+          -7.8191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Apaiser, CV",
+        "address": "Dusun Parelegi Rt.07 Rw.01, Purwodadi, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.065692,
+          51.108272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Arnawama Indonesia",
+        "address": "Pondok Surya Kencana Ijl Raden Patah B-4 Rt.003 Rw.005, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7031,
+          -7.6976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Atlantic Biru Raya, PT",
+        "address": "Desa Ngadimulyo Rt.1/rw.2 Ngadimulyo, Sukorejo 67161, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8508,
+          -7.603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ayam Mas Jaya, PT",
+        "address": "Desa Gerongan Rt.03/rw.03, Kraton, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.633036,
+          49.75517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bangun Pertiwi",
+        "address": "Mulyosari Tengah 8/35 Rt 008 Rw 006, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7161,
+          -7.5994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Baramuda Bahari, PT",
+        "address": "Ds. Wonokoyo Rt 03 Rw 01 Beji, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.6899,
+          -7.6538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Berdikari Meubel Nusantara, PT",
+        "address": "Jl. Raya Kluncing Rt.02/rw.09 Petungasri Pandaan, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7083,
+          -7.6175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Berkat Ganda Sentosa, PT",
+        "address": "Jl. Gunung Gangsir Desa Randupitu Kec.gempol Pandaan, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123,
+          0.66667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Berlina Tbk, PT",
+        "address": "Jl. Raya Pandaan Km 43 Desa Tawangrejo Kec. Pandaan, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7147,
+          -7.7627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bintang Terang, Ud.",
+        "address": "Jl. Raya No. 16a Purwosari, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123,
+          0.66667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bintang, PT",
+        "address": "Jl. Raya Surabaya Malang Km. 37, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8186,
+          -7.5994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Boxtime Indonesia, PT",
+        "address": "Jl. Rembang Industri Ii/8-8a Kawasan Berikat Pier Bangil, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7523,
+          -7.5946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bromo Experience, PT",
+        "address": "Jl. Raya Balong Watu No.15 Rt.002 Rw.010, Cangkringmalang, Beji, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.05,
+          0.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bumi Jaya, Ud.",
+        "address": "Jl. Proklamasi No. 50, Gorontalo, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.688,
+          -7.6976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Gemilang Utama, CV",
+        "address": "Desa Bulukandang Km.2, Bulukandang,prigen, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.715684,
+          -8.16955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Candra Markus",
+        "address": "Jl. Jaya Wijaya, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7924,
+          -7.6465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Central Motor Wheel Indonesia, PT",
+        "address": "Jl. Rembang Industri Ii No. 2 Pier, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.68,
+          -7.5598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Centram, PT",
+        "address": "Desa Carat, Gempol, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.41556,
+          -6.67778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cipta Dupatama, CV",
+        "address": "Dusun Grogolan Desa Winong Kec.gempol, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8835,
+          -7.633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cipta Jaya Sentosa, CV",
+        "address": "Jl. A. Yani No. 33 Rt.01/rw. Iii, Ds. Karangketug, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7523,
+          -7.5946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Citra Cakralogam, PT",
+        "address": "Jl. Raya Selorawan, Beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7523,
+          -7.5946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Citra Centra Pasific, PT",
+        "address": "Jl. Balai Agung Rt03 Rt01 Beji, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123,
+          0.66667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Condido Agro, PT",
+        "address": "Jl. Nongkojajar Km.3, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7523,
+          -7.5946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Deerfos Indonesia, PT",
+        "address": "Jl. Raya Gunung Gangsir No.27 Beji, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.897255,
+          -7.64406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Delta Surya Textile, PT",
+        "address": "Jl. Lingkar Amd Desa Pasuruan Kec.purwodadi, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.8296,
+          0.7851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Diraja Surya Furniture, PT",
+        "address": "Desa Asem Kandang M-24, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.912805,
+          -7.637221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dj Busana Jaya, PT",
+        "address": "Jl. Panglima Sudirman No.108 Mayangan, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7523,
+          -7.5946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Domusindo Perdana, PT",
+        "address": "Jl. Wicaksana, Ds.gunung Gangsir Beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.05,
+          0.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dong Lim Furniture Indonesia, PT",
+        "address": "Dusun Pohkecik,ds.baujeng,kec.beji, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.762075,
+          -7.610382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dozen Bagus Indonesia, PT",
+        "address": "Jl. Surabaya-malang Km 41,dusun Kambeng,kec.gempol, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7161,
+          -7.5994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dutamas Satu, PT",
+        "address": "Desa Wonokoyo, Kec. Beji, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7924,
+          -7.6465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Eka Chemicals Indonesia, PT",
+        "address": "Jl. Rembang Industri Iii/32,pier, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7537,
+          -7.8191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Eka Timur Raya, PT",
+        "address": "Jl. Raya Nongkojajar Km 1.4 Purwadadi, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.6592,
+          -7.6722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Erindo Mandiiri, PT",
+        "address": "Jl. Damarwulan No.2 Gambiran Prigen, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.69,
+          -7.56
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Esjamat, PT",
+        "address": "Dukuh Dliring Desa Winong Kec.gempol, 67155, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7537,
+          -7.8191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Etira Champimer Indonesia, PT",
+        "address": "Jl. Raya Nongko Jajar Km 1,4 Purwodadi, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7523,
+          -7.5946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Fajar Alam Semesta, PT",
+        "address": "Dusun Kemloko Beji, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8609,
+          -7.7111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gema Ista Raya, PT",
+        "address": "Jl. Tembero No. 17 Ds. Tanggulangin Kec. Kejayan, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.05,
+          0.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gimex  Furniture Manufacturing Co., PT",
+        "address": "Jl. Raya Lemahbang Km 52 Ngadimulyo, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7161,
+          -7.5994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Guntner Indonesia, PT",
+        "address": "Desa Wonokoyo, Beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.6912,
+          -7.5633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Halimjaya Sakti, PT",
+        "address": "Jl. Raya Pabean No. 109, Kejapanan, Gempol, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7115,
+          -7.5636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harapan Desa Kita, PT",
+        "address": "Jl. Raya Legok, Gempol,, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.52,
+          0.6403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harim, PT",
+        "address": "Jl. Raya Trans Sulawesi, Kec. Paguyaman, Pohuwato, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.71,
+          -7.69
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harum, Ud.",
+        "address": "Jl. Raya Suwayuwo Suwayuwo, Sukorejo, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8889,
+          -7.6393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hasil Alam Indo Indah, PT",
+        "address": "Jl. Raya A. Yani No. 73, Gadingrejo, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.6859,
+          -7.5966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Himalaya Grafurin International, PT",
+        "address": "Jl. Raya Surabaya-malang Km.40,2 Kec. Gempol, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8071,
+          -7.8724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hortindo Agrokencana Farm, CV",
+        "address": "Krajan Ii Rt. 05/01 Tutur Kec. Tutur, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.637236,
+          10.93181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hou-tech Indonesia, PT",
+        "address": "Jl. Rembang Industri Ii/22 Rembang, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.05,
+          0.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hp Spintex, PT",
+        "address": "Dusun Sengon Rt.001 Rw.003, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7161,
+          -7.5994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Iga Abadi, PT",
+        "address": "Jl. Bintoro Ds. Wonokoyo - Beji, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7009,
+          -7.6026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indah Kejora, PT",
+        "address": "Jl. Raya Pandaan-gempol Km.40,5(depan Pt.sorini), Ngerong Gempol, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8699,
+          -7.6288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Index Furnindo Utama, PT",
+        "address": "Jl. Raya Tambakrejo, Kraton, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8508,
+          -7.603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indo Furnitama Raya, PT",
+        "address": "Ds.gerongan, Gerongan - Kraton, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.06212500000001,
+          0.5377145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indo Java",
+        "address": "Jl. Batavia No.13, Rt.003 Rw.003, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7523,
+          -7.5946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indojaya Prima Semesta, PT",
+        "address": "Dsn.wicaksana Talun , Ds.gununggangsir, Kec. Beji, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7268,
+          -7.587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indra Eramulti Logam Industri, PT",
+        "address": "Desa Gununggangsir - Beji, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7031,
+          -7.6976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Inkor Bola Pacific, PT",
+        "address": "Jl. Raya Surabaya Malang Km.52-53 Ngadimulyo Sukorejo, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7161,
+          -7.5994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Inti Lautan Fajar Abadi, PT",
+        "address": "Jl. Wonokoyo 1 Desa Wonokoyo, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7454,
+          -7.5922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Inti Luhur Fuja Abadi, PT",
+        "address": "Jl. Raya Cangkringmalang Km 6 Beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7163,
+          -7.7029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Intim Harmonis Foods Industri, PT",
+        "address": "Jl. Raya Jombor Bawah Km.53 Lemahbang Sukorejo, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.885,
+          -7.6546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jati Makmur, CV",
+        "address": "Jl. Raya Bukir 55, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.6859,
+          -7.5966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jatim Autocomp Indonesia, PT",
+        "address": "Jl. Raya Wonoayu No. 26 Belakang Gempol, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          45.4313509259373,
+          14.0007760410816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kar-li & Brothers Indonesia",
+        "address": "Jl. Ahmad Yani No. 49, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8456,
+          -7.639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karista Furnindo Utama, PT",
+        "address": "Desa Tambak Rejo Rt. 005  Rw. 004 Kel. Tambak Rejo  Kec. Kraton, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.9909,
+          -7.9124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karunia Jaya",
+        "address": "Dusun Jetak, Rt. 03, Rw. 09, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7161,
+          -7.5994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karunia Rejeki Abadi, PT",
+        "address": "Desa Wonokoyo Beji, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7161,
+          -7.5994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Guna Ekatama, PT",
+        "address": "Jl. Wonokoyo Kec. Beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.703,
+          -7.6517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Idaman Bersama, PT",
+        "address": "Dusun Wangi Rt. 001 Rw. 009 Sumberejo Pandaan, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8456,
+          -7.639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Sehati Mandiri, PT",
+        "address": "Dusun Krajan 101 Tambak Rejo Kraton, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7302,
+          -7.6962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Sutarindo, PT",
+        "address": "Dusun Palang No. 47 Rt. 001 Rw. 001 Lemah Abang Sukorejo, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.713572,
+          -7.707047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Tugas Anda",
+        "address": "Jl. Raya Sukorejo No.1, Pasuruan, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.703,
+          -7.6517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karyadibya Mahardika, PT",
+        "address": "Jl. Raya A. Yani Tawangrejo Pandaan, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.05,
+          0.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kemasan Ciptatama Sempurna, PT",
+        "address": "Depan Makam Cina Gunung Gangsir,pasuruan, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8227,
+          -7.6193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "King Jim Indonesia, PT",
+        "address": "Jl. Rembang Industri  Ii/1, Pier Pandean Rembang, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.703,
+          -7.6517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "King Raya Sejahtera, PT",
+        "address": "Jl. Raya Kasrie No. 221 Pandaan, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.6859,
+          -7.5966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kreasi Indah Cemerlang, PT",
+        "address": "Jl. Dsn. Bumbungan No.8, Ds.sumbersuko Gempol, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.05,
+          0.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Landkrone Indo Nutri, PT",
+        "address": "Dusun Wonogriyo Rt.01/rw.01, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.3175,
+          -8.3607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Larasati Multisentosa, PT",
+        "address": "Jl. A. Yani Jurusan Desa Kaligung Kel. Karang Ketug, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.05,
+          0.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lautan Sakura",
+        "address": "Jl 23 Januari, Gorontalo, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7009,
+          -7.6026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Legon Bali Nusantara, PT",
+        "address": "Jl. Ngerong I/07 Desa  Ngerong Kec. Gempol, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.703,
+          -7.6517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Louise & Rococo, PT",
+        "address": "Dsn. Ledok Rt.03 Rw.05 Ds. Kemirisewu Kec. Pandaan, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7415,
+          -7.7672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mandiri Maha Mulia",
+        "address": "Desa Purwosari Rt. 06 Rw. 03,pasuruan, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.05,
+          0.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Manna Utara",
+        "address": "Jl. Raja Eyato No. 449, Gorontalo, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.983014,
+          -15.350101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Massyndo Gemilang, PT",
+        "address": "Jl. Rembeng Industri Vii/c-1 Pier, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7161,
+          -7.5994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mega Marine Pride, PT",
+        "address": "Desa Wonokoyo Beji, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.822783,
+          -7.65803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mentari, Ud.",
+        "address": "Dusun Geneng Waru Rt 02/01 Rembang, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.6846,
+          -7.6755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Merpati, CV",
+        "address": "Dusun Bakalan Rt.06 Rw.02 Desa Durensewu Kec. Pandaan, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.80482073895072,
+          61.2483331493152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Millenia Furniture Industries, PT",
+        "address": "Jl. Raya No. 31, Desa Sambisirah, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.781,
+          -7.5935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Miswak Utama, PT",
+        "address": "Jl. Sepat 691-a Kauman-bangil, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.06212500000001,
+          0.5377145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Mandiri Agri Makmur, PT",
+        "address": "Jl. Trans Sulawesi Dusun Ayubuku Gorontalo Utara, Gorontalo Utara, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.726556,
+          -7.735915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Prima Sentosa, PT",
+        "address": "Jl. Raya Purwosari Km.4 Bakalan, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7924,
+          -7.6465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Miyazawa Indonesia, PT",
+        "address": "Jl. Rembang Industri Vii No.7 (pier), Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.73,
+          -7.58
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Namasindo Plas Abadi, PT",
+        "address": "Jl Raya Cangkring Malang Km. 05 Beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.05,
+          0.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nature Teak Specialist, PT",
+        "address": "Dusun Kaliputih,ds.sumbersuko,kec.gempol, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.352926,
+          -16.744045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Omega Mas, PT",
+        "address": "Dsn Winong Timur Rt. 11/rw. 06, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.703,
+          -7.6517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Paberik Tekstil Kasrie, PT",
+        "address": "Jl. Jl. Jend. A. Yani, Pandaan, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.794,
+          -7.6053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Packindo Utama Makmur, PT",
+        "address": "Jl. Hasan Munadi No. 40 Dusun Dermo,pasuruan, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123,
+          0.66667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Panverta Cakrakencana, PT",
+        "address": "Jl. Raya Surabaya Malang Km. 45, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.703,
+          -7.6517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pasific Harvest, CV",
+        "address": "Dsn. Keceling,  Ds. Kemrisewu Pandaan, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8186,
+          -7.5994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pq Silicas Indonesia, PT",
+        "address": "Jl. Rembang Industri Raya No. 24 Pier Bangil, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.822834,
+          -38.377746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Primier Bumidaya Industri, PT",
+        "address": "Jl.rembang Industri Vi/9 Pier, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7147,
+          -7.7627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Purindo Ilufa, PT",
+        "address": "Ds. Purwosari Rt. 05 Rw. 06, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7052,
+          -7.6371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putera Djaja Widjaja, CV",
+        "address": "Desa Nogosari Kecamatan Pandaan, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.9144,
+          -7.6529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Raindo Putra Lestari, PT",
+        "address": "Jl. Ir. H. Juanda No. 20 Kel.blandongan Kec. Bugul Kidul, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.73,
+          -7.58
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ramagloria Sakti Tekstil, PT",
+        "address": "Desa Cangkring Malang Beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7523,
+          -7.5946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ray Chain Shoes Indonesia, PT",
+        "address": "Jl. Raya Kemloko Km. 4 Desa Beji, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8186,
+          -7.5994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rex Canning, PT",
+        "address": "Jl. Raya  Beji-bangil Km.4 No 42 Kec.beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.72,
+          -7.62
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sannita Abadi, PT",
+        "address": "Desa Kemiri Sewu Rt. 03 Rw. 05 Pandaan Pasuruan, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.68,
+          -7.63
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sarana Kreasi Lestari, PT",
+        "address": "Jl. Bumbungan Desa Sumber Suko Gempol Pandaan 67155, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.637236,
+          10.93181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Scandinavian Tobacco Group Indonesia, PT",
+        "address": "Jl. Rembang Industri Ii/16, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7415,
+          -7.7672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sentosa Abadi Purwosari, PT",
+        "address": "Jl. Raya Polorejo Rt. 04, Rw. 07 Purwosari Kec. Purwosari, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.9518,
+          -7.7188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Serba Gurih",
+        "address": "Jl. Raya Gading Rejo No. 216 Pasuruan No.fax : 0343422292, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.5067,
+          42.9044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Serba Gurih Indonesia, PT",
+        "address": "Jl. Achmad Yani 216, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.45,
+          0.7
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Setia Karya Wonosari Jaya, PT",
+        "address": "Ds. Wonosari Rt. 005 Rw. 01 Kec. Wonorejo, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7115,
+          -7.5636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Shou Fong Lastindo, PT",
+        "address": "Jl. Raya Panderejo Desa Legok Kec. Gempol, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.767417,
+          0.623037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Mas Furniture, CV",
+        "address": "Jl. Karya Bhakti Blok G-7, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.703,
+          -7.6517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinarraya Nugraha Ahmadaris Medika, PT",
+        "address": "Jl. Pattimura No. 2 Pandaan, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -70.552994,
+          -33.431888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sindu Amritha, PT",
+        "address": "Jl. Sumatra 24-28,, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.633267,
+          49.755211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sonokeling Indah",
+        "address": "Dsn Kemloko No30 Rt 03 Rw 01, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7009,
+          -7.6026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sorini Agro Asia Corporindo, Tbk, PT",
+        "address": "Jl. Gempol Pandaan, Ds. Ngerong, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7523,
+          -7.5946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sorini Towa Berlian Corporindo, PT",
+        "address": "Desa Cangkringmalang, Beji, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8456,
+          -7.639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sri Rejeki Mebelindo, PT",
+        "address": "Jl. Raya Tambakrejo No. 61 Kraton, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.96,
+          0.56
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Star Bio, PT",
+        "address": "Jl.  Raya Batudaa, Gorontalo, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7268,
+          -7.587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Starr Panel Industri, PT",
+        "address": "Jl. Raya Gununggangsir Dsn Wonokoyo Rt.002, Rw.002, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.703,
+          -7.6517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Pangan Sukses, CV",
+        "address": "Pahlawan Sunaryo No.103-109, Dsn. Nampes Rt.02/rw.01, Kel.nogosari, Kec. Pandaan, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7523,
+          -7.5946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sung Hyun Indonesia, PT",
+        "address": "Jl. Dusun Pajejeran, Ds. Gunung Gangsir, Kec. Beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.69,
+          -7.64
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Supra Aluminium Industri, PT",
+        "address": "Jl. Raya Kasri No.146, Kel. Tawang Rejo, Kec. Pandaan, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8227,
+          -7.6193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surabaya Ren Ding Plastic, PT",
+        "address": "Jl. Rembang Industri Raya No.10,10a,12, Kawasan Industri Pier Pandean, Rembang, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.6859,
+          -7.5966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surya Optima Nusa Raya, PT",
+        "address": "Jl. Raya Wonoayu No.26 D, Dsn. Klisik Rt.004/rw.011, Gempol, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.689529,
+          -7.642291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Swedish Match Cigars Indonesia, PT",
+        "address": "Jl. Stadion No.28, Kel. Pandaan, Kec. Pandaan, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7324,
+          -7.6232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "T.y. Building Products Indonesia, PT",
+        "address": "Ds. Baujeng, Kec. Beji, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.73,
+          -7.58
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Takiron Indonesia, PT",
+        "address": "Jl. Kabupaten, Ds. Cangkring Malang, Kec. Beji, Pasuruan, Gorontalo",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7324,
+          -7.6232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "The Clod Indonesia, PT",
+        "address": "Jl. Dusun Pohkecik, Kel. Baujeng, Kec. Beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7163,
+          -7.7029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tirta Bahagia, PT",
+        "address": "Jl. Raya Surabaya, Malang Km.53, Kel. Lemahbang, Kec. Sukorejo, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7161,
+          -7.5994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Universal Jasa Kemas, PT",
+        "address": "Desa Wonokoyo Beji, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.74,
+          -7.58
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Universal Surfesindo, PT",
+        "address": "Jl. Balong Rejo Ds. Kedung Ringin Kec. Beji, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123,
+          0.66667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Watanabetai Indonesia, PT",
+        "address": "Jl. Gununggangsir Km. 1,5 Desa Wonokoyo Beji 67154, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.67189,
+          -7.70199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wijaya Lestari, CV",
+        "address": "Jl. Raya Surabaya Malang Km.48, Ruko The Taman Dayu Central Business, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.7523,
+          -7.5946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Winaros Kawula Bahari, PT",
+        "address": "Dsn Gondang Legi Cangkring Beji 67154, Pasuruan, Gorontalo",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.8508,
+          -7.603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yanamury Rattan, PT",
+        "address": "Desa Gerongan, Pasuruan, Gorontalo",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.07,
+          -3.96
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Modern Metal Industri",
+        "address": "Jl. Poros Lambuya-motaha,konawe, Konawe, Sulawesi Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.325,
+          -3.41333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Untuk Indonesia Hijau",
+        "address": "Jl. Poros Majene No. 187, Polewali Mandar, Sulawesi Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Adi Tirta, CV",
+        "address": "Jl. Sabutung No. 123, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.47,
+          -5.18
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Adimitra Pinus Utama, PT",
+        "address": "Jl. Poros Tombolo No.50 Malino, Gowa, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aflah Falah, PT",
+        "address": "Jl. Lasuloro Raya Blok 1 No. 42, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.42,
+          -5.17
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Agarindo Sakti, PT",
+        "address": "Jl. Bonto Ramba No.6, Pabaeng Baeng, Tamalate, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.522646,
+          -5.081499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Agrolestari Mandiri, CV",
+        "address": "Citra Sudiang Estate A3/45, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.421903,
+          -5.160165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aimil Insam Marmer, PT",
+        "address": "Jl. Onta Baru No.51 90135, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ang And Fang Brother, PT",
+        "address": "Jl. P. Diponegoro No. 95, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.59,
+          -5.03
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anugerah Bintang Cemerlang, Ud.",
+        "address": "Jl. Bambu Runcing No. 99 Maros, Desa Bonto Tallasa Kec. Simbang, Maros, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anugerah Gemilang Sukses Sedayu",
+        "address": "Jl. Sulawesi No 70 Rt 002 Rw 006, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anugerah Sarana Tehnik Kayu, CV",
+        "address": "Jl. Veteran Utara No. 256, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.45,
+          -5.2
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anugerah Sejati, CV",
+        "address": "Jl. Metro Tanjung Bunga No.a 33 Ruko Somba Opu, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.65,
+          -4.79
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anugrah Delta Abadi, PT",
+        "address": "Kap. Mangilu Dalam Mangilu Bungoro, Pangkajene Dan Kepulauan, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.65,
+          -4.79
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anugrah Marmer Abadi, PT",
+        "address": "Kamp. Mangilu Dalam Desa Mangilu Kec. Bungoro, Pangkajene Dan Kepulauan, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.435405,
+          -5.14062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Atops, Ud.",
+        "address": "Jl. Bahagia No.2 Karuwisi, Panakkukang, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.53,
+          -5.08
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Atops, Ud.",
+        "address": "Jl. Bahagia No. 2 Kel Sudiang, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.5596,
+          -5.1042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Awanindo Mandiri, CV",
+        "address": "Jl. Poros Maros Km 23, Lingkungan Padang Alla Kel Hasanuddin, Mandai, Maros, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.422651,
+          -5.113605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Baharu, Ud.",
+        "address": "Jl. Sabutung Timur Lr 4/7, Pattingaloang, Ujungtanah, 90161, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.57,
+          -5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bantimurung Indah, PT",
+        "address": "Jl. Dr Sam Ratulangi Km 31 163, Alli Ritange, Maros Baru, Maros, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Barry Callebaut Comextra Indonesia, PT",
+        "address": "Jl. Salodong No. 77 Rt. 007 Rw. 001, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Batu Alam Indah, PT",
+        "address": "Jl. Dr.ratulangi No.28, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.408973,
+          -5.142215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Batu Putih Raya, PT",
+        "address": "Jl.  Ali Malaka No. 39 Maloku, Ujungpandang, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.3661,
+          -5.3166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Benur Rahma, CV",
+        "address": "Jl. Tala-tala, Galesong, Takalar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.64,
+          -4.01
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bintang Timur, Ud.",
+        "address": "Btn Lapadde Mas A No.47 Kel. Lapadde Kec. Ujung, Parepare, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Blon Adil Jaya",
+        "address": "Jl. Toddopuli V Blok 31 Stp.1  No.17rt 001 Rw 003, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bogatama Marinusa, PT",
+        "address": "Jl. Kima Raya 2 Kav N-4 B1, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bososi Pratama, PT",
+        "address": "Btn Kalamang Permai Blok 1 No 1 Kel.pai Kec.biringkanaya, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.58,
+          -5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bukit Marmer Indah, PT",
+        "address": "Galagara, Kel. Mattirodeceng, Kec. Lau, Maros, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bumi Daya, Ud.",
+        "address": "Jl. Tanjung Raya Ii No. 42, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.6077,
+          -4.9759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Baru Madani, PT",
+        "address": "Jl. Takkalasi Dusun Pattene Desa Temmapaduae Kec.p.marusu, Maros, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.45,
+          -5.16
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Cemerlang, PT",
+        "address": "Jl. Urip Sumoharjo No.166, Sinrijala Panakkukang, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.4221,
+          -5.14
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Makmur Cemerlang",
+        "address": "Jl. Ir . Sutami No.19a,makassar, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.61,
+          -4.75
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Celebes Indonesia Marble",
+        "address": "Desa Bara Batu,pangkep, Pangkajene Dan Kepulauan, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.437461,
+          -5.15091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Celebes Marmerindo, PT",
+        "address": "Jl. A.p. Pettarani No.55, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.18,
+          -2.95
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Centralindo Agar Utama, Ud.",
+        "address": "Jl. Cakalang Baru, Palopo, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Chen Woo Fishery, PT",
+        "address": "Jl. Kima 4 Blok A9/kav. B2, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Comextra Majora, PT",
+        "address": "Jl. Salodong No. 66, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Daiwa Agung Internasional, PT",
+        "address": "Jl. Ir Sutami Tol Lama No.1, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dalle Macoracora, PT",
+        "address": "Jl. Ir. Sutami No. 26 (toll), Kel. Parangloe, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.65,
+          -4.79
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dayacayo Asritama, PT",
+        "address": "Jl. Siloro Desa Mangilu Bungoro, Pangkajene Dan Kepulauan, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Delton, Ud.",
+        "address": "Jl. Drs. Haeruddin Hasan No. 21, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.510007,
+          -5.109709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Donglim Jireh, PT",
+        "address": "Jl. Perintis Kemerdekaan Km.13  Komp. Kima Square Blok B No. 1-2, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Duta Pelita Jaya, PT",
+        "address": "Jl. Danau Poso No. 32 (taman Toraja- Tanjung Bunga), Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.410932,
+          -5.136219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dwira Masagena",
+        "address": "Jl. Onta Baru No.48, Rt 002 Rw 003, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Eastern Pearl Flour Mills, PT",
+        "address": "Jl. Hatta No.302, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.441937,
+          -5.136331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "En3 Green Energy, PT",
+        "address": "Jl. Urip Sumoharjo No. 20 Fajar Graha Pena Bldg, 9 Floor, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.408973,
+          -5.142215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Giwang Citra Laut, PT",
+        "address": "Jl. Lamaddukelleng No. 9a Maloku - 90112, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.41,
+          -5.13
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Golden Globe, CV",
+        "address": "Jl. Nusantara No. 66, Makassar, Pattunuang, Wajo, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.65,
+          -4.79
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Graha Tunggal Tata Persada, PT",
+        "address": "Kap.mangilu Dalam Mangilu-bungoro Pangkep, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.650658,
+          -4.946628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Grand Marmer Alam Serasi, PT",
+        "address": "Desa Tukamasea Kecamatan Batimurung, Maros, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.650658,
+          -4.946628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Grasada International, PT",
+        "address": "Kamp. Pajjaiang Tukamasea Bantimurung, Maros, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.54,
+          -4.78
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gunung Mas Persada Jaya, PT",
+        "address": "Desabara Batu Labakkang-labakkang, Pangkajene Dan Kepulauan, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.42,
+          -5.13
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Haplong",
+        "address": "Jl. Pongtiku No. 32 (46), Malimongan Baru, Bontoala, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harapan Utama, CV",
+        "address": "Jl. Prof  Dr Ir. Sutami No.30, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hidup Baru Perdana Abadi",
+        "address": "Jl. Urip Sumoharjo No. 20, Gd. Graha Pena  Lt. 18, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.53,
+          -5.08
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hokky Seafood, CV",
+        "address": "Jl. Perintis Kemerdekaan No.17-18 Ruko 237 Sudiang Biringkanaya 90242, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hope  Indonesia, PT",
+        "address": "Jl. Sarappo  No.121, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.5,
+          -5.12
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ilham Trijaya, PT",
+        "address": "Jl. Kapasa Raya Rt.a.rw.01, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43998,
+          -5.182532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Inaya Media Pratama, CV",
+        "address": "Jl. Tamalate V Stp.ii No.165, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indah Sari, CV",
+        "address": "Jl. Dgb Tata Iv Griya Tata Asri Blok E/13a, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.66667,
+          -5.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indo Anugerah Abadi, Ud.",
+        "address": "Jl. Dr.wahidin Sudiro Husodo No.48 Kec.somba Opu, Gowa, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.429317,
+          -5.111619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indo Jaya Marine, PT",
+        "address": "Jl. Sabutung Baru No.104 Camba Berua, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indo Marine Fish, CV",
+        "address": "Jl. Gunung Latimojong No. 67, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.3814,
+          -5.3522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Insan Laut, Ud.",
+        "address": "Jl. Barua Desa Bontomarannu Kec. Galesong Selatan, Takalar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.435132,
+          -5.120532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Insani Marmeril, PT",
+        "address": "Jl. Kh.achmad Dahlan No.1 Rt002 Rw.003 Maloku - Ujung Pandang, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.406213,
+          -5.137335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jati Jaya",
+        "address": "Jl. Tol Lama  No.5,makassar, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.6077,
+          -4.9759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jatijaya Perkasa Mandiri, PT",
+        "address": "Jl. Hertasning Iv/no1, Maros, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43998,
+          -5.182532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jaya Indah Cemerlang, CV",
+        "address": "Jl. Tamalate Vii Stp 29 No. 271, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.51,
+          -5.11
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jayaparkasa Makmur Abadi, PT",
+        "address": "Jl. Kima Raya Ii Kav.m-5, Daya Biringkanaya, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.9,
+          -2.969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kamawiguna, CV",
+        "address": "Jl. Pasar No. 25 Kec. Rantepao, Toraja Utara, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.420083,
+          -5.110498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karang Mas, CV",
+        "address": "Jl. Maccini Gusung No. 9, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Asta Alam, PT",
+        "address": "Jl. Dr. Ratulamgi No. 28 Rt. 005  Rw. 007, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Jaya Mandiri, PT",
+        "address": "Jl. Dr. Ir. Sutami No.15 A, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.425196,
+          -5.115117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Triagung Permai, PT",
+        "address": "Jl. Pannampu No. 7, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Utama Anugerah, PT",
+        "address": "Jl. Prof Dr. Ir Sutami No. 15 Toll Lama, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kawa Guti, PT",
+        "address": "Jl. Ir. Sutami Tol Lama No. 22, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.53,
+          -5.06
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kayu Nusantara Aneka Industri, PT",
+        "address": "Jl. Takkalasi No. 5 Pattene Maros, Desa Temmapadduae  Kec. Marusu, Maros, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.46,
+          -5.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kevinindo, CV",
+        "address": "Jl. Ir.sutami No.1 Tol Lama  Parang Loe Tamalanrea, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.406213,
+          -5.137335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kharisma Bintang Terang",
+        "address": "Jl. Kima 3 No.2a (kawasan Industri Makassar), Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.2,
+          -3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kjub Puspeta Luwu, Kp.",
+        "address": "Jl. Tandipau No.1, Palopo, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Koperasi Agroniaga, Kp.",
+        "address": "Jl. Manunggal 31 No.93, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.4221,
+          -5.14
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kopi Sulawesi",
+        "address": "Jl. Barawaja No. 48,makassar, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.423568,
+          -5.143318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Korin Harapan Indah, PT",
+        "address": "Jl. Veteran Utara 230-b Rt 002/01 Maradekaya, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.4221,
+          -5.14
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kospermindo",
+        "address": "Jl. Kima 8 Kav 3 A 1 ( Kawasan Industri Makassar ),makassar, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.48,
+          -5.09
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Makassar  Jaya, CV",
+        "address": "Jl. Batara Bira 6 Komp. Pu No. 13, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.46,
+          -5.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Makassar First Cocoa",
+        "address": "Jl Ir.sutami Pergudangan Parang Loe Indah Blok J.5 No 17,18,20,makassa, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Makassar Indah Nusalestari, PT",
+        "address": "Jl. Yos Sudarso No. 225b, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Makassar Marmer Muliaindah, PT",
+        "address": "Jl. Yos Sudarso No.225b, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Marine 33, CV",
+        "address": "Jl.masjid Raya N0.23 Rt.001 Rw.003 Bontola, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.498288,
+          -5.161953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Marmer Alam Sulawesi, PT",
+        "address": "Jalan Raya Baruga Sektor Mahameru No.1, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mars Symbioscience Indonesia, PT",
+        "address": "Jl. Kima 10 Kav A6, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.5,
+          -5.12
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Maruki International Indonesia, PT",
+        "address": "Jl. Kapasa Raya Biringkanaya, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mega Citra Karya, PT",
+        "address": "Jl. Toddopuli Xv Blok A No.1, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.42,
+          -5.13
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Megahputra Sejahtera, PT",
+        "address": "Jl. G. Latimojong 131 Gaddong Bontoala, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.42,
+          -5.13
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Merpati Nusantara Airlines, PT",
+        "address": "Jl.gunung Bawakaraeng No.109 Tompo Balang Bontoala, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.481409,
+          -5.098339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Metta Makassar Jayaabadi",
+        "address": "Jl. Ir. Sutami No. 38 Komp. Pergudangan Parangloe Indah Blok J3/1, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Kartika Sejati, PT",
+        "address": "Jl. Kima Raya 1 Kav. D1b Kima, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Sejahtera, CV",
+        "address": "Jl. Landak No.16, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.5,
+          -4.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Muliya Visindo, PT",
+        "address": "Jl. Pramuka Kampung Bonto Manai, Minasa, Tene, Pangkajene Dan Kepulauan, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Multi Monodon Indonesia, PT",
+        "address": "Jl. Kimia Raya I Block D-2b, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Multi Nusa Inti Lestari, PT",
+        "address": "Jl. P.diponegoro No.95, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Multi Sari Makassar, PT",
+        "address": "Jl. Kima 8 Kav.ss-12, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.4194,
+          -5.1639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mutiara Nusa Timur, CV",
+        "address": "Jl. Baji Pamai I No. 12, Tamparang Selatan,mamajang, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.5,
+          -5.12
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nuansa Cipta Magelo, PT",
+        "address": "Jl. Kima 3 Daya Kapasa Tamalanrea, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nusadwipa Citra Tunggal, PT",
+        "address": "Jl. Kima Vii Blok.j No.4a, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ocean Champ Seafood, PT",
+        "address": "Jl. Kima 7 Kav. J-2, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.446948,
+          -5.160108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ome Trading Coy, CV",
+        "address": "Jl. Pengayoman Kompleks Akik Hijau Blok C7, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.41,
+          -5.22
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Omereso Foods, PT",
+        "address": "Jl. Poros Kanjilo,barombong, Gowa, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Parlevliet Paraba, PT",
+        "address": "Perumahan Al Blok A2/14, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pelita, CV",
+        "address": "Jl. Sabutung 27 No. 31, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.45,
+          -5.16
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Persada Semesta, CV",
+        "address": "Jl. Topaz Ry Ruko Topaz Panakkukang Mas Bl F/53, Panaikang, Panakkukang, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prima Bahari Inti Lestari, PT",
+        "address": "Jl. Diponegoro No. 95 Am, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prima Indo Tuna, CV",
+        "address": "Jl. Ir. Sutami No. 32, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Primagum Sejati, PT",
+        "address": "Jl. Mutiara Asri Ii No. 37 Villa Mutiara, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.46,
+          -5.17
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Puteri Jaya, CV",
+        "address": "Jl. Borong Raya No. 12, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rani Raihan Sehati, Ud.",
+        "address": "Jl.toddopuli Raya Timur No.79.e Blok.a.5, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.443228,
+          -5.104189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rapid Niaga Internasional, PT",
+        "address": "Tol Lama No.9 Bontoa,tallo, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rekayasa Utama Interland, PT",
+        "address": "Jl.urip Sumoharjo No.7, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.57625,
+          -5.018846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Resky Bahari, CV",
+        "address": "Jl. Poros Makassar-maros No. 24, Maros, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rika Rayhan Mandiri, PT",
+        "address": "Jl. S. Alauddin Komp. Bph Bumi Raya Blok. B.1 No. 3, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Safari Utama",
+        "address": "Jl. Gunung Latimojong No. 127 Rt/rw. 001/001, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.4221,
+          -5.14
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Hasil Putera, PT",
+        "address": "Jl. Sungai Poso Lr. 77 No. 1 Makassar, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.4221,
+          -5.14
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Hasil Utama, CV",
+        "address": "Jl. Sungai Poso Lr. 77 No. 1 Makassar, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.458446,
+          -5.097216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Seaweed Sukses Sejahtera, Ud.",
+        "address": "Jl. Ir. Sutami Blok E.3/10 Kel. Parangloe Kec. Tamalanrea, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Semangat Kawan Sejati, Ud.",
+        "address": "Jl. Buru No. 20a, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sentosa Bimantara Laut, CV",
+        "address": "Jl. Barukang No. 24, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.45,
+          -5.2
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sentosa Sumber Galesong, PT",
+        "address": "Jl. Sultan Hasanuddin Graha Satelit Blok A. 20 Kec. Somba Opu Kab. Gow, Gowa, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Graha, PT",
+        "address": "Jl. Sultan Abdullah No. 59, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.4221,
+          -5.14
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Laut Nusantara, PT",
+        "address": "Jl. Muhammadiyah Lr. 202 C No. 1, Makassar, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Surya, Ud.",
+        "address": "Jl. Yos Sudarso No. 215, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Singvlar Furniture Indonesia, PT",
+        "address": "Jl. Kima Raya I Kav. B-5, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "South Suco, PT",
+        "address": "Jl. Kima Vi Block G4 ( Kawasan Industri Km. 15), Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.437461,
+          -5.15091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sugarindo Trading Co, CV",
+        "address": "Jl. A. P. Pettarani No. 42, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.48,
+          -5.16
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sulawesi Beans, PT",
+        "address": "Jl. Antang Indah No.108, Ke Kampus Uvri Ii, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.5,
+          -5.12
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Bahari Mandiri, CV",
+        "address": "Jl. Kapasa Raya No. 38, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Baru, CV",
+        "address": "Jl. Andi Tadde No.14/22, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.443228,
+          -5.104189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Jati, Ud.",
+        "address": "Jl. Sultan Abdullah No.35, Kel. Tallo, Kec. Tallo, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.443228,
+          -5.104189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Karya Utama, CV",
+        "address": "Jl. Pannampu No.34-36 K, Kel. Kaluku Bodoa, Kec. Tallo, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.52,
+          -5.12
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Murni Lestari, PT",
+        "address": "Jl. Kima 4 Kav K/9-a, Kawasan Industri Makassar, Kel. Daya, Kec. Biring Kanaya, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Rezki, CV",
+        "address": "Jl. Tabanas No.17, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.443228,
+          -5.104189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumberguna Makasarnusa, PT",
+        "address": "Jl. Ujungpandang Baru No.17, Kel. Kaluku Bodoa. Kec. Tallo, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.406213,
+          -5.137335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tae Ho Bumi Abadi, PT",
+        "address": "Jl. Kima 3 Kav.k/4b Kawasan Industri Makassar, Kel. Daya, Kec. Biring Kanaya, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.52,
+          -5.12
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tawon Jaya Makassar, PT",
+        "address": "Jl. Kima Raya No.79a, Bira, Kec. Biring Kanaya, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.443332,
+          -5.150325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tekonindo, PT",
+        "address": "Jl. Abdullah Daeng Sirua No.310, Kel. Karampuang, Kec. Panakkukang, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.43111,
+          -5.13333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Terang Jaya Abadi, PT",
+        "address": "Jl. Tabanas Komp. Bbd No. 17 Rt.002 Rw.009, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.419782,
+          -5.130648000000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tiga Dara Perkasa",
+        "address": "Jl. Mesjid Awalul Islam, Perum. Dosen Unhas Km. 8 Rt.002 Rw.008, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.53,
+          -5.1
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tiga Putra Rajawali",
+        "address": "Btn Dwi Dharma Yanti Blok D1 No.1, Kel. Sudiang Raya, Kec. Biring Kanaya, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.5,
+          -5.12
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Toarco Jaya, PT",
+        "address": "Jl. Kapasa Raya No. 29, Kec.biring Kanaya, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.449141,
+          -5.148614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tobiko Utama, PT",
+        "address": "Jl. Sultan Alauddin No.47, Kel.jongaya, Kec.tamalate, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.47,
+          -5.22
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tombongi Permata Raya, PT",
+        "address": "Jl. Malino No. 258, Kel. Tamarunang, Kec. Somba Opu, Gowa, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.443228,
+          -5.104189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Trans Kcp, CV",
+        "address": "Jl. Sultan Abdullah No.59, Kel. Tallo, Kec. Tallo, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.48,
+          -5.16
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tridaya Jaya, CV",
+        "address": "Jl. Anuang No. 86, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.56,
+          -5.27
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tujuh Samudera Jaya, PT",
+        "address": "Jl. Malino Ds. Nirannuang Kec. Bontomarannu, Gowa, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.406213,
+          -5.137335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tunindo",
+        "address": "Jl. Adipura No. 27 Rt. 002/005,makassar, Makassar, Sulawesi Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.410086,
+          -5.122936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Usaha Sentral Jaya Sakti, PT",
+        "address": "Jl. Tentara Pelajar No. 38 Kel. Butung Kec. Wajo, Makassar, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.4221,
+          -5.14
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wahyu Pradana Binamulia, PT",
+        "address": "Jl. Kima Raya I-d 2-c, Kawasan Industri Makassar, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.52,
+          -5.12
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wahyu Putra Bimasakti, PT",
+        "address": "Jl. Kima 10 Blok  T No.2b, Kawasan Industri Makassar 90241, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.46,
+          -5.15
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wutama Tri Makmur, PT",
+        "address": "Jl. Tulip Ii No.10, 90233, Makassar, Sulawesi Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.190999,
+          -5.558782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Zanur Hijau Lestari, PT",
+        "address": "Lingkungan Kalammassang No. 01 Rt/rw. 001/002,bulukumba, Bulukumba, Sulawesi Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.8392,
+          -0.4496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Arta Palu, PT",
+        "address": "Desa Batu Suya Kecamatan Sindue, Donggala, Sulawesi Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.708143,
+          -1.006193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Brasindo Gum, PT",
+        "address": "Desa Koyoan Kec.luwuk ,cab.kav.dki Blok 95/15, Banggai, Sulawesi Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.876118,
+          -0.908362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Budi Abadi, CV",
+        "address": "Jl. Towua No.96a ,tatura, Palu, Sulawesi Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.834202,
+          -1.780458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bumi Asri Pasaman, PT",
+        "address": "Jl. Baru Buntok No. 68, Desa Danau Sadar, Buntok, Barito Selatan, Sulawesi Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.864291,
+          -0.758164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Chungsung",
+        "address": "Jl. Pagaru Lembah No. 46, Kel. Kayumalue Pajeko,, Palu Palu, Sulawesi Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.17,
+          -0.81
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Graha Istika Utama, PT",
+        "address": "Jl. Magau Janggo No. 169 Kec. Parigi, Parigi Moutong, Sulawesi Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.83333,
+          -0.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hansung Jaya, PT",
+        "address": "Jl.moh.yamin No.03, Palu, Sulawesi Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.83333,
+          -0.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Haycarb Palu Mitra",
+        "address": "Jl.moh Saleh Rt001/rw001, Palu, Sulawesi Tengah",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.7624,
+          -1.37859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indo Gum Perkasa",
+        "address": "Jl. Torulemba No. 98, Poso, Sulawesi Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.874305,
+          -0.909497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indotropic Fishery, CV",
+        "address": "Jl. Raya Km.9 Ds. Biak Kec. Luwuk, Banggai, Sulawesi Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.87,
+          -0.75
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lestari, CV",
+        "address": "Jl. Sarovele Kel. Kayumalue Ngapa Palu Utara, Palu, Sulawesi Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.83333,
+          -0.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mardiana, Ud.",
+        "address": "Jl. Tanjung Manimbaya No. 57, Palu, Sulawesi Tengah",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.86,
+          -0.92
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Utama, CV",
+        "address": "Desa Boyou Kec. Luwuk, Morowali, Sulawesi Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.88,
+          -0.88
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Multi Jasa Sarana, PT",
+        "address": "Jl. Yos Sudarso Blok A No. 06 Kel. Talise, Palu, Sulawesi Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.87,
+          -0.79
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Palu Jaya Utama, PT",
+        "address": "Jl. Trans Sulawesi No. 228 Mamboro, Palu, Sulawesi Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.87,
+          -0.79
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prima Karya Wirausaha, PT",
+        "address": "Jl. Trans. Sulawesi Km. 10 Mamboro, Palu, Sulawesi Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.83333,
+          -0.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pro Tangguh Niaga, CV",
+        "address": "Jl. Wr. Supratman No. 69, Palu, Sulawesi Tengah",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.865157,
+          -0.898576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ridha, CV",
+        "address": "Jl. Sungai Mountong Kel Ujuna Kec Palu Barat, Palu, Sulawesi Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.89,
+          -0.85
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Palu, CV",
+        "address": "Jl. Roviga No. 27 Tondo Duyu, Palu, Sulawesi Tengah",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.83333,
+          -0.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tatehe Nusa Jaya, PT",
+        "address": "Jl. I Gusti Ngurah Rai No.28, Kel.tawanjuka, Kec.tatangga, Palu, Sulawesi Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.83333,
+          -0.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Unggul Utama, CV",
+        "address": "Jl. Cut Nyak Dien No. 32, Palu, Sulawesi Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.7875,
+          -0.9516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wira Marine, CV",
+        "address": "Jl. Pangeran Antasari No. 24 Luwuk, Banggai, Sulawesi Tengah",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.9,
+          -0.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yalsa Perdana, CV",
+        "address": "Jl. Maleo No 85 Lasoani Mantikulore Palu, Palu, Sulawesi Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.83333,
+          -0.9
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yori Masa Company, PT",
+        "address": "Jl. Setia Budi No.48, Palu, Sulawesi Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.083128,
+          1.403465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anugerah Timur Makmur, PT",
+        "address": "Kel. Sagerat Lingk Iii, Sagerat Bitung Barat, Bitung, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.32,
+          0.74
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Avocet Bolaang Mongondow, PT",
+        "address": "Jl. Kol.sugiono No.24 Kotabangun, 95712, Kotamobagu, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.2,
+          1.45
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bintang Mandiri Bersaudara, PT",
+        "address": "Aertembaga Link. I Bitung Timur, Bitung, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.2,
+          1.45
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bitung Mina Utama, PT",
+        "address": "Lingkungan I Rt.5 Kel. Aertembaga Kec. Bitung Timur, Bitung, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.15,
+          1.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Blue Ocean Grace International",
+        "address": "Madidir Unet Lingkungan Ii Rt.12, Bitung, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.4161,
+          1.128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Carbontech Indonesia, PT",
+        "address": "Desa Teep Kecamatan Tengah, Minahasa Selatan, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.164169,
+          1.463066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Carvinna Trijaya Makmur, PT",
+        "address": "Madidir Weru Rt 016/rw 09,madidir Weru,madidir, Bitung, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.185857,
+          1.461347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Celebes Minapratama, PT",
+        "address": "Kel. Wangurer Lingk. Ii Kec. Bitung Tengah, Bitung, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.86,
+          1.48
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Coklat, CV",
+        "address": "Jl. Pingkan Matindas No. 58 Kel. Dendengan Dalam Kec Tikala, Manado, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.90961,
+          1.30679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Conaka Indonesia, PT",
+        "address": "Jl. Trans Sulawesi, Minahasa, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.13,
+          1.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Deho Canning Company, PT",
+        "address": "Jl. Raya Madidir,kel.madidir, Bitung, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.12,
+          1.43
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Delta Pacific Indotuna, PT",
+        "address": "Jl. Veteran Girian Bawah Lingkungan Iv, Bitung, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.98,
+          1.51
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dimembe Nyiur Agripro, PT",
+        "address": "Desa Tetey Kecamatan Dimembe, Minahasa Utara, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.81,
+          1.03472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dwipa Mitra Organik",
+        "address": "Jaga Iii, Minahasa Tenggara, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.19,
+          1.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Etmico Sarana Laut, PT",
+        "address": "Jl. Samuel Languyu Lingk.i No.8a, Aer Tembaga , Bitung Timur, Bitung, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.587447,
+          1.200656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Global Coconut",
+        "address": "Jaga Iv,minahasa Selatan, Minahasa Selatan, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.8909,
+          1.493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Golden - Kk, CV",
+        "address": "Jl. A.a.maramis No 214 Paniki Ii Kec. Mapanget, Manado, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.8909,
+          1.493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Golden - Kk, CV",
+        "address": "Jl. Tugu Adipura Komp. Bandara Samratulangi Kec. Mapanget, Manado, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.815183,
+          1.457132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Golden Acean Aquarium, Ud.",
+        "address": "Jl. Malalayang Satu Kec. Malalayang, Manado, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.87,
+          1.5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gunung Intan Permata, PT",
+        "address": "Jl. Arie Lasut Kelurahan Kombos Timur Kecamatan Singkil, Manado, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.059457,
+          1.672924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Horiguchi Sinar Insani, PT",
+        "address": "Ds.talise, Likupang Barat, 95375, Minahasa, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.85,
+          1.51
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indo Damai, CV",
+        "address": "Jl. Hasanudin No.51 Tuminting, Manado, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.84126,
+          1.49306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indoprima, CV",
+        "address": "Jl. Balai Kota No. 7, Manado, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.85,
+          1.48
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indospice, CV",
+        "address": "Jl. Tikala Aresxno.43, Manado, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.15,
+          1.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "International Aliance  Food Indonesia, PT",
+        "address": "Jl. Raya Air Madidir Lingk. Ii Madidir Unet Madidir, Bitung, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.11,
+          1.42
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Janur Kawanua Indonesia, PT",
+        "address": "Jl. Kalona, Manembo-nembo Matuari, Bitung, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.87,
+          1.49
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jaya Indo Kawanua, PT",
+        "address": "Lingk. Vii No. 286, Dendengan Dalam, Paal Dua, Manado, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.833972,
+          1.476694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Manado Celebes Pasifik, PT",
+        "address": "Jalan Piere Tendean Ruko Mega Smart 8 Nomor.16, Manado, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.185857,
+          1.461347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Manadomina Citra Taruna, PT",
+        "address": "Jl. Wangurer Lingk. Ii Kec. Bitung Tengah, Bitung, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.1,
+          1.4
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mapalus Makawanua Charcoal Industry, PT",
+        "address": "Jl. Manado Bitung Km.35 Tanjung Merah, Bitung, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.1,
+          1.4
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Marina Nusantara Selaras, PT",
+        "address": "Jl. Tanjung Merah No.11, Bitung, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.886022,
+          0.973928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Aquatics, Ud.",
+        "address": "Desa Tumbak Jaga I Kec.posumaen, Minahasa Tenggara, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.13,
+          1.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Multi Nabati Sulawesi, PT",
+        "address": "Jl. Raya Madidir Bitung, Kel. Madidir, Bitung, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.19778,
+          1.44722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Multi Rempah Sulawesi, CV",
+        "address": "Komplek Ruko Pateten Blok F/101, Bitung, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.824918,
+          1.456358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nichindo Manado Suisan, PT",
+        "address": "Jl. Lidiakiri No.2 Kel. Bahu Lingkungan 9 No. 126 Kec. Malalayang, Manado, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.19778,
+          1.44722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nutrindo Fresfood Internasional, PT",
+        "address": "Lingkungan 1 Kelurahan Tanjung, Bitung, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.82254,
+          1.32442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Panca Putra, Ud.",
+        "address": "Jl. Siswa No. 121, Tomohon, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.5813,
+          3.4274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pancaran Berkat Mulia, PT",
+        "address": "Rt. 09 Lingkungan Iii, Kepulauan Sangihe, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.84126,
+          1.49306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putra Karangetang, PT",
+        "address": "Kelurahan Kombos Lk. Iii Tuna, Manado, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.84126,
+          1.49306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Raja Dunia",
+        "address": "Jl. Sea Lorong Kayubulang 1 Lingk. V, Manado, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.827143,
+          1.460967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rohtadi, PT",
+        "address": "Jl. Sam Ratulangi Ii/61 Tg. Batu, Manado, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.84126,
+          1.49306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Romeco Multi Alam, PT",
+        "address": "Jl.mayjen Sutoyo Siswomiharjo 23-25, Manado, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.19778,
+          1.44722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Samudra Mandiri Sentosa, PT",
+        "address": "Jl. Wolter Monginsidi Km.5, Bitung, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.164169,
+          1.463066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Cakalang, PT",
+        "address": "Madidir Weru Lingkungan I Madidir Weru Bitung, Bitung, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.164169,
+          1.463066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Malalugis, PT",
+        "address": "Kel.madidir Weru Ling.i Madidir Weru Bitung, Bitung, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.7461,
+          1.7124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Tuna Makmur, PT",
+        "address": "Kec. Wori, Minahasa Utara, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.84126,
+          1.49306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Serimpi Asli Wenang, PT",
+        "address": "Jl. Walanda Aa Maramis Street 105, Manado, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.13,
+          1.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Shing Sheng Fa Ocean, PT",
+        "address": "Kel. Madidir Lingk. Iii, Bitung, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.19778,
+          1.44722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sig Asia, PT",
+        "address": "Jl. Samuel  Languyu Lingkungan 1 Kelurahan Aertembega Bitung, Bitung, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.13,
+          1.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Pure Foods International, PT",
+        "address": "Jl. Raya Madidir, Bitung, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.204437,
+          1.46094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Starcki Indonesia, PT",
+        "address": "Jl. Sameul Languyu No. 8a Lingkungan I Rt. 06 Aertembaga Satu Kec. Aertembaga, Bitung, Sulawesi Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.84,
+          1.47
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Rejeki, CV",
+        "address": "Jl. Mahawu 156 A, Kel. Tanjung Batu, Kec. Wanea, Manado, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.2,
+          1.45
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Thengo Karya  Samudera, PT",
+        "address": "Jl. Raya Tandurusa Lk. 02 Kel. Aertembaga Ii, Kec. Aertembaga, Bitung, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.85,
+          1.48
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tropica Coco Prima, PT",
+        "address": "Jl. Balai Kota No. 12 Kel. Tikala Ares Kec. Tikala, Manado, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.34,
+          1.09
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Vanilla Paudy, Ud.",
+        "address": "Ds. Ongkaw 2 Kec. Sinonsayang, Minahasa Selatan, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.17,
+          1.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Virgo Internusa",
+        "address": "Lingkungan Iii No. 04 Rt. 01 Rw. 02 Kel. Kadoodan Kec. Madidir, Bitung, Sulawesi Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.81,
+          1.32
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wale Woloan Hexatama, CV",
+        "address": "Jl. Raya Woloan, Kel. Woloan Satu Utara Lingkungan  V, Tomohon, Sulawesi Utara",
+        "mag": 1
+      },
+      "type": "Feature"
     }
   ]
 }
