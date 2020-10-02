@@ -126861,6 +126861,621 @@
         "mag": 3
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97.75,
+          4.97
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "A. A, Ud.",
+        "address": "Jl. Medan-b, Gampong Jalan, Idi Rayeuk 24454, Aceh Timur, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.31667,
+          5.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aceh Kiat Beutari, PT",
+        "address": "Jl. Dr.mr.mohd Hasan No. 34 Kec. Luenng Bata, Banda Aceh, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.833163,
+          4.632082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aridalta Mandiri, CV",
+        "address": "Jl. Mesir Kampung Kebet Bebesan, Takengon, Aceh Tengah, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.32,
+          5.89306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Asia Sabang Trading, PT",
+        "address": "Jl. Perdagangan, Sabang, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.9016,
+          4.4555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ateutamount, CV",
+        "address": "Jl. Inen Mayak Teri Lorong 1 No.115 Tetunyung Takengon, Aceh Tengah, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.9,
+          4.75
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Commodity Nusantara",
+        "address": "Kampung Pondok Gajah No.6,bener Meriah, Bener Meriah, Nanggroe Aceh Darussalam",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.31667,
+          5.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Mas Global Kopi, PT",
+        "address": "Jl.kebun Raja Simpang Tujuh, Banda Aceh, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.858085,
+          4.614397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Djasa - Djasa, PT",
+        "address": "Jl. Terminal  No.319 Takengon 24513, Aceh Tengah, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.68333,
+          5.2
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Fajar Jeumpa, PT",
+        "address": "Jl. Sultan Iskandar Muda No. 17, Jeumpa, Bireuen, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.910095,
+          4.745553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gayo Mandiri Coffee, CV",
+        "address": "Jl. Sp. Teritit - Pondok Baru Makmur Sentosa - Bandar Bener Meriah, Bener Meriah, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.84,
+          4.7
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gayo Mountain Coffee",
+        "address": "Jalan Bandara Rembele No. 61, Bener Meriah, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.31667,
+          5.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Holland For Water, PT",
+        "address": "Jl. Dr. Mohd Hasan No. 134,, Banda Aceh, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.9016,
+          4.4555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ihtiyeri Keti Ara, PT",
+        "address": "Jl. Yos Sudarso No.117 Kec.bebesan, Blangkolak Li, Takengon, Aceh Tengah, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.821984,
+          4.630872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ketiara",
+        "address": "Jl. Raya Umang No. 76 Bebesen, Aceh Tengah, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.53333,
+          5.36667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kilau Emas",
+        "address": "Jl. Mangota Ii No.08 Dusun Balee Cut, Aceh Besar, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.9016,
+          4.4555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kop.baitul Qiradh Baburrayyan, Kp.",
+        "address": "Jl .inen Mayak Teri Lr I No.115 Takengon, Aceh Tengah, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97.98,
+          4.48
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Koperasi Aneuk Nanggroe, Kp.",
+        "address": "Jl. Kuala No.20 Rt003/08 Sungai Pauh Langsa, Langsa, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97,
+          4.75
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Koperasi Gayo Linge Organic Coffee, Kp.",
+        "address": "Jl. Terminal Kp.purwosari Kec.bandar, Bener Meriah, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97.031999,
+          4.512267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Koperasi Pedagang Kopi (kopepi) Ketiara, Kp.",
+        "address": "Jl. Raya Umang Kampung Umang No.76 Kec. Bebesan Takengon, Aceh Tengah, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97.18333,
+          4.73333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Koperasi Permata Gayo, Kp.",
+        "address": "Jl. Syiah Utama No. 66 Kec. Bandar, Bener Meriah, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.81,
+          4.61
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ksu Bies Utama, Kp.",
+        "address": "Jl. Takengon-angkup Kp. Sp. Uning Niken Kecamatan Bies, Aceh Tengah, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97.970189,
+          4.471421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ksu Flora Potensi, Kp.",
+        "address": "Jl. Iskandar Muda No. 16 Gampong Peukan, Langsa, Nanggroe Aceh Darussalam",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97.345077,
+          3.215507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ksu. Tiega Manggis",
+        "address": "Desa Simpang Dua, Kecamatan Kluet Tengah, Aceh Selatan, Aceh Selatan, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.31667,
+          5.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Megah Nirwana Channel",
+        "address": "Jl. Pelangi No. 24, Banda Aceh, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97.150893,
+          5.176171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Milyasa, PT",
+        "address": "Jl. Maharaja No. 125, Lhokseumawe, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97.95,
+          4.46667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Awai Na Di Aceh",
+        "address": "Dsn. P. Abdullah, Langsa, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.31667,
+          5.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nagata Prima Tuna",
+        "address": "Jl. Pante Cermin, Kompleks Pangkalan Pendaratan Ikan (ppi), Banda Aceh, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.318133,
+          5.534593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nagata Tuna",
+        "address": "Jl. Cot Aron No.2,banda Aceh, Banda Aceh, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97,
+          4.91667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pandu Buana Nusantara, PT",
+        "address": "Jl. Raya Parang Ix No. 20, Aceh Utara, Nanggroe Aceh Darussalam",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.53333,
+          5.36667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Poju Grincom, PT",
+        "address": "Jl. Nuri No. 6 Gampong, Aceh Besar, Nanggroe Aceh Darussalam",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.31667,
+          5.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pupuk Iskandar Muda, PT",
+        "address": "Jl. Medan-banda Aceh Po Box 021, Lhokseumawe, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.9016,
+          4.4555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putra Darma, CV",
+        "address": "Jl. Terminal No. 115 Takengon, Aceh Tengah, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.32,
+          5.89306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putra Samudera",
+        "address": "Jl. Perdagangan No.115, Sabang, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.377717,
+          2.374765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rezeki Bersama, CV",
+        "address": "Desa Alus Alus Kec.teupah Selatan, Simeulue, Nanggroe Aceh Darussalam",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.31667,
+          5.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Serba Dowel Interindo, CV",
+        "address": "Jl. Kebun Baru Ii No.16, Banda Aceh, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.742718,
+          4.878743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumatera Arabika Gayo, PT",
+        "address": "Jl. Syiah Utama No.66, Kampung Simpang Utama, Kel. Pondok Baru, Kec. Bandar, Bener Meriah, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97.14557,
+          5.012297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tayse Indonesia, CV",
+        "address": "Jl. Banda Aceh Medan Km. 260, Aceh Utara, Nanggroe Aceh Darussalam",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.713071,
+          5.204382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Usaha Rajin, CV",
+        "address": "Jl. Banda Aceh - Medan Ds. Geulanggang Teungoh Kec. Kota Juang, Bireuen, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          97.21949,
+          5.144118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wahana Segara Raya",
+        "address": "Jl..cumbok Dsn Kuta Glumpang, Mongedong, Lhokseumawe, Nanggroe Aceh Darussalam",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.336664,
+          2.366958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Waja Agung Pratama",
+        "address": "Desa Kahad,simeulue, Simeulue, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.859566,
+          4.714009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Zahra Sentral Kupi",
+        "address": "Jl. Kampung Tingkem Benyer,bener Meriah, Bener Meriah, Nanggroe Aceh Darussalam",
+        "mag": 3
+      },
+      "type": "Feature"
     }
   ]
 }
