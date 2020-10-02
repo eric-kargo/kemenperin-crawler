@@ -23,7 +23,7 @@ const DEFAULT_AXIOS_PARAMS = {
 const KEMENPERIN_EXPORTER_URL = 'https://kemenperin.go.id/direktori-eksportir';
 const PROVINCE = 31 // DKI Jakarta
 
-writer.pipe(fs.createWriteStream('data.csv'));
+writer.pipe(fs.createWriteStream('./crawled-data/bangka-belitung.csv'));
 
 async function crawl(page = 1) {
   console.log(`[Fetching] page = ${page}`);
@@ -62,7 +62,7 @@ function extractData(htmlString, currentPage) {
     const companyData = companyCell.html().split('<br>');
     const companyName = $(companyData[0]).text();
     const address = removeNewLine(companyData[1]);
-    const telephoneNumber = companyData[2].toLowerCase().replace('telp.', '').trim();
+    const telephoneNumber = `${companyData[2].toLowerCase().replace('telp.', '').trim()}`;
     const otherData = $(`<p>${removeNewLine(companyData.slice(3).join(' '))}</p>`).text();
 
     writer.write([

@@ -53,7 +53,7 @@ async function getDistinct() {
 
 function writeGeoJson() {
   const results = [];
-  fs.createReadStream('address2.csv')
+  fs.createReadStream('address.csv')
     .pipe(csv())
     .on('data', (data) => results.push(data))
     .on('end', () => {
@@ -73,9 +73,9 @@ function writeGeoJson() {
             type: 'Point',
           },
           properties: {
-            company: item.CompanyName,
+            company: item["Company Name"],
             address: item.Address,
-            mag: Math.floor(Math.random() * 12) + 1,
+            mag: Math.floor(Math.random() * 3) + 1,
           },
           type: 'Feature'
         }
