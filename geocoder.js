@@ -2,6 +2,9 @@ const axios = require('axios');
 const csv = require('csv-parser');
 const fs = require('fs');
 const csvWriter = require('csv-write-stream');
+const { pRateLimit } = require('p-ratelimit');
+
+const ACCESS_TOKEN = '';
 
 const writer = csvWriter({
   headers: [
@@ -12,7 +15,11 @@ const writer = csvWriter({
   ]
 });
 
-const ACCESS_TOKEN = 'pk.eyJ1Ijoicm95eWFuYmFjaCIsImEiOiJjaWh4bGR3ZzIwMzludGZraGl5OTMzNDZ2In0.ZAU_GBdvzWSdiiM8olLB8w';
+const rateLimit = pRateLimit({
+  interval: 1000, // 1000 ms == 1 second
+  rate: 10, // 30 API calls per interval
+  concurrency: 1, // no more than 10 running at once
+});
 
 writer.pipe(fs.createWriteStream('address.csv'));
 
@@ -59,7 +66,9 @@ async function generate() {
     companyName: item["Company Name"],
   }));
 
-  const latLngFetch = address.map(item => getLatLngFromAddress(item));
+  const latLngFetch = address.map(item => {
+    return rateLimit(() => getLatLngFromAddress(item));
+  });
   await Promise.all(latLngFetch);
   return writer.end();
 }
