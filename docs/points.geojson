@@ -148131,6 +148131,4656 @@
         "mag": 2
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.620626,
+          31.805632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "(hhbk) Indo Incent Product (iip), PT",
+        "address": "Jl. Husein Hamzah No 6, Mempawah, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.2,
+          0.07
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Alam Indah Lestari, CV",
+        "address": "Jl. Raya Wajok Hulu Km. 9,8, Rt. 03/ii, Siantan, Mempawah, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Alam Perkasa, CV",
+        "address": "Gg. Syukur 4 No. 44 Kel.benua Melayu Darat, Pontianak, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.460823,
+          -0.335612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aliya, CV",
+        "address": "Jl. Tanjung Raya 2 Komp Bali Lestari Blok K No. 4, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.958499,
+          0.360355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aman Jaya, CV",
+        "address": "Jl. Prof. M. Yamin No. 1, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.35,
+          -0.07
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Amor Centre Trading, CV",
+        "address": "Jl. P.h. Husin Ii Komp Pemda Jlr.3 Kel. Bansir Darat, Pontianak, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.3,
+          -0.01
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anak Nelayan, Pd.",
+        "address": "Jl. Karet Komp. Didis Permai Blok D-5 Kel Sungai Beliung, Pontianak, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.320602,
+          -0.013489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anugrah Kurnia Indah",
+        "address": "Jl. Kom. Yos Sudarso Gg. Mangga Ii No. 37, Pontianak, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.958499,
+          0.360355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Aromana Wood Furniture Industry, PT",
+        "address": "Jl. Barito No. 260 Rt.004/051, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Artha Mahardika",
+        "address": "Jl. Gajah Mada Gg. Ketapang No. 47 Rt. 002 Rw. 011,pontianak, Pontianak, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.130105,
+          0.825408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Artha Wijaya, CV",
+        "address": "Jl. Danau Sentarum Komplek Cendana Asri A2, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.430686,
+          0.83064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Arya Sempadan, CV",
+        "address": "Dusun Balai Karangan Iii, Sekayam 78556, Sanggau, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bahana Alam Sakti, PT",
+        "address": "Jl. P.h Husin Ii Komp. Ruko Buana Lestari No. Aa 2, Pontianak, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bahana Alam Sakti, PT",
+        "address": "Jl. P.h Husin Ii Komp. Ruko Buana Lestari No. Aa 2, Pontianak, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.958499,
+          0.360355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Berkah Fajar, CV",
+        "address": "Jl. Tabrani Ahmad Komp. Palem Indah No. A24, Perum Palem Indah, Mempawah, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.320602,
+          -0.013489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Berlian Family, CV",
+        "address": "Jl. Kom Yos Sudarso Gg. Sukamaju Dalam I No. 18, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.351753,
+          -0.091139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bina Ovivipari Semesta, PT",
+        "address": "Jl. Sei Raya Dalam Ruko Sei Raya Les Ii Aa/2 Sei Raya, Mempawah, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.351753,
+          -0.091139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bina Silva Nusa, PT",
+        "address": "Jl. Sei Raya Dalam Ruko Sei Raya Les Ii Aa/2 Sei Raya, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.3833,
+          -0.4833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bintang Borneo Persada, PT",
+        "address": "Jl. Trans Kalimantan Km. 19 Desa Korix Seiambawang, Kubu Raya, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.35,
+          -0.05
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bintangar Maju Abadi, PT",
+        "address": "Jl. Tanjung Sari No. 130 Bansir Laut, Pontianak, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.39,
+          -0.03
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Borneo Evelyn Lestari, CV",
+        "address": "Jl. Trans Kalimantan Km 18 Rt.003 Rw.002 Sungai Ambawang, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.3833,
+          -0.4833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Borneo Mandiri Sejahtera, PT",
+        "address": "Jl. Arteri Supadio Komplek Villa Ceria Lestari No. G 16 Rt. 004/rw.08, Kubu Raya, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.4833,
+          0.8333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bunda Kandung",
+        "address": "Dusun Sentimok, Bengkayang, Bengkayang, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.958499,
+          0.360355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Arwana Nusantara, Pd.",
+        "address": "Desa Ambangah Kec.sungai Raya, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.36,
+          -0.08
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cipta Rasa Sempurna, Pd.",
+        "address": "Jl. Adi Sucipto Km 9.7 No.79, Sungai Raya, Kubu Raya, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.61,
+          0.07
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Citra Landak Lestari, Pd.",
+        "address": "Dusun Kuala Mandor Desa Rantau Panjang Kec. Sebangki, Landak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.329373,
+          -0.024133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cocotama Makmur Abadi, PT",
+        "address": "Jl. Zainuddin No.12 Tengah, Pontianak, Pontianak, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.309025,
+          -0.39637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dian Ardyka, Pd.",
+        "address": "Rt 05 Rw 01 Dusun I Desa Ambawang Kuala Kec.sungai Ambawang, Kubu Raya, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dimas Eka Putra, CV",
+        "address": "Jl. Dr. Wahidin S. No. 10, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dimas Eka Putra, CV",
+        "address": "Jl. Dr. Wahidin S. No. 82, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dinamika Kapuas, PT",
+        "address": "Jl. Gajahmada No: 154, Pontianak, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dzaky Raya, CV",
+        "address": "Jl. Dr. Wahidin Sudirohusodo Komp. Sepakat Asri B3 Pontianak, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Equator Argo Trading, CV",
+        "address": "Jl. H.r.a. Rachman Gg. Gunung Sahari No. 20, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Giat Usaha Dieng, PT",
+        "address": "Jl. Sultan Muhammad No. 19, Pontianak, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.5,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gudang Mas, CV",
+        "address": "Jl. Pak Kasih No. 2 Lantai 3, Mempawah, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harjohn Timber, PT",
+        "address": "Jl. Adisucipto Km. 5,3 Sei Raya, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Inti Kapuas International, PT",
+        "address": "Jl. Pahlawan No.222, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.341568,
+          -0.027523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kalimantan Kelapa Jaya, PT",
+        "address": "Jl. Jurusan Pontianak Rt.001/rw.001, Pontianak, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kapuas Besar, PT",
+        "address": "Jl. Sultan Muhammad No. 72, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33,
+          0.8
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karomah",
+        "address": "Jl. Kom Yos Sudarso Gg. Suka Maju Dalam I No. 6, Mempawah, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112,
+          0.61
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kartika Prima Cipta, PT",
+        "address": "Desa Nanga Suhaid, Suhaid, Kapuas Hulu,, Kalimantan Barat Kapuas Hulu, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.344213,
+          -0.053067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Rejeki Abadi, CV",
+        "address": "Jl. Perdana Kmp. Perdana Square E 15 Rt. 001  Rw. 010 Parit Tokaya, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.35,
+          -0.01
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Rimba Raya, PT",
+        "address": "Jl. Khatulistiwa Km. 2,1 Siantan Tengah, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.354427,
+          -0.046564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kendawangan Putra Lestari, PT",
+        "address": "Jl. Imam Bonjol No.525, Pontianak, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.18583,
+          68.83556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Khatulistiwa Resources, PT",
+        "address": "Jl. Berdikari Komplek Griya Kencana Lestari Ii No. A-5, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.11,
+          -0.03
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kirana Prima, PT",
+        "address": "Jl. Raya Tayan - Meliau Km.8 Tayan Hilir, Sanggau, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.35,
+          -0.02
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kota Niaga Raya, PT",
+        "address": "Jl. Selat Panjang Rt.03/21 Siantan Hulu, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.481772,
+          0.817929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ledo Lestari",
+        "address": "Dusun Pareh,bengkayang, Bengkayang, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33,
+          -0.04
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mac World Indonesia, PT",
+        "address": "Komp.puri Indah, Jl.sumatera Gg.m, Sohor Block C Rt.004 Rw.006, Akcaya, Pontianak, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Maju Karya Kita, PT",
+        "address": "Jl. Adi Sucipto Km. 10, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.460823,
+          -0.335612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Maya Sdncorp, CV",
+        "address": "Jl. Tanjung Raya Ii Gang Nusa Karya No.19, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mega Bintang Borneo, PT",
+        "address": "Jl. A Yani Komplek Mega Mall E No 3, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.38,
+          -0.01
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mega Lestari, Pd.",
+        "address": "Dusun Mega Melati Rt05 / Rw.02 Desa Mega Timur, Mempawah, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.34,
+          -0.05
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Meva Aura, PT",
+        "address": "Jl. Purnama Gg. Purnama Jaya No. 10, Parit Tokaya, Mempawah, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.3833,
+          -0.4833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Divia Sukses",
+        "address": "Jl. Trans Kalimantan Km. 31,9, Rt 000 Rw 000,kubu Raya, Pontianak, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mitra Sarana Aquatama, PT",
+        "address": "Jl. Kh. Ahmad Dahlan Gg.ruper 2 No. 14 Rt. 002 Rw.015, Pontianak, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Multi Bhakti Makmur Jaya",
+        "address": "Jl. Budi Utomo Rt 005 Rw 008, Pontianak, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.345357,
+          -0.051134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Multi Karet Sejahtera, PT",
+        "address": "Jl. A. Yani Komp Mega Mall Blok H-8, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.75917,
+          0.42373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mutiara Borneo",
+        "address": "Dusun Sabareang Rt 01 Rw 01, Landak, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nawa Perkasa, PT",
+        "address": "Jl. Veteran Blok B No. 2a, Pontianak, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "New Kalbar Processors, PT",
+        "address": "Jl. Tanjungpura Indah Blok C-2, Pontianak, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.363377,
+          -0.007516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Niramas Utama Cab. Pontianak, PT",
+        "address": "Jl. 28 Oktober Rt. 006 Rw. 022 Siantan Hulu, Mempawah, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.31,
+          0.01
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nsf Pontianak, PT",
+        "address": "Jl. Khatulistiwa Km.3,5 Rt.003/002 Batu Layang, Pontianak, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nusantara Jaya Indonesia, PT",
+        "address": "Jl. Dr. Wahidin S, Gg. Sepakat 6, Komplek Pertiwi Indah, Blok G No. 1., Pontianak, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.76667,
+          0.81667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Paramitra Internusa Pratama, PT",
+        "address": "Desa Semidal Nangka Sebrang Kapuas Hulu, Kapuas Hulu, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.5,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Perkebunan Nusantara Xiii(persero), PT",
+        "address": "Jl. Sultan Abdurrachman No. 11, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Permata Borneo Lestari, PT",
+        "address": "Jalan Raya Wajok Hulu Km 9,5, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.958499,
+          0.360355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Permata Kapuas Aquaculture, PT",
+        "address": "Jl. Hijas Dalam (suez Permai) No. 234, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.5,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prima Rizki Coorporation, CV",
+        "address": "Jl. Yos Sudarso Gang Rukam No. 1, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.31,
+          0.01
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pulaumas Khatulistiwa, PT",
+        "address": "Jl. Khatulistiwa  Km. 6 602 Batu Layang, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pusaka Damai Sentosa, PT",
+        "address": "Jl. Ya M. Sabran Rt.001/rw.012, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.37,
+          -0.05
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rimbunan Hijau, CV",
+        "address": "Jl. Tanjung Harapan Rt.002/rw.004 Banjar Serasan Pontianak Timur, Mempawah, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.958499,
+          0.360355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rizka Perdana, CV",
+        "address": "Jl. Hos Cokroaminoto No. 310, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.430686,
+          0.83064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sahabat Utama Mandiri Jaya, PT",
+        "address": "Jl. Dusun Balai Karangan 111,sekayam,sanggau,kalimantan Barat, Mempawah, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.19,
+          -0.05
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sanwa Anugerah Cocoindustry, PT",
+        "address": "Jl. Raya Sungai Kakap Rt. 007 Rw. 002 Kec. Sungai Kakap Kab. Kubu Raya Kalbar, Kubu Raya, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.93,
+          0.56
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Bumi Kusuma, PT",
+        "address": "Jl. Adisucipto Km. 5,3 Sungai Raya Pontianak, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.4,
+          -0.15
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sari Pacifik, CV",
+        "address": "Jl. Adi Sucipto Gang Sagu Km. 12 No. 99 Arang Limbung Pontianak, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sempurna",
+        "address": "Jl. Parit Haji Husin 2 Komp. Alex Griya Iii No. B20 Pontianak, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.190249,
+          -1.705175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Ambawang, PT",
+        "address": "Jl. Tanjung Pura No. 385, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.35,
+          0.98
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Gemilang Borneo, CV",
+        "address": "Jl. Sontas-entikong, Dusun Sontas, Entikong Sanggau, Kalimantan Barat, Sanggau, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.97,
+          0.91
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Khatulistiwa, Pd.",
+        "address": "Desa Ambawang Kuala Rt. 01 Rw. Iii Kec. Sungal Ambawang, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.48,
+          -0.04
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Star Rubber, PT",
+        "address": "Jl. Trans Kalimantan Km. 16 Ds. Jawa Tengah, Kubu Raya, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.958499,
+          0.360355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Steadfast Marine, PT",
+        "address": "Jl. Khatulistiwa Km. 6.6, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.5,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Suka Jaya Makmur, PT",
+        "address": "Jl. Adisucipto Km. 5,3, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.460823,
+          -0.335612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sukses Darinusa Corporindo, CV",
+        "address": "Jl. Tanjung Raya Ii Gg. Nusa Karya No. 19, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.190249,
+          -1.705175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Alam Jaya Mandiri, PT",
+        "address": "Jl. Tanjung Pura No.91 C, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.35,
+          -0.04
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Alam, PT",
+        "address": "Jl. Sultan Muhammad No.72, Kel. Benua Melayu Laut, Kec. Pontianak Selatan, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Djantin, PT",
+        "address": "Jl. Sultan Muhammad No.72, Pontianak, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.345131,
+          -0.039189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surya Borneo Indah, PT",
+        "address": "Jl. Gajah Mada 10 No.88-a, Pontianak, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.34,
+          -0.03
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Takaras Inti Lestari, PT",
+        "address": "Jl. Paus I No.19, Kel. Benua Melayu Darat, Kec. Pontianak Selatan, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.33333,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tujuan Utama",
+        "address": "Jl. Gajah Mada Gg.gajah Mada Ii No. 22,pontianak, Pontianak, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.958499,
+          0.360355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Usaha Kita, Pd.",
+        "address": "Jl. Tanjungpura Gg. Kamboja No. 8, Mempawah, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.631649,
+          65.061568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wajok Intilestari, PT",
+        "address": "Jl. Tanjungpura No. 383 - 385, Mempawah, Kalimantan Barat",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.678597,
+          1.524475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wana Hijau Semesta, PT",
+        "address": "Desa Sebunga, Sambas, Kalimantan Barat",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.32,
+          -0.03
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yudyzudy, CV",
+        "address": "Jl. K.h.ahmad Dahlan No.28-c Sei Bangkong, Pontianak Barat 78116, Mempawah, Kalimantan Barat",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.59,
+          -3.31
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Abdalta Indonesia, CV",
+        "address": "Jl. Antasan Kecil Barat Rt.028 Rw.006 No.153 Pasar Lama, Banjarmasin, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58,
+          -3.33
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Amanah Anugerah Adi Mulia, PT",
+        "address": "Jl. Dahlia Ii No.28 Rt.034/rw 010, Telawang, Banjarmasin, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.4,
+          -3.78
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anugerah Borneo Community, PT",
+        "address": "Jl. Propinsi Km.167, Gg. Teluk Dalam Sungai Danau, Tanah Bumbu, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.75,
+          -3.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Astan Jaya, CV",
+        "address": "Jl. Banjar Gawi Barat Iii No.129 Lik-liang Anggang, Banjar Baru, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116,
+          -3.42
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Astri Mining Resources, PT",
+        "address": "Jl. Pesantren Rt. V No. 2, Kampung Baru Kec. Simpang Empat, Tanah Bumbu, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bamaco Harisundo Intersains, PT",
+        "address": "Jl. Gatot Subroto Komp Ruko No 2b Rt 25, Banjarmasin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58,
+          -3.35
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Banua Lima Sejurus, PT",
+        "address": "Jl. Tembus Mantuil No. 84 Rt. 30 Kelayan Selatan, Banjarmasin, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.98,
+          -3.19
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Baramega Citra Mulia Persada, PT",
+        "address": "Desa Mandala Kec. Kelumpang Hilir 72162, Kota Baru, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.57,
+          -3.33
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Basirih Industrial Corporation, PT",
+        "address": "Jl. Telaga Biru Trisakti Komp. Uka Po Box 158, Banjarmasin, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.84,
+          -3.45
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Berkah Alam Mulia, CV",
+        "address": "Jl. R.o. Ulin No. 8a Rt003/04 Loktabat Selatan, Banjar Baru, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.03333,
+          -2.91667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Berkah Bumi Leluhur, PT",
+        "address": "Jl. Ahmad Yani Km. 99 No. 99 Rt. 04 Rw. 002,, Tapin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.176621,
+          -3.041074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Berkat Murah Rejeki, PT",
+        "address": "Jl. Pantai Cabe Rt.07 Rw.11 Salam Babaris, Tapin, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.61,
+          -3.34
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bhara Rosa Energi Coal, CV",
+        "address": "Jl. Prona I No.10 Rt.018 Rw.000, Pemurus Baru, Banjarmasin, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bhumi Rantau Energi, PT",
+        "address": "Jl. Gatot Subroto Viii No.6 Rt 31 Rw 007, Banjarmasin, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.6,
+          -3.32
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bina Benua Borneo Timber, PT",
+        "address": "Jl. Kampung Melayu Darat No 68 Rt10, Banjarmasin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.59,
+          -3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Borneo Brother, PT",
+        "address": "Jl. Kayu Tangi I No.44 Rt.045 Sungai Miai-banjarmasin Utara, Banjarmasin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.83,
+          -3.58
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bridgestone Kalimantan Plantation, PT",
+        "address": "Desa Bentok Darat Kec. Bati Bati, Tanah Laut, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.83,
+          -3.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Citra Prima Utama, PT",
+        "address": "Jl. Tomat No.35, Banjar Baru Utara, Banjar Baru, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.26667,
+          -2.78333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Darma Kalimantan Jaya, PT",
+        "address": "Jl. Divisi Iv Alri Rt. 08, Haruyan, Hulu Sungai Selatan, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Daya Enerji Lestari, PT",
+        "address": "Jl. Hr. Rasuna Said No. 62, Banjarmasin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Decorindo Inti Alam Wood, PT",
+        "address": "Jl. Brigjend H. Hasan Basri No. 48, Banjarmasin, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.86667,
+          -3.88333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Delta Prima Steel, PT",
+        "address": "Jl. Jend Ahmad Yani Km. 111,8, Rt. 04 Rw 02, Tanah Laut, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.531222,
+          -3.332041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dharma Putra Kalimantan Sejati, PT",
+        "address": "Desa Tamban Kecil Rt.016 Tamban Kecil-tamban, Barito Kuala, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.731187,
+          -3.646126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Ebimas Besar, PT",
+        "address": "Desa Pulau Sari Km. 45,6 Rt. 02 Bati-bati, Tanah Laut, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Energy Batubara Lestari, PT",
+        "address": "Jl. Adhiyaksa No.7-8 Komp.pujasera Rt.028, Banjarmasin, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.98,
+          -3.19
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gajah Mada, Kp.",
+        "address": "Desa Telagasari Rt.05/ii, Kec. Kelumpang Hilir, Kota Baru, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.292515,
+          -3.757913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gaya Baru, Ud.",
+        "address": "Jl. Pancasila Rt.08 No.ii Kel.pantai Hambawang Barat, Labuan Mas, Kota Baru, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hasil Bumi Kalimantan, PT",
+        "address": "Jl. Hasan Basri Komplek Pondok Metro Indah Kav. 14, Banjarmasin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Insan Bonafide, PT",
+        "address": "Jl. Barito Hulu No. 28, Banjarmasin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.01,
+          -3.41
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jhonlin Agro Mandiri, PT",
+        "address": "Jl.  Kodeco  Km. 1, Rt.009, Ds. Gunung Antasari, Simpang Empat, Tanah Bumbu, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.63,
+          -3.33
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kalimantan Fishery, PT",
+        "address": "Jl. Pramuka Pembina Iv F/04  Rt. 025  Sungai Lulut, Banjarmasin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.574897,
+          -3.322294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kalimantan Indoraya, PT",
+        "address": "Jl. Sutoyo S. Komp. Damai No.1.a Rt.014/rw.001, Banjarmasin, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.83,
+          -3.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kalimantan Prima Persada, PT",
+        "address": "Komp. Perumahan Citra Raya Angkasa Blok M No. 25, Banjar Baru, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.751263,
+          -3.581293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karimata Timur, PT",
+        "address": "Jl. Nusa Indah Rt. 001  Nusa Indah  Bati-bati, Tanah Laut, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kelumpang Hulu Energi Lestari, PT",
+        "address": "Jl. Barito Hulu No.60 Rt.10, Banjarmasin, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116,
+          -3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kemilau Bintang Timur, PT",
+        "address": "Jl. Raya Kaliasin Km.6 Rt.06 Rw.01, Pagulah Utara, Kota Baru, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kesuma Jaya, Ud.",
+        "address": "Jl. Simpang Sudimampir I No. 1, Banjarmasin, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kud Makmur",
+        "address": "Jl. S.parman No.133 Rt.005,banjarmasin, Banjarmasin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mantuil Raya, PT",
+        "address": "Jl. Brigjen H. Hasan Basri No. 32a, Banjarmasin, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.75,
+          -3.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Menara Mas, Ud.",
+        "address": "Jl. Sukamara Rt. 05 Rw. 02 No. 58 Kel. Landasan Ulin Utara, Banjar Baru, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.229207,
+          -2.003838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Muroto Forest Indonesia, CV",
+        "address": "Jl. Wungkur Ayau Rt.003 Bangkirayen-awang, Barito Timur, Barito Timur, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.83,
+          -3.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mutadindo Taman Bumi, PT",
+        "address": "Komplek Citra Megah Raya Blok C No.6 Rt.007/rw.002,, Banjar Baru, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.83,
+          -3.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nusa Alam Gemilang, CV",
+        "address": "Jl. Manggis Gg. Manggis Rt. 19 Rw. 04, Banjar Baru, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.70372,
+          -3.45413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nusantara Batulicin, PT",
+        "address": "Jl. Transmigrasi Km. 17,6,, Tanah Bumbu, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.83,
+          -3.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pelayaran Bintang Laut Kalimantan, PT",
+        "address": "Jl. Brunai B/12 Rt.001 Rw.008 Komplek Balitra Jaya  Permai, Banjar Baru, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.57,
+          -3.34
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pogu Abadijaya, PT",
+        "address": "Jl. Tembus Mantuil Rt. 054 Basirih, Banjarmasin, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prima Energi Multi Trading, PT",
+        "address": "Jl. A. Yani Km. 12 No. 81 / 146 Rt. 20 Kel. Melayu, Banjarmasin, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.83,
+          -3.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pusaka Murni, CV",
+        "address": "Jl. Palapa 2 No: 60 Rt. 02 Rw. 06 Banjarbaru Utara, Banjar Baru, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putra Parahyangan Mandiri, PT",
+        "address": "Jl. Bumi Mas Raya Km.4,5 Komp. Buncit Indah 4 No.113 Rt.07, Banjarmasin, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.70372,
+          -3.45413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Putri Ahdadia, PT",
+        "address": "Jl. Manggis N0.158 Rt.008/002, Tanah Bumbu, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.574897,
+          -3.322294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rahmanto Borneo Raya, CV",
+        "address": "Jl. Sutoyo S. No. 128 Rt. 008 Rw. 002 Teluk Dalam - Banjarmasin Tengah, Banjarmasin, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.82,
+          -3.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sarikaya Sega Utama, PT",
+        "address": "Jl. A. Yani Km. 22,5 Landasan Ulin Banjarbaru, Banjar Baru, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Segara Hutama Karya Mandiri",
+        "address": "Jl.pramuka Komp Semanda Bumi Pramuka Asri Blok C No, Banjarmasin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.99,
+          -3.41
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surya Putra Banua, CV",
+        "address": "Jl. Transmigrasi Plajau Gg. Amandit Rt.01, Ds. Baroqah, Kec. Simpang Empat, Tanah Bumbu, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.23,
+          -3.86
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surya Sakti Darma Kencana, PT",
+        "address": "Km.143 Desa Kintap Kecil, Kec. Kintap, Tanah Laut, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.57,
+          -3.31
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surya Satrya Timur Corporation, PT",
+        "address": "Jl. Ir. P. Haji Muhammad Noor No.99, Kel. Kuin Cerucuk, Kec. Banjarmasin Barat, Banjarmasin, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.83,
+          -3.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Synergi Mega Nusantara, PT",
+        "address": "Jl. Rahayu No.10a Rt.04/rw.05, Banjar Baru, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.59,
+          -3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tanjung Raya Plywood, PT",
+        "address": "Jl. Brigjen H. Hasan Basri No. 32a, Ds.tinggiran Ii Luar, 70123, Banjarmasin, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.61667,
+          -3.08333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tanjung Selatan Makmur Jaya, PT",
+        "address": "Ds.beringin Rt.10 Kec.alalak, Barito Kuala, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.03333,
+          -2.91667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tiga Serangkai Mulia, CV",
+        "address": "Jl. Sungai Pulantan Blok, L  No.10, Tapin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.579178,
+          -3.280031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tri Tunggal Pitriati, PT",
+        "address": "Jl. Komp. Hksn Permai Blok A Vii/35 Rt. 20 Kel. Alalak Utara Kec. Banjarmasin Utara, Banjarmasin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.76,
+          -3.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Trijaya Alam Makmur, Ud.",
+        "address": "Jl. Sukamara Rt. 06/ii Kel. Landasan Ulin Tengah Kec. Liang Anggang, Banjar Baru, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Virgo Benua Jaya, PT",
+        "address": "Jl.perdagangan Komp.bumi Indah Lestari Ii No.7, Banjarmasin, Kalimantan Selatan",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wijaya Kesuma",
+        "address": "Jl. Kapten Piere Tendean No.21 Rt.1, Banjarmasin, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.62,
+          -3.35
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wijaya Triutama Plywood Industry, PT",
+        "address": "Trisakti Komplek Uka, Basirih, Banjarmasin Selatan 70245, Banjarmasin, Kalimantan Selatan",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.58333,
+          -3.33333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wilson Lautan Karet, PT",
+        "address": "Jl. Barito Hulu No.43, Banjarmasin, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.6,
+          -3.27
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Yoltan Sari Indonesia, PT",
+        "address": "Desa Berangas Timur Rt.28 Alalak, Barito Kuala, Kalimantan Selatan",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.95,
+          -2.52
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Berkah Sampit Lestari, PT",
+        "address": "Jl. Kenan Sandan No.09 Rt 047 Rw 008 Baamang Tengah, Kotawaringin Timur, Kalimantan Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.892101,
+          -0.961516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Central Global, PT",
+        "address": "Jl. Semoga Indah Ii, Rt. 14, No. 98, Muara Teweh, Barito Utara, Kalimantan Tengah",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.95,
+          -2.54
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Chodra Kurnia Agribindo, PT",
+        "address": "Jl. Seribu Dahan No.315 Rt.021 Rw.008 Mentawa Baru Hulu, Kotawaringin Timur, Kalimantan Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.75,
+          -2.08333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Duta Borneo Pratama",
+        "address": "Jl. H.m. Arsyad Rt. 28 Rw. 04 Sampit, Kotawaringin Timur, Kalimantan Tengah",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          111.73333,
+          -2.4
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Entron Pangkalan Bun, PT",
+        "address": "Jl. Gm. Arsyad Rt 07 Rw 03 No. 21, Kotawaringin Barat, Kalimantan Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.95,
+          -2.52
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Fajar Mentaya Abadi, PT",
+        "address": "Jl. Cilik Riwut Km 2,5 Rt 010/rw 41 Baamang Tengah, Baamang, Kotawaringin Timur, Kalimantan Tengah",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.75,
+          -2.08333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Feron Tambang Kalimantan, PT",
+        "address": "Jl. H.ikap 2 No.35 Rt.59 Rw.09 Mb.hilir-mb.ketapang, Kotawaringin Timur, Kalimantan Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          111.59,
+          -2.71
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harapan Mandiri, CV",
+        "address": "Jl. P.antasari No.30 Kel,mendawai Kec.aserl, Kotawaringin Barat, Kalimantan Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.8333,
+          -2.2
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harfa Taruna Mandiri, PT",
+        "address": "Jl. Cilik Riwut Km. 2,5 No. 212,, Palangka Raya, Kalimantan Tengah",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.8333,
+          -2.2
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harlan Bhisma Pratama, PT",
+        "address": "Jl. Manyar Viii No. 99 Rt 004/ Rw 012, Palangka Raya, Kalimantan Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.360982,
+          -3.032775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karya Sejati, PT",
+        "address": "Murung Keramat No. 1 Rt. 004  Selat Kuala, Kapuas, Kalimantan Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          111.629887,
+          -2.675907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Korindo Ariabima Sari, PT",
+        "address": "Jl. Korindo No. 77, Pangkalan Bun, 74102, Kotawaringin Barat, Kalimantan Tengah",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.94,
+          -2.23
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kurnia Alam Sejati, CV",
+        "address": "Jl. Pinus Indah I No.9 Rt. 001 Rw. 009 Panarung-pahandut, Palangka Raya, Kalimantan Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.8333,
+          -2.2
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kurnia Aquarium, Ud.",
+        "address": "Jl. Darmosugondo No. 43, Palangka Raya, Kalimantan Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          111.65,
+          -2.67
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mendawai Putra, PT",
+        "address": "Jl. H. Udan Said No. 47 Kel. Baru Kec. Arut Selatan Pangkalan Bun 74151, Kotawaringin Barat, Kalimantan Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.75,
+          -2.08333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mentaya Karbindo Prima, PT",
+        "address": "Jl.hm.arsyad Km.21 Sampit, Kotawaringin Timur, Kalimantan Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.96,
+          -2.56
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sampit, PT",
+        "address": "Jl. Ketapang Hilir Sampit 74325 Central, Kotawaringin Timur, Kalimantan Tengah",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.09457,
+          -2.283448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sylva Sari, PT",
+        "address": "Jl. Nenas Iv No.45-a Rt.44/rw.08, Kel. Cempaka Mulia Timur, Kec. Campaga, Kotawaringin Timur, Kalimantan Tengah",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Alfha Moulding, Ud.",
+        "address": "Jl. D.i. Panjaitan No. 37 Rt.36, Samarinda, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.203765,
+          0.200764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Alhasanie, PT",
+        "address": "Jl. Wolter Monginsidi No.17 A Rt.07, Kutai Kertanegara, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "All Rig Lifting Indonesia, PT",
+        "address": "Jl. Mulawarman No 33, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.03,
+          -0.6
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Anugerah Bara Kaltim, PT",
+        "address": "Jl. Bakungan Rt.08, Bakungan, Loa Janan, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.203765,
+          0.200764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Arini, PT",
+        "address": "Jl. Propinsi No.27 Rt.14, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Arjuna, PT",
+        "address": "Jl. Arif Rahman Hakim No. 42 Rt. 02, Samarinda, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.166848,
+          -0.452644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Artha Pratama Jaya, PT",
+        "address": "Jl. Pm. Noor  Bumi Sempaja Blok Bg/58 Rt.46, Samarinda, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bakarizki Dinamika",
+        "address": "Jl. Kemangi, Komp.gtl. Blok Kkk No.07 Rt.016, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Balikpapan Jaya Utama, PT",
+        "address": "Jl. Mulawarman No.168 Rt.007, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.9064,
+          -1.2387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bara Jaya Utama, PT",
+        "address": "Jl. Marsma R Iswahyudi No. 65 Sepinggan, Balikpapan, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.12,
+          -0.49
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bara Kumala Sakti, PT",
+        "address": "Jl. Juanda I No.29 Rt.20, Komp Batu Alam Permai, Air Putih, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.203765,
+          0.200764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bara Rangga  Wirasmuda, PT",
+        "address": "Dusun Sari Mulya A Rt.20, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15,
+          -0.48
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Batuah Energi Prima, PT",
+        "address": "Jl. A Yani Cendrawasih Trade Center Blok A.3 Rt.18 Temindung Permai, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.01,
+          -0.47
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Belayan Internasional Coal, PT",
+        "address": "Jl. Dr. Fl. Thobing Rt.iii Desa Rempanga Kec. Loa Kulu Tenggarong, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.494499,
+          2.14809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Berau Bara Abadi, PT",
+        "address": "Jl. Durian Iii Komplek Berau Indah, Blok A2 No. 5, Berau, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.5,
+          2.15
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Berau Usaha Mandiri, PT",
+        "address": "Jl. Pembangunan No.184 Rt.008, Berau, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.99,
+          -0.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Beringin Jaya Abadi, PT",
+        "address": "Jl. Gunung Menyapa Rt. Xix, Timbau, Tenggarong, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bina Insan Sukses Mandiri, PT",
+        "address": "Jl. P Antasari No.23 Rt.09, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.11,
+          -0.5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bintang Walet, Ud.",
+        "address": "Jl. M Said Gg.3a No. 27 Rt. 010 Kel. Lok Bahu Kec. Sungai Kunjang, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.8641,
+          -1.2073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Borneo Pioneer, CV",
+        "address": "Jl. Aw Syahrani Nomor 006 Rt 001,batu Ampar,balikpapan Utara, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.8618,
+          -1.2587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bumi Artha Jaya, PT",
+        "address": "Perum Bukit Damai Indah Blok H-31 Jl. Mt. Haryono, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.13,
+          -0.49
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Energi Mandiri, PT",
+        "address": "Jl. Ir.h.juanda Gd.cahaya Tiara Lt.5, Air Hitam, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.08,
+          -0.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cahaya Samtraco Utama, PT",
+        "address": "Jl. Ekonomi Rt.13,loa Buah, Sungai Kunjang, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.861628,
+          -1.273943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Chevron Indonesia Company, PT",
+        "address": "Pasir Ridge Komplek, Po Box 276, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.861628,
+          -1.273943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Chevron Makasar, Ltd, PT",
+        "address": "Pasir Ridge Komplek, Po Box 276, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Citra Sip Indonesia",
+        "address": "Jl. Cemara Gang Swadaya No. 34 Rt. 035, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.8618,
+          -1.2587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Daisa Sagena, Ud.",
+        "address": "Jl. Komp.villa Damai Permai Blok-c1 Rt.088 No.03 Kel.sepinggan, Balikpapan, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.31667,
+          1.05
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dewa Ruci Mandiri, PT",
+        "address": "Jl. Ra. Kartini Rt. 11, Nunukan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dwijaya Prima Energi, PT",
+        "address": "Perum Puspita Bengkuring Blok Ap No. 18 Lignite, Whether Or Not Pulverised, But Not Agglom, Samarinda, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Fajar Sakti Prima",
+        "address": "Jl. Pupuk Raya Rt 044 No.55a, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.13,
+          -0.5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Fazar Utama, CV",
+        "address": "Jl. Siradj Salman Ruko Grand Mahakam D-03,telok Lerong Ilir, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.96,
+          -1.23
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Franklin Offshore Indonesia Perkasa, PT",
+        "address": "Jl. Mulawarman No. 48, Manggar,, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "G & J Jaya Utama, PT",
+        "address": "Jl. Mulawarman No.177 Rt.22, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.203765,
+          0.200764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Globalindo Inti Energi, PT",
+        "address": "Jl. Ir. Soekarno, No. 24 Rt.015, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Glominpro Indonesia, PT",
+        "address": "Jl. Kol. Syarifuddin Yoes Rt.75 No.04, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Gunung Kombeng, PT",
+        "address": "Jl. Yos Sudarso No.12 A Rt.iv,kel.pelabuhan, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.203765,
+          0.200764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Guruh Putera Bersama, PT",
+        "address": "Jl. Wolter Monginsidi N0.26 Rt.viii, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Hevilift Aviation Indonesia, PT",
+        "address": "Jl. Marsma R Iswahyudi, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.565564,
+          0.532294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Indonesia Plantation Synergy, PT",
+        "address": "Jl. Gardania Blok F No.150, Rt.004, Panorama,kutai Timur, Kutai Timur, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15,
+          -0.49
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Internasional Prima Coal, PT",
+        "address": "Jl. Danau Toba No.11a Rt.21 Sungai Pinang Luar, Samarinda Ilir, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.6507,
+          4.1384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jaya Lestari, Ud.",
+        "address": "Jl. Tien Soeharto Rt. 012 Kel. Nunukan Timur, Nunukan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.116116,
+          -0.523284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Jembayan Muarabara, PT",
+        "address": "Jl. Untung Surapati, Mahakam Square Blok B No. 17-19  Sungai Kunjang, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kalimantan Lestari Raharja, PT",
+        "address": "Jl. Jend. A. Yani No.40 Rt.03,, Balikpapan, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.86912,
+          -1.253334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kaltim Arwana Lestari, PT",
+        "address": "Jl. Mt. Haryono Komp. Bpp Baru Blok D4 No. 9-10 Kel. Damai, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kaltim Batumanunggal, PT",
+        "address": "Jl. Imam Bonjol No. 17b  Rt. 026, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.5,
+          2.15
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kaltim Jaya Bara, PT",
+        "address": "Jl. Pulau Manimbora No 88, Berau, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Karunia Prima Minerals, PT",
+        "address": "Jl.ahmad Yani No.2d Rt.18 Kel. Karang Asem Ulu, Samarinda, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.08,
+          -0.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kayu Lapis Asli Murni, PT",
+        "address": "Jl. Ekonomi Rt. 15 Desa Loa Buah, Samarinda, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.51575,
+          -0.59417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kedap Sayaaq",
+        "address": "Jl Ra Kartini Rt03,kutai Barat, Kutai Barat, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Khaleda Agroprima Malindo, PT",
+        "address": "Jl. Hasan Basri Gg.5 No.3, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.09,
+          -0.42
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Khotai Makmur Insan Abadi, PT",
+        "address": "Jl. Kauman Rt.02, Desa Bukit Raya, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.88,
+          -1.16
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Komatsu Remanufacturing Asia, PT",
+        "address": "Jl. Pulau Balang No. 99 Rt. 36 Kel. Karang Joang Kec. Balikpapan Utara, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.203765,
+          0.200764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Komunitas Bangun Bersama, PT",
+        "address": "Jl. Soekarno - Hatta Km. 24 Rt. 12, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.01,
+          -0.36
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Koperasi Serba Usaha Karya Desa, Ko.",
+        "address": "Desa Loa Ulung Rt.03, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.203765,
+          0.200764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Koperasi Serba Usaha Sipatuo Sipatokkong, Ko.",
+        "address": "Jl. Sukarno Hatta Km.28 No.rt.012, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Krida Makmur Bersama, PT",
+        "address": "Jl. Pahlawan No. 1 Rt 26, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.813,
+          -1.1569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kutai Chip Mill, PT",
+        "address": "Jl. Teluk Waru Rt. 09 Kel. Kariangau, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.116116,
+          -0.523284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kutai Energi, PT",
+        "address": "Jl.  Untung Suropati Komp. Mahakam Square C-20 Karang Asam Ulu, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.99,
+          -0.44
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kutai Kumala Energy, CV",
+        "address": "Jl. Arwana Blok F No.12b Rt.016 Timbau, Tenggarong, Kutai Kartanegara, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.149002,
+          -0.48291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lanna Harita Indonesia, PT",
+        "address": "Jl. Letjen S Parman Mall Lembuswana Blok C/20-21 Sidodadi Segiri, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.96,
+          -0.41
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lembu Swana Perkasa, PT",
+        "address": "Jl. Sangkulirang No. 85 Rt. 11 Maluhu Tenggarong, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Lianganggang Cemerlang",
+        "address": "Jl. Jend. Sudirman No.96 Rt.49, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.96,
+          -1.23
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Liebherr Indonesia Perkasa, PT",
+        "address": "Jl. Mulawarman Rt. 19 No. 17 Kel. Manggar, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.156637,
+          -0.504059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Makmur Abadi Permai, PT",
+        "address": "Jl. P Hidayatullah No 03 Karang Mumus, Samarinda, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.16,
+          -0.49
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mampala Jaya, PT",
+        "address": "Jl. Pelita Komp. Ruko Pesona Mahakam Blok. Rk12, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.867599,
+          -1.203298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mandala Bhakti, CV",
+        "address": "Komplek Bangun Reksa Blok B No. 15 Rt 036 B, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.5,
+          2.15
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mega Alam Sejahtera, PT",
+        "address": "Jl. Lingkungan Areal Pt Mega Alam Sejahtera Rt.18 Kampung Lamin, Berau, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Megumy Inti Anugerah",
+        "address": "Jl.komp. Taman Sari Bukit Mutiara Blok Rk/25,balikpapan, Balikpapan, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Muji Rahayu",
+        "address": "Jl. Rapak Indah 3 No.3 Rt.36, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mulia Jaya Mandiri, PT",
+        "address": "Jl. Sultan Hasanuddin No.22 Rt.048, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.116116,
+          -0.523284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Multi Harapan Utama, PT",
+        "address": "Ruko Mahakam Square Blok C22-23 No.75 Rt.25 Kr.asam, Sei Kunjang, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.837633,
+          -1.226197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Multindo Technology Utama, PT",
+        "address": "Jl. Imus Payau No. 45 Rt 035 Muara Rapak, Balikpapan, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mutiara Etam Coal, PT",
+        "address": "Jl. Di Panjaitan Ruko City View No.11, Samarinda, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.18,
+          -0.51
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Novi Priya Santosa",
+        "address": "Jl. Kampung Rambutan Rt.02, Nunukan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.837534,
+          -1.277968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nunukan Jaya Lestari, PT",
+        "address": "Jl. Gajah Mada Rt.10, Nunukan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Oceanias Timber Products, PT",
+        "address": "Jl. P.hidayatullah No.39, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Panca Sukses Graha Kaltim, CV",
+        "address": "Jl. Mayjen Sutoyo No. 7 Rt. 27, Samarinda, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Parts Sentra Indomandiri, PT",
+        "address": "Jl. Sultan Hasanuddin No. 18 Rt. 07, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Perdana Maju Utama, PT",
+        "address": "Komp. Tamansari Bukit Mutiara Blok Bk-1 No. 5 Rt. 11, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.96,
+          -1.23
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Prathonylia Nusa Prima, CV",
+        "address": "Komp. Perum Batakan Mas Blok. Dd No. 08 Rt. 27 Kel. Manggar Kec. Bppn Timur, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.4854,
+          0.1324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pupuk Kalimantan Timur, PT",
+        "address": "Jl. James Simanjuntak 1 Bontang Utara Komplek Pkt, Bontang, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.98,
+          -0.42
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Raja Kutai Baru Makmur, PT",
+        "address": "Jl. Stadion 101 Rt. 13 Loa Ipuh Tenggarong, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.12,
+          -0.49
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rimba Raya Lestari, PT",
+        "address": "Jl. P. Antasari No.45b, Air Putih, 75124, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.006893,
+          -0.435706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Rinjani Kartanegara, PT",
+        "address": "Jl. Gerbang Dayaku Rt.010, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sandvik Mining & Construction Indonesia, PT",
+        "address": "Jl. Mulawarman Rt. 23 No. 17, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Santan Batubara, PT",
+        "address": "Jl. Solong Kutai No. 22 Rt. 53 Sempaja Samarinda, Samarinda, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.82,
+          -0.21
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sarana Bina Semesta Alam, PT",
+        "address": "Desa Rantau Hempang Rt. 10 Dusun Tanjung Karas, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15180649999999,
+          -0.5025645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sarana Novita Pratama",
+        "address": "Komp. Sempaja Lestari Indah Blok Q No. 7a,samarinda, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Serba Usaha Gelinggang Mandiri, PT",
+        "address": "Jl. Kemuning Kamp. Gelinggang Rt.06, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Indo Energy",
+        "address": "Jl. Kh Abdul Mutholib Gg. Mawar No.36 Rt.09, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.99,
+          -0.42
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Kumala Naga, PT",
+        "address": "Jl. Danau Jempang  46 Rt 25 Kel. Melayu Tenggarong, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Spedco Kaltim, PT",
+        "address": "Jl. Jend. Sudirman Komp. Bpp Permai Blok. F-2-n, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.84412,
+          -1.270774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sukses Mandiri, CV",
+        "address": "Jl. Jend. Sudirman, Komp. Balikpapan Permai Blok F2/24, Kec. Balikpapan Selatan, Balikpapan, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.1,
+          -0.54
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumalindo Lestari Jaya, Tbk., PT",
+        "address": "Jl. Dr. Cipto Mangunkusumo, Rt.02 Kel. Sengkotek, Kec. Loa Janan Ilir, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.23,
+          -0.67
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sungai Berlian Bakti",
+        "address": "Jl. Padat Karya Rt.04 Kel.sanga-sanga Muara, Kec Sanga-sanga, Kutai Kartanegara, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.865107,
+          50.465145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Suriani",
+        "address": "Jl.cik Di Tiro Rt.018 Kel.nunukan Timur, Nunukan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.16927,
+          -0.50724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Surya Kaltim Perdana, PT",
+        "address": "Jl. Mulawarman Komp.griya Lestari Blok Ii/7, Samarinda Ilir, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.18,
+          -0.51
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Syam Surya Mandiri, PT",
+        "address": "Jl. Propinsi 1 Rt.04, Ds. Makroman, Kec. Sambutan, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.43333,
+          4.08333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tak Di Sangka",
+        "address": "Jl. Cut Nyak Dien Rt.005, Nunukan, Nunukan, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15,
+          -0.47
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tanito Harum, PT",
+        "address": "Jl. Batubara No.8 Rt.029, Sidodadi Segiri, Kec.samarinda Ulu, 75123, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Teknik Alum Service, PT",
+        "address": "Jl. Komp.balikpapan Baru Blok Ab-1 No.11, Kel.baru Tengah, Kec.balikpapan Barat, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tiga A, CV",
+        "address": "Jl. Abdi Praja Blok 1-a Rt.64, Balikpapan, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.84,
+          -1.27
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Trias Jaya Agung, PT",
+        "address": "Jl. Wonosari No. 40 Rt. 23 Kel. Gunungsari Ilir Kec. Balikpapan Tengah, Balikpapan, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.88,
+          -1.83
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tunas Muda Jaya, PT",
+        "address": "Jl. Negara Km 158 Rt. 001 Kel. Busui Kec. Batu Sopang, Paser, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15361,
+          -0.50222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Vpr Laxmindo, PT",
+        "address": "Jl. H.a.m.m Rifaddin Komplek Grand Taman Sari Blok, C5/3 Rt32, Samarinda, Kalimantan Timur",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.31667,
+          1.05
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wahyu Santoso",
+        "address": "Jl. Arif Rahman Hakim Rt.009 Kel.nunukan Timur Kec.nunukan, Nunukan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.90306,
+          -1.14889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wana Karya",
+        "address": "Jl. Mulawarman No. 155 Rt. 22, Balikpapan, Kalimantan Timur",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15,
+          -0.49
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Wirama Entiti Nusantara, PT",
+        "address": "Jl. Danau Tondano Rt.26,sungai Pinang Luar,samarinda 75117, Samarinda, Kalimantan Timur",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.54,
+          3.42
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Bonanza Pratama Abadi, PT",
+        "address": "Jl. Aji Iskandar Rt.12 Juata Laut, Tarakan, Kalimantan Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.58,
+          3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Cinta Madina, Ud.",
+        "address": "Jl. Selumit Pantai Rt. 17 Tarakan Tengah, Tarakan, Kalimantan Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63333,
+          3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Dachan Mustika Aurora",
+        "address": "Jalan Kepiting Rt.003,tarakan, Tarakan, Kalimantan Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.58,
+          3.31
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Damai Indah, Ud.",
+        "address": "Jl. Gajah Mada Rt.03 Kel.karang Anyar Pantai, Tarakan, Kalimantan Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63,
+          3.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Harapan Maju, Ud.",
+        "address": "Jl. Peningki Laid Mamburungan, Tarakan, Kalimantan Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.62,
+          3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Idec Abadi Wood Industries, PT",
+        "address": "Jl. Sei Sesayap Rt.008 Kampung Empat Pamusian Tarakan Timur 77124, Tarakan, Kalimantan Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.54,
+          3.38
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Intracawood Manufacturing, PT",
+        "address": "Jl. Aki Pingka No. 2 Rt. 02 Juata Permai Kec. Tarakan Utara, Tarakan, Kalimantan Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63333,
+          3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kayan Patria Pratama, PT",
+        "address": "Jl. Yos Sudarso Rt. 03-a No. 12, Tarakan, Kalimantan Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.579193,
+          3.303533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Kayan Putra Utama Coal, PT",
+        "address": "Jl. Yos Sudarso No. 1 Karang Rejo, Tarakan, Kalimantan Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63333,
+          3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Mustika Minanusa Aurora, PT",
+        "address": "Jl. Buntu Simpang Tiga Komp Perikanan Pantai, Tarakan Tarakan, Kalimantan Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63333,
+          3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Nelayan Barokah, PT",
+        "address": "Jl. Gajah Mada Rt.03 Kompleks Tpi, Tarakan, Kalimantan Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.588021,
+          3.300309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Pipit Mutiara Jaya, PT",
+        "address": "Jl. Yos Sudarso Kampung Pukat Selumit, Tarakan, Kalimantan Utara",
+        "mag": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.579193,
+          3.303533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sabindo Raya Gemilang, PT",
+        "address": "Jl.gajah Mada Rt15 Kel Karang Rejo Kec Tarakan Barat, Tarakan, Kalimantan Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.58,
+          3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Samudera Perikani, PT",
+        "address": "Jl. Yos Sudarso Rt.21 Selumit Pantai, Tarakan, Kalimantan Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.575728,
+          3.319789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sarana Energi Resources, PT",
+        "address": "Jl. Mulawarman Gang Rukun Rt.017, Tarakan, Kalimantan Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.58,
+          3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Semoga Jaya, CV",
+        "address": "Jl. Cendawan Gg. Bandeng Rt. 01 Kel. Selumit Pantai, Tarakan, Kalimantan Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63333,
+          3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sinar Surya, CV",
+        "address": "Jl. Gajah Mada Rt. 08. No. 08, Tarakan, Kalimantan Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63333,
+          3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sojitz Sabindo Aquaculture",
+        "address": "Jl. Gajah Mada Kompleks Tpi Rt. 15, Tarakan, Kalimantan Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63,
+          3.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Sumber Kalimantan Abadi, PT",
+        "address": "Jl. Pasar Beringin No.94-a, Kel. Mamburungan, Kec. Tarakan Timur, Tarakan, Kalimantan Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63333,
+          3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Toko Dina, Tk.",
+        "address": "Jl. Yos Sudarso, Rt. 5 Kel.sebengkok, Kec.tarakan, Tarakan, Kalimantan Utara",
+        "mag": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.59,
+          3.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Tri Mitra Makmur, PT",
+        "address": "Jl. Palem No.52 Rt.02/rw.03, Kel. Lingkas Ujung, Kec. Tarakan Timur, Tarakan, Kalimantan Utara",
+        "mag": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63333,
+          3.3
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "company": "Zami Jaya Pratama",
+        "address": "Jl. Yos Sudarso Rt.21 No.26,tarakan, Tarakan, Kalimantan Utara",
+        "mag": 1
+      },
+      "type": "Feature"
     }
   ]
 }
