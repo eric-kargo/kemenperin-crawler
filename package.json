@@ -7,7 +7,9 @@
     "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1",
 	"telpon": "node telponinfo.js",
-	"analytics": "node analytics.js"
+	"telpon2": "node telponinfo2.js",
+	"analytics": "node analytics.js",
+	"combine": "node combine.js"
   },
   "keywords": [],
   "author": "",
